@@ -1,0 +1,33 @@
+---
+title: "Impact Ranking Dec. 2019"
+## author: "Bastián González-Bustamante"
+affiliation: "University of Oxford"
+date: 2019-12-02
+## categories: ["R"]
+## tags: ["R Markdown", "plot", "regression"]
+---
+
+\
+
+```{r echo = FALSE}
+library(scholar)
+library(kableExtra)
+
+data <- read.csv("ranking_dec19.csv")
+names(data)[1] = "Ranking"
+
+kable(data) %>%
+  kable_styling(full_width = F, position = "left") %>%
+  footnote(general = "The affiliations have been standardised. Data collected on 2 December, 2019",
+           symbol = c("This ranking is hosted on the Bastián González-Bustamante [personal website](http://users.ox.ac.uk/~shil5311/) at the University of Oxford."))
+```
+
+\
+
+**Would you like to suggest someone?**
+
+Please send an email to bastian.gonzalezbustamante@politics.ox.ac.uk^[Researchers to be added: Arturo Arriagada (ID TzPYdWsAAAAJ) and Marcelo Mella Polanco (ID qdm2fHgAAAAJ). Last updated: 6 December, 2019.]
+
+**How to download and cite this dataset?**
+
+González-Bustamante, B. (2019). Chilean Political Science Impact Ranking Dataset. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
