@@ -1,5 +1,7 @@
 # CPS-Ranking
-http://users.ox.ac.uk/~shil5311/ranking/
+**Website: http://users.ox.ac.uk/~shil5311/ranking/**
+
+[![version](https://img.shields.io/badge/version-v1.3.2-blue.svg)](http://users.ox.ac.uk/~shil5311/ranking/changelog/) [![lastrelease](https://img.shields.io/badge/latest%20release-December%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) ![ranked](https://img.shields.io/badge/cases%20ranked-125-brightgreen.svg) ![nextrelease](https://img.shields.io/badge/next%20release-March%202020-red.svg) [![tbranked](https://img.shields.io/badge/to%20be%20ranked-13-yellow.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/#fn1) 
 
 This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
 
@@ -8,3 +10,5 @@ It has been elaborated according to the following sampling criteria. First of al
 The first measurement has been collected on 2 December 2019. The next one will be collected by March 2020. The dataset can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)). If you like to suggest someone, please send an email to bastian.gonzalezbustamante@politics.ox.ac.uk 
 
 I would like to thank [Alejandro Olivares](http://users.ox.ac.uk/~shil5311/authors/aolivares), [Carla Cisternas](http://users.ox.ac.uk/~shil5311/authors/ccisternas), and [Rodrigo Cuevas](http://users.ox.ac.uk/~shil5311/authors/rcuevas) for their valuable comments and contributions. 
+
+Last update: 14 January 2020.
