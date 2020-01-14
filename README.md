@@ -1,6 +1,6 @@
 # CPS-Ranking
 **Chilean Political Science Impact Ranking** \
-**Website: http://users.ox.ac.uk/~shil5311/ranking/**
+**http://users.ox.ac.uk/~shil5311/ranking/**
 
 [![version](https://img.shields.io/badge/version-v1.3.2-blue.svg)](http://users.ox.ac.uk/~shil5311/ranking/changelog/) [![lastrelease](https://img.shields.io/badge/latest%20release-December%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) ![ranked](https://img.shields.io/badge/cases%20ranked-125-brightgreen.svg) ![nextrelease](https://img.shields.io/badge/next%20release-March%202020-red.svg) [![tbranked](https://img.shields.io/badge/to%20be%20ranked-13-yellow.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/#fn1) 
 
