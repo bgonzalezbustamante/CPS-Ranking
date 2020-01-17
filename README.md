@@ -2,7 +2,7 @@
 **Chilean Political Science Impact Ranking** \
 **http://users.ox.ac.uk/~shil5311/ranking/**
 
-[![version](https://img.shields.io/badge/version-v1.3.2-blue.svg)](http://users.ox.ac.uk/~shil5311/ranking/changelog/) [![lastrelease](https://img.shields.io/badge/latest%20release-December%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) [![ranked](https://img.shields.io/badge/cases%20ranked-125-brightgreen.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) [![nextrelease](https://img.shields.io/badge/next%20release-March%202020-red.svg)](http://users.ox.ac.uk/~shil5311/ranking/changelog/) [![tbranked](https://img.shields.io/badge/to%20be%20ranked-13-yellow.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/#fn1) [![R](https://img.shields.io/badge/Made%20with-R%20v3.6.1-1f425f.svg)](https://cran.r-project.org/)
+[![version](https://img.shields.io/badge/version-v1.3.3-blue.svg)](http://users.ox.ac.uk/~shil5311/ranking/changelog/) [![lastrelease](https://img.shields.io/badge/latest%20release-December%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) [![ranked](https://img.shields.io/badge/cases%20ranked-125-brightgreen.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) [![nextrelease](https://img.shields.io/badge/next%20release-March%202020-red.svg)](http://users.ox.ac.uk/~shil5311/ranking/changelog/) [![tbranked](https://img.shields.io/badge/to%20be%20ranked-13-yellow.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/#fn1) [![R](https://img.shields.io/badge/Made%20with-R%20v3.6.1-1f425f.svg)](https://cran.r-project.org/)
 
 This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
 
@@ -12,4 +12,4 @@ The first measurement has been collected on 2 December 2019. The next one will b
 
 I would like to thank [Alejandro Olivares](http://users.ox.ac.uk/~shil5311/authors/aolivares), [Carla Cisternas](http://users.ox.ac.uk/~shil5311/authors/ccisternas), and [Rodrigo Cuevas](http://users.ox.ac.uk/~shil5311/authors/rcuevas) for their valuable comments and contributions. 
 
-Last updated: 14 January 2020.
+Last updated: 17 January 2020.
