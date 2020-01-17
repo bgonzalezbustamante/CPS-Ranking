@@ -20,9 +20,6 @@ All notable changes to this project will be documented in this section: <i class
 
 ## [Released]
 
-### [1.3.3] - 2020-01-17
-- <i class="fas fa-plus-circle"></i> License CC-BY Attribution 4.0 International at GitHub repository.
-
 ### [1.3.2] - 2020-01-14
 - <i class="fas fa-plus-circle"></i> Shields.io badges in SVG.
 - <i class="fas fa-exchange-alt"></i> Update of researchers to be added.
