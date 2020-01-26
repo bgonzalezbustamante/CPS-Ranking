@@ -4,6 +4,8 @@
 
 [![version](https://img.shields.io/badge/version-v1.3.4-blue.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/next-update/changelog.Rmd) [![lastrelease](https://img.shields.io/badge/latest%20release-December%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) [![ranked](https://img.shields.io/badge/cases%20ranked-125-brightgreen.svg)](http://users.ox.ac.uk/~shil5311/ranking/series/2019-12-02-impact-ranking/) [![nextrelease](https://img.shields.io/badge/next%20release-March%202020-red.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/next-update/changelog.Rmd) [![tbranked](https://img.shields.io/badge/to%20be%20ranked-14-yellow.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/next-update/to-be-ranked.md) [![R](https://img.shields.io/badge/Made%20with-R%20v3.6.1-1f425f.svg)](https://cran.r-project.org/)
 
+**Researchers to be added:**
+
 1. Marcelo Mella Polanco (ID qdm2fHgAAAAJ)
 2. Hary Hugo Fruhling (ID dJKWN8wAAAAJ)
 3. Arturo Arriagada (ID TzPYdWsAAAAJ)
