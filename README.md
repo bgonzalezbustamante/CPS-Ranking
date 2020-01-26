@@ -12,4 +12,4 @@ The first measurement has been collected on 2 December 2019. The next one will b
 
 I would like to thank [Alejandro Olivares](http://users.ox.ac.uk/~shil5311/authors/aolivares), [Carla Cisternas](http://users.ox.ac.uk/~shil5311/authors/ccisternas), and [Rodrigo Cuevas](http://users.ox.ac.uk/~shil5311/authors/rcuevas) for their valuable comments and contributions. 
 
-Last updated: 17 January 2020.
+Last updated: 26 January 2020.
