@@ -23,6 +23,7 @@ All notable changes to this project will be documented in this section: <i class
 - <i class="fas fa-plus-circle"></i> Updated version impact ranking.
 - <i class="fas fa-plus-circle"></i> Updated analysis career trajectories.
 - <i class="fas fa-plus-circle"></i> Updated co-author network analysis.
+- <i class="fas fa-plus-circle"></i> Validation code at GitHub repository.
 - <i class="fas fa-plus-circle"></i> Changelog in TXT format at GitHub repository.
 - <i class="fas fa-exchange-alt"></i> Updated of badges.
 
