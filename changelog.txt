@@ -52,7 +52,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Removed
 - Previous CPS-Ranking website.
 
-## [1.1.2] - 2020-01-20
+## [1.1.2] - 2020-01-02
 ### Added
 - Preparing integration between the CPS-Ranking website and personal site at the University of Oxford.
 ### Deprecated
