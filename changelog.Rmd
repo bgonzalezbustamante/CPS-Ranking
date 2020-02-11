@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this section: <i class
 
 ## [Unreleased]
 
-### [2.5.1] - 2020-06-05
+### [2.5.2] - 2020-06-05
 - <i class="fas fa-plus-circle"></i> Release dataset (DOI [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)).
 - <i class="fas fa-plus-circle"></i> Updated version impact ranking.
 - <i class="fas fa-plus-circle"></i> Updated analysis career trajectories.
@@ -19,12 +19,17 @@ All notable changes to this project will be documented in this section: <i class
 - <i class="fas fa-plus-circle"></i> Prediction of H-Index.
 - <i class="fas fa-exchange-alt"></i> Updated of badges.
 
-### [2.4.1] - 2020-03-05
+### [2.4.2] - 2020-03-05
 - <i class="fas fa-plus-circle"></i> Release dataset (DOI [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)).
 - <i class="fas fa-plus-circle"></i> Updated version impact ranking.
 - <i class="fas fa-plus-circle"></i> Updated analysis career trajectories.
 - <i class="fas fa-plus-circle"></i> Updated co-author network analysis.
 - <i class="fas fa-plus-circle"></i> Validation code at GitHub repository.
+- <i class="fas fa-exchange-alt"></i> Updated of badges.
+
+## [Released]
+
+### [2.3.2] - 2020-02-11
 - <i class="fas fa-exchange-alt"></i> Updated of badges.
 
 ### [2.3.1] - 2020-02-04
@@ -37,8 +42,6 @@ All notable changes to this project will be documented in this section: <i class
 
 ### [2.2.0] - 2020-01-17
 - <i class="fas fa-plus-circle"></i> License CC-BY Attribution 4.0 International at GitHub repository.
-
-## [Released]
 
 ### [2.1.0] - 2020-01-14
 - <i class="fas fa-plus-circle"></i> Shields.io badges in SVG.
