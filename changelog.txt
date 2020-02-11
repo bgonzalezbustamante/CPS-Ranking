@@ -1,0 +1,116 @@
+# Changelog
+All notable changes to "CPS-Ranking" will be documented in this file.
+
+## [Unreleased]
+
+## [2.5.1] - 2020-06-05
+- Release dataset (DOI 10.17605/OSF.IO/M3NZD).
+- Updated version impact ranking.
+- Updated analysis career trajectories.
+- Prediction of H-Index.
+### Changed
+- Update of badges.
+
+## [2.4.2] - 2020-03-05
+### Added
+- Release dataset (DOI 10.17605/OSF.IO/M3NZD).
+- Updated version impact ranking.
+- Updated analysis career trajectories.
+- Updated co-author network analysis.
+- Validation code at GitHub repository.
+### Changed
+- Update of badges.
+
+## [Released]
+
+## [2.3.2] 2020-02-11
+### Changed
+- Update of badges.
+
+## [2.3.1] 2020-02-04
+### Added
+- Changelog in TXT format at GitHub repository.
+### Changed
+- Revision of upgrade versioning.
+
+## [2.2.1] 2020-01-26
+## Changed
+- Update of badges at GitHub repository.
+- Update of researchers to be added.
+
+## [2.2.0] 2020-01-17
+### Added
+- License CC-BY Attribution 4.0 International at GitHub repository.
+
+## [2.1.0] - 2020-01-14
+### Added
+- Shields.io badges in SVG.
+### Changed
+- Update of researchers to be added.
+
+## [2.0.0] - 2020-01-05
+### Added
+- Integration between websites.
+### Changed
+- URL redirections.
+### Removed
+- Previous CPS-Ranking website.
+
+## [1.1.2] - 2020-01-02
+### Added
+- Preparing integration between the CPS-Ranking website and personal site at the University of Oxford.
+### Deprecated
+- CPS-Ranking website.
+
+## [1.0.2] - 2020-01-01
+### Changed
+- Minor typesetting corrections.
+
+## [1.0.1] - 2019-12-23
+### Changed
+- Update of researchers to be added.
+
+## [1.0.0] - 2019-12-16
+### Added
+- Upload CPS-Ranking website.
+### Changed
+- URL redirections.
+### Removed
+- R Markdown HTML presentations.
+
+## [0.4.2] - 2019-12-10
+### Changed
+- Update of researchers to be added.
+
+## [0.4.1] - 2019-12-05
+### Added
+- Model of CPS-Ranking website powered by R and the package blogdown.
+### Deprecated
+- R Markdown HTML presentations.
+
+## [0.3.1] - 2019-12-04
+### Changed
+- Adjust co-author network algorithm.
+- Automation of analysis code.
+
+## [0.3.0] - 2019-12-03
+### Added
+- Release dataset (DOI 10.17605/OSF.IO/M3NZD).
+- Analysis of career trajectories.
+- Co-author network analysis.
+
+## [0.2.0] - 2019-12-02
+### Added
+- OSF project (DOI: 10.17605/OSF.IO/C8PRA).
+- OSF data component (DOI: 10.17605/OSF.IO/M3NZD).
+- Scraper code.
+- Scrape Google Scholar data.
+- Impact ranking.
+- R Markdown HTML presentations.
+- Researchers to be added.
+### Fixed
+- Tie in H-Index.
+
+## [0.1.0] - 2019-12-01
+### Added
+- Sampling procedure.
