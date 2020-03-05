@@ -7,9 +7,12 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Release dataset (DOI 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
+- Validation code at GitHub repository.
 - Prediction of H-Index.
 ### Changed
 - Update of badges.
+
+## [Released]
 
 ## [2.4.2] - 2020-03-05
 ### Added
@@ -17,11 +20,8 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
-- Validation code at GitHub repository.
 ### Changed
 - Update of badges.
-
-## [Released]
 
 ## [2.3.2] 2020-02-11
 ### Changed
