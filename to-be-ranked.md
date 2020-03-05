@@ -7,5 +7,6 @@
 **Researchers to be added:**
 
 1. Andrés Dockendorff (ID fJbvIm4AAAAJ)
+2. Hector Bahamonde (ID 3FHDoL0AAAAJ)
 
 Last updated: 5 March 2020.
