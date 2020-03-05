@@ -123,7 +123,7 @@ IqYAAAAJ <- get_profile('21Iq__YAAAAJ') ## Violeta Montero
 ihALyKUAAAAJ <- get_profile('ihALyKUAAAAJ') ## Waleska Muñoz Aravena
 JxOP4oAAAAJ <- get_profile('JxOP4-oAAAAJ')  ## William Porath
 
-## Additional (December 2019)
+## Additional Sample (December 2019)
 IYungBYAAAAJ <- get_profile('IYungBYAAAAJ') ## Giancarlo Visconti
 AP5zUGwAAAAJ <- get_profile('AP5zUGwAAAAJ') ## Gabriel L. Negretto
 ws3YSrkAAAAJ <- get_profile('ws3YSrkAAAAJ') ## Ignacio Arana Araya
@@ -135,7 +135,7 @@ O7DOqCcAAAAJ <- get_profile('O7DOqCcAAAAJ') ## Victor Tricot Salomon
 KZhWCqgAAAAJ <- get_profile('KZhWCqgAAAAJ') ## Adrian Albala
 rIbm6tMAAAAJ <- get_profile('rIbm6tMAAAAJ') ## Miguel Angel Lopez
 
-## Researchers to be added next round (March 2020)
+## Sample Next Round (March 2020)
 ## TzPYdWsAAAAJ <- get_profile('TzPYdWsAAAAJ') ## Arturo Arriagada
 
 ## Excluded (December 2019)
@@ -278,115 +278,115 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         mQwDWagAAAAJ$id, ## Andrés Stark Azócar
         UYqfqAAAAAJ$id, ## Anthony A. Pezzola
         Y4q4OfoAAAAJ$id, ## Antoine Maillet
-          CDjgEGIAAAAJ$id, ## Antonio Bascuñán
-          UknWOrEAAAAJ$id, ## Bastián González-Bustamante
-          UALXeUMAAAAJ$id, ## Bernardo Mackenna
-          IOab2sQAAAAJ$id, ## Camilo Vial
-          Kq4dWnoAAAAJ$id, ## Carlos Huneeus
-          ApRJQVkAAAAJ$id, ## Carolina Segovia
-          FfBVmgkAAAAJ$id, ## Carsten-Andreas Schulz
-          WfwsloAAAAJ$id, ## Catherine Reyes-Housholder
-          Y9qxhQ8AAAAJ$id, ## Cecilia Osorio Gonnet
-          ZJSbAAAAAJ$id, ## Cesar Ross
-          hEwq8AAAAJ$id, ## Christopher Martínez
-          nj4yvK0AAAAJ$id, ## Claudia Heiss
-          ckIjzZQAAAAJ$id, ## Claudio Fuentes
-          vLROxScAAAAJ$id, ## Claudio Fuentes-González
-          QQq0cAAAAJ$id, ## Cristian Garay Vera
-          MKayIWEAAAAJ$id, ## Cristian Pérez Muñoz
-          HVy8iAAAAAJ$id, ## Cristian Pliscoff
-          MwnsXycAAAAJ$id, ## Cristina Moyano Barahona
-          L8S57cAAAAJ$id, ## Cristóbal Bellolio
-          iRjwbMAAAAJ$id, ## Cristóbal Rovira
-          aw7lNr4AAAAJ$id, ## Cristóbal Sandoval
-          s112cUYAAAAJ$id, ## Daniel Brieba
-          VQKPXBMAAAAJ$id, ## Daniel Flores Cáceres
-          B7eJM_0AAAAJ$id, ## Daniel Santibañez
-          xWbhhH8AAAAJ$id, ## David Altman
-          MWiRrUAAAAJ$id, ## Diego Rossello
-          NcxMjkAAAAAJ$id, ## Egon Montecinos
-          bSlkAAAAJ$id, ## Ely Orrego
-          dQZFoWYAAAAJ$id, ## Esteban Valenzuela
-          kHIa5vwAAAAJ$id, ## Eugenio Guzmán
-          zAw8CDAAAAAJ$id, ## Evelyn Arriagada
-          YAryivQAAAAJ$id, ## Felipe Schwember
-          InrV7oEAAAAJ$id, ## Fernando Atria
-          HaX6qs4AAAAJ$id, ## Fernando Rosenblatt
-          wXHJZ4oAAAAJ$id, ## Fernando Schmidt
-          BB7GS4AAAAJ$id, ## Francisca Lisbona
-          eubXaYAAAAJ$id, ## Francisco Urdinez
-          zWIsBT8AAAAJ$id, ## Germán Campos-Herrera
-          cEbNnwAAAAJ$id, ## Gonzalo Espinoza Bianchini
-          JmWI5MAAAAJ$id, ## Hugo Jofré
-          rPfIQYAAAAJ$id, ## Ines Picazo Verdejo
-          i6XB6MAAAAJ$id, ## Isaac Caro
-          QeDE2BwAAAAJ$id, ## Jaime Contreras Alvarez
-          r0EzJIAAAAJ$id, ## Javier Couso
-          mHLvikAAAAJ$id, ## Jeanne W. Simon
-          VM3OxhsAAAAJ$id, ## Jorge Fabrega
-          Q8J28ZcAAAAJ$id, ## Jose de la Cruz Garrido
-          tBxjDkcAAAAJ$id, ## José Hernández-Bonivento
-          wsdmHJ0AAAAJ$id, ## Juan Carlos Arellano
-          eDBbeDcAAAAJ$id, ## Juan Pablo Araya
-          dJMnKfcAAAAJ$id, ## Juan Pablo Couyoumdjian
-          IgwSc8oAAAAJ$id, ## Juan Pablo Luna
-          i2JJrfYAAAAJ$id, ## Julieta Suarez-Cao
-          grB28SkAAAAJ$id, ## Karen Manzano
-          vOiOsAAAAJ$id, ## Katherine Figueroa Aillañir
-          kFHaW6wAAAAJ$id, ## Kenneth Bunker
-          qFLejd0AAAAJ$id, ## Kirsten Sehnbruch
-          otugCsoAAAAJ$id, ## Laura Levick
-          f9up4NwAAAAJ$id, ## Lisa Zanotti
-          kiG1xgAAAAJ$id, ## Lorena Oyarzún Serrano
-          iIDHIHkAAAAJ$id, ## Loreto Correa
-          Kh9TTGwAAAAJ$id, ## Lucia Dammert
-          jETtdIAAAAJ$id, ## Luis Clavería Cambón
-          kj503iEAAAAJ$id, ## Marcelo Marzouka
-          YDPznzAAAAAJ$id, ## María Gabriela Cordova
-          pr35r24AAAAJ$id, ## Mariol Virgili Lillo
-          oYjLYEAAAAJ$id, ## Matias Bargsted
-          HA56QUAAAAJ$id, ## Matthias Erlandsen
-          qKDaZAMAAAAJ$id, ## Mauricio Apablaza
-          BPVbhToAAAAJ$id, ## Mauricio Morales Quiroga
-          yXeMPpEAAAAJ$id, ## Mauricio Olavarría-Gambi
-          Iz7nUN8AAAAJ$id, ## Máximo Quitral
-          OLDMbVAAAAAJ$id, ## Mireya Dávila
-          PtAYAAAAJ$id, ## Nicolás Del Valle
-          yyr6ge0AAAAJ$id, ## Nicolás M. Somma
-          EQrjT5sAAAAJ$id, ## Nicole Darat
-          KEBgAAAAJ$id, ## Nicole Jenne
-          JRlbehsAAAAJ$id, ## Octavio Avendaño
-          aEt164AAAAJ$id, ## Olga Espinoza
-          cyKIMlUAAAAJ$id, ## Pablo Valenzuela
-          IBcsZwAAAAJ$id, ## Patricio Navia
-          RqH9nVAAAAAJ$id, ## Patricio Valdivieso
-          HGTSACIAAAAJ$id, ## Peter Siavelis
-          CdsiN9QAAAAJ$id, ## Pierre Ostiguy
-          oeRXDWkAAAAJ$id, ## Rene Jara
-          nOBjxWUAAAAJ$id, ## Ricardo Gamboa
-          mAm1D8AAAAJ$id, ## Robert L. Funk
-          rIqsAAAAJ$id, ## Roberto Mardones
-          xFcbnmMAAAAJ$id, ## Rodolfo Disi Pavlic
-          MVRwJT0AAAAJ$id, ## Rodrigo Cuevas
-          nYgItkMAAAAJ$id, ## Rodrigo Medel
-          zePLgAAAAJ$id, ## Rodrigo Osorio
-          gkHNPiwAAAAJ$id, ## Rossana Castiglioni
-          R84mfaoAAAAJ$id, ## Sandra Baquedano
-          CrQouUsAAAAJ$id, ## Sebastián Carrasco
-          aQaYIAAAAJ$id, ## Sebastián Umpierrez
-          F7Dguu4AAAAJ$id, ## Sergio Toro Maureira
-          MsPC8uwAAAAJ$id, ## Shirley Gotz
-          MR9YwQkAAAAJ$id, ## Sofia Donoso
-          HcNzaN4AAAAJ$id, ## Stéphanie Alenda
-          ZOmEt88AAAAJ$id, ## Susana Gazmuri
-          XrCQYoAAAAJ$id, ## Tomas Dosek
-          NvlbMocAAAAJ$id, ## Umut Aydin
-          lzMBqcAAAAJ$id, ## Valeria Palanza
-          lA1piEAAAAJ$id, ## Veronica Figueroa Huencho
-          VqjxJ4gAAAAJ$id, ## Vesna Mandakovic
-          IqYAAAAJ$id, ## Violeta Montero
-          ihALyKUAAAAJ$id, ## Waleska Muñoz Aravena
-          JxOP4oAAAAJ$id, ## William Porath
+        CDjgEGIAAAAJ$id, ## Antonio Bascuñán
+        UknWOrEAAAAJ$id, ## Bastián González-Bustamante
+        UALXeUMAAAAJ$id, ## Bernardo Mackenna
+        IOab2sQAAAAJ$id, ## Camilo Vial
+        Kq4dWnoAAAAJ$id, ## Carlos Huneeus
+        ApRJQVkAAAAJ$id, ## Carolina Segovia
+        FfBVmgkAAAAJ$id, ## Carsten-Andreas Schulz
+        WfwsloAAAAJ$id, ## Catherine Reyes-Housholder
+        Y9qxhQ8AAAAJ$id, ## Cecilia Osorio Gonnet
+        ZJSbAAAAAJ$id, ## Cesar Ross
+        hEwq8AAAAJ$id, ## Christopher Martínez
+        nj4yvK0AAAAJ$id, ## Claudia Heiss
+        ckIjzZQAAAAJ$id, ## Claudio Fuentes
+        vLROxScAAAAJ$id, ## Claudio Fuentes-González
+        QQq0cAAAAJ$id, ## Cristian Garay Vera
+        MKayIWEAAAAJ$id, ## Cristian Pérez Muñoz
+        HVy8iAAAAAJ$id, ## Cristian Pliscoff
+        MwnsXycAAAAJ$id, ## Cristina Moyano Barahona
+        L8S57cAAAAJ$id, ## Cristóbal Bellolio
+        iRjwbMAAAAJ$id, ## Cristóbal Rovira
+        aw7lNr4AAAAJ$id, ## Cristóbal Sandoval
+        s112cUYAAAAJ$id, ## Daniel Brieba
+        VQKPXBMAAAAJ$id, ## Daniel Flores Cáceres
+        B7eJM_0AAAAJ$id, ## Daniel Santibañez
+        xWbhhH8AAAAJ$id, ## David Altman
+        MWiRrUAAAAJ$id, ## Diego Rossello
+        NcxMjkAAAAAJ$id, ## Egon Montecinos
+        bSlkAAAAJ$id, ## Ely Orrego
+        dQZFoWYAAAAJ$id, ## Esteban Valenzuela
+        kHIa5vwAAAAJ$id, ## Eugenio Guzmán
+        zAw8CDAAAAAJ$id, ## Evelyn Arriagada
+        YAryivQAAAAJ$id, ## Felipe Schwember
+        InrV7oEAAAAJ$id, ## Fernando Atria
+        HaX6qs4AAAAJ$id, ## Fernando Rosenblatt
+        wXHJZ4oAAAAJ$id, ## Fernando Schmidt
+        BB7GS4AAAAJ$id, ## Francisca Lisbona
+        eubXaYAAAAJ$id, ## Francisco Urdinez
+        zWIsBT8AAAAJ$id, ## Germán Campos-Herrera
+        cEbNnwAAAAJ$id, ## Gonzalo Espinoza Bianchini
+        JmWI5MAAAAJ$id, ## Hugo Jofré
+        rPfIQYAAAAJ$id, ## Ines Picazo Verdejo
+        i6XB6MAAAAJ$id, ## Isaac Caro
+        QeDE2BwAAAAJ$id, ## Jaime Contreras Alvarez
+        r0EzJIAAAAJ$id, ## Javier Couso
+        mHLvikAAAAJ$id, ## Jeanne W. Simon
+        VM3OxhsAAAAJ$id, ## Jorge Fabrega
+        Q8J28ZcAAAAJ$id, ## Jose de la Cruz Garrido
+        tBxjDkcAAAAJ$id, ## José Hernández-Bonivento
+        wsdmHJ0AAAAJ$id, ## Juan Carlos Arellano
+        eDBbeDcAAAAJ$id, ## Juan Pablo Araya
+        dJMnKfcAAAAJ$id, ## Juan Pablo Couyoumdjian
+        IgwSc8oAAAAJ$id, ## Juan Pablo Luna
+        i2JJrfYAAAAJ$id, ## Julieta Suarez-Cao
+        grB28SkAAAAJ$id, ## Karen Manzano
+        vOiOsAAAAJ$id, ## Katherine Figueroa Aillañir
+        kFHaW6wAAAAJ$id, ## Kenneth Bunker
+        qFLejd0AAAAJ$id, ## Kirsten Sehnbruch
+        otugCsoAAAAJ$id, ## Laura Levick
+        f9up4NwAAAAJ$id, ## Lisa Zanotti
+        kiG1xgAAAAJ$id, ## Lorena Oyarzún Serrano
+        iIDHIHkAAAAJ$id, ## Loreto Correa
+        Kh9TTGwAAAAJ$id, ## Lucia Dammert
+        jETtdIAAAAJ$id, ## Luis Clavería Cambón
+        kj503iEAAAAJ$id, ## Marcelo Marzouka
+        YDPznzAAAAAJ$id, ## María Gabriela Cordova
+        pr35r24AAAAJ$id, ## Mariol Virgili Lillo
+        oYjLYEAAAAJ$id, ## Matias Bargsted
+        HA56QUAAAAJ$id, ## Matthias Erlandsen
+        qKDaZAMAAAAJ$id, ## Mauricio Apablaza
+        BPVbhToAAAAJ$id, ## Mauricio Morales Quiroga
+        yXeMPpEAAAAJ$id, ## Mauricio Olavarría-Gambi
+        Iz7nUN8AAAAJ$id, ## Máximo Quitral
+        OLDMbVAAAAAJ$id, ## Mireya Dávila
+        PtAYAAAAJ$id, ## Nicolás Del Valle
+        yyr6ge0AAAAJ$id, ## Nicolás M. Somma
+        EQrjT5sAAAAJ$id, ## Nicole Darat
+        KEBgAAAAJ$id, ## Nicole Jenne
+        JRlbehsAAAAJ$id, ## Octavio Avendaño
+        aEt164AAAAJ$id, ## Olga Espinoza
+        cyKIMlUAAAAJ$id, ## Pablo Valenzuela
+        IBcsZwAAAAJ$id, ## Patricio Navia
+        RqH9nVAAAAAJ$id, ## Patricio Valdivieso
+        HGTSACIAAAAJ$id, ## Peter Siavelis
+        CdsiN9QAAAAJ$id, ## Pierre Ostiguy
+        oeRXDWkAAAAJ$id, ## Rene Jara
+        nOBjxWUAAAAJ$id, ## Ricardo Gamboa
+        mAm1D8AAAAJ$id, ## Robert L. Funk
+        rIqsAAAAJ$id, ## Roberto Mardones
+        xFcbnmMAAAAJ$id, ## Rodolfo Disi Pavlic
+        MVRwJT0AAAAJ$id, ## Rodrigo Cuevas
+        nYgItkMAAAAJ$id, ## Rodrigo Medel
+        zePLgAAAAJ$id, ## Rodrigo Osorio
+        gkHNPiwAAAAJ$id, ## Rossana Castiglioni
+        R84mfaoAAAAJ$id, ## Sandra Baquedano
+        CrQouUsAAAAJ$id, ## Sebastián Carrasco
+        aQaYIAAAAJ$id, ## Sebastián Umpierrez
+        F7Dguu4AAAAJ$id, ## Sergio Toro Maureira
+        MsPC8uwAAAAJ$id, ## Shirley Gotz
+        MR9YwQkAAAAJ$id, ## Sofia Donoso
+        HcNzaN4AAAAJ$id, ## Stéphanie Alenda
+        ZOmEt88AAAAJ$id, ## Susana Gazmuri
+        XrCQYoAAAAJ$id, ## Tomas Dosek
+        NvlbMocAAAAJ$id, ## Umut Aydin
+        lzMBqcAAAAJ$id, ## Valeria Palanza
+        lA1piEAAAAJ$id, ## Veronica Figueroa Huencho
+        VqjxJ4gAAAAJ$id, ## Vesna Mandakovic
+        IqYAAAAJ$id, ## Violeta Montero
+        ihALyKUAAAAJ$id, ## Waleska Muñoz Aravena
+        JxOP4oAAAAJ$id, ## William Porath
         IYungBYAAAAJ$id, ## Giancarlo Visconti
         AP5zUGwAAAAJ$id, ## Gabriel L. Negretto
         ws3YSrkAAAAJ$id, ## Ignacio Arana Araya
