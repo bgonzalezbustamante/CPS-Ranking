@@ -920,4 +920,4 @@ data <- data[order(-data$H_Index, -data$Cites), ]
 rownames(data) <- NULL
 
 ## Export CSV
-write.csv(data,'ranking_dec19.csv')
+write.csv(data,'20191202_ranking.csv')
