@@ -3,7 +3,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.6.2] - 2020-09-05
+## [2.6.3] - 2020-09-05
 - Release of dataset (DOI 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
@@ -12,7 +12,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [2.5.2] - 2020-06-05
+## [2.5.3] - 2020-06-05
 - Release of dataset (DOI 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
@@ -20,6 +20,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Prediction of H-Index.
 ### Changed
 - Update of badges.
+
+## [2.4.3] - 2020-03-05
+### Changed
+- Update of researchers to be added.
 
 ## [Released]
 
