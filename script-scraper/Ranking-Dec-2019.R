@@ -1,20 +1,20 @@
-## Ranking December
-## Basti·n Gonz·lez-Bustamante
+## CPS-Ranking December 2019
+## Basti√°n Gonz√°lez-Bustamante
 ## bastian.gonzalezbustamante@politics.ox.ac.uk
 ## http://users.ox.ac.uk/~shil5311/
 
 library(scholar)
 ## library(kableExtra)
 
-## Initial Sample
+## Initial Sample (December 2019)
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
 KiGpYt4AAAAJ <- get_profile('KiGpYt4AAAAJ') ## Alejandro Corvalan
 C6i7344AAAAJ <- get_profile('C6i7344AAAAJ') ## Alfredo Joignant
-mQwDWagAAAAJ <- get_profile('mQwDWagAAAAJ') ## AndrÈs Stark AzÛcar
+mQwDWagAAAAJ <- get_profile('mQwDWagAAAAJ') ## Andr√©s Stark Az√≥car
 UYqfqAAAAAJ <- get_profile('U_YqfqAAAAAJ') ## Anthony A. Pezzola
 Y4q4OfoAAAAJ <- get_profile('Y4q4OfoAAAAJ') ## Antoine Maillet
-CDjgEGIAAAAJ <- get_profile('CDjgEGIAAAAJ') ## Antonio BascuÒ·n
-UknWOrEAAAAJ <- get_profile('UknWOrEAAAAJ') ## Basti·n Gonz·lez-Bustamante
+CDjgEGIAAAAJ <- get_profile('CDjgEGIAAAAJ') ## Antonio Bascu√±√°n
+UknWOrEAAAAJ <- get_profile('UknWOrEAAAAJ') ## Basti√°n Gonz√°lez-Bustamante
 UALXeUMAAAAJ <- get_profile('UALXeUMAAAAJ') ## Bernardo Mackenna
 IOab2sQAAAAJ <- get_profile('IOab2sQAAAAJ') ## Camilo Vial
 Kq4dWnoAAAAJ <- get_profile('Kq4dWnoAAAAJ') ## Carlos Huneeus
@@ -23,26 +23,26 @@ FfBVmgkAAAAJ <- get_profile('FfBVmgkAAAAJ') ## Carsten-Andreas Schulz
 WfwsloAAAAJ <- get_profile('8WfwsloAAAAJ') ## Catherine Reyes-Housholder
 Y9qxhQ8AAAAJ <- get_profile('Y9qxhQ8AAAAJ') ## Cecilia Osorio Gonnet
 ZJSbAAAAAJ <- get_profile('26ZJSbAAAAAJ') ## Cesar Ross
-hEwq8AAAAJ <- get_profile('37hEwq8AAAAJ') ## Christopher MartÌnez
+hEwq8AAAAJ <- get_profile('37hEwq8AAAAJ') ## Christopher Mart√≠nez
 nj4yvK0AAAAJ <- get_profile('nj4yvK0AAAAJ') ## Claudia Heiss
 ckIjzZQAAAAJ <- get_profile('ckIjzZQAAAAJ') ## Claudio Fuentes
-vLROxScAAAAJ <- get_profile('vLROxScAAAAJ') ## Claudio Fuentes-Gonz·lez
+vLROxScAAAAJ <- get_profile('vLROxScAAAAJ') ## Claudio Fuentes-Gonz√°lez
 QQq0cAAAAJ <- get_profile('14QQq0cAAAAJ') ## Cristian Garay Vera
-MKayIWEAAAAJ <- get_profile('MKayIWEAAAAJ') ## Cristian PÈrez MuÒoz
+MKayIWEAAAAJ <- get_profile('MKayIWEAAAAJ') ## Cristian P√©rez Mu√±oz
 HVy8iAAAAAJ <- get_profile('7HVy8iAAAAAJ') ## Cristian Pliscoff
 MwnsXycAAAAJ <- get_profile('MwnsXycAAAAJ') ## Cristina Moyano Barahona
-L8S57cAAAAJ <- get_profile('8L8S57cAAAAJ') ## CristÛbal Bellolio
-iRjwbMAAAAJ <- get_profile('4iRjwbMAAAAJ') ## CristÛbal Rovira
-aw7lNr4AAAAJ <- get_profile('aw7lNr4AAAAJ') ## CristÛbal Sandoval
+L8S57cAAAAJ <- get_profile('8L8S57cAAAAJ') ## Crist√≥bal Bellolio
+iRjwbMAAAAJ <- get_profile('4iRjwbMAAAAJ') ## Crist√≥bal Rovira
+aw7lNr4AAAAJ <- get_profile('aw7lNr4AAAAJ') ## Crist√≥bal Sandoval
 s112cUYAAAAJ <- get_profile('s112cUYAAAAJ') ## Daniel Brieba
-VQKPXBMAAAAJ <- get_profile('VQKPXBMAAAAJ') ## Daniel Flores C·ceres
-B7eJM_0AAAAJ <- get_profile('B7eJM_0AAAAJ') ## Daniel Santib·Òez
+VQKPXBMAAAAJ <- get_profile('VQKPXBMAAAAJ') ## Daniel Flores C√°ceres
+B7eJM_0AAAAJ <- get_profile('B7eJM_0AAAAJ') ## Daniel Santiba√±ez
 xWbhhH8AAAAJ <- get_profile('xWbhhH8AAAAJ') ## David Altman
 MWiRrUAAAAJ <- get_profile('-MWiRrUAAAAJ') ## Diego Rossello
 NcxMjkAAAAAJ <- get_profile('NcxMjkAAAAAJ') ## Egon Montecinos
 bSlkAAAAJ <- get_profile('89bS-lkAAAAJ') ## Ely Orrego
 dQZFoWYAAAAJ <- get_profile('dQZFoWYAAAAJ') ## Esteban Valenzuela
-kHIa5vwAAAAJ <- get_profile('kHIa5vwAAAAJ') ## Eugenio Guzm·n
+kHIa5vwAAAAJ <- get_profile('kHIa5vwAAAAJ') ## Eugenio Guzm√°n
 zAw8CDAAAAAJ <- get_profile('zAw8CDAAAAAJ') ## Evelyn Arriagada
 YAryivQAAAAJ <- get_profile('YAryivQAAAAJ') ## Felipe Schwember
 InrV7oEAAAAJ <- get_profile('InrV7oEAAAAJ') ## Fernando Atria
@@ -50,9 +50,9 @@ HaX6qs4AAAAJ <- get_profile('HaX6qs4AAAAJ') ## Fernando Rosenblatt
 wXHJZ4oAAAAJ <- get_profile('wXHJZ4oAAAAJ') ## Fernando Schmidt
 BB7GS4AAAAJ <- get_profile('8BB7GS4AAAAJ') ## Francisca Lisbona
 eubXaYAAAAJ <- get_profile('eubX-aYAAAAJ') ## Francisco Urdinez
-zWIsBT8AAAAJ <- get_profile('zWIsBT8AAAAJ') ## Germ·n Campos-Herrera
+zWIsBT8AAAAJ <- get_profile('zWIsBT8AAAAJ') ## Germ√°n Campos-Herrera
 cEbNnwAAAAJ <- get_profile('0cEbNnwAAAAJ') ## Gonzalo Espinoza Bianchini
-JmWI5MAAAAJ <- get_profile('9JmWI5MAAAAJ') ## Hugo JofrÈ
+JmWI5MAAAAJ <- get_profile('9JmWI5MAAAAJ') ## Hugo Jofr√©
 rPfIQYAAAAJ <- get_profile('8rPfIQYAAAAJ') ## Ines Picazo Verdejo
 i6XB6MAAAAJ <- get_profile('0i6XB6MAAAAJ') ## Isaac Caro
 QeDE2BwAAAAJ <- get_profile('QeDE2BwAAAAJ') ## Jaime Contreras Alvarez
@@ -60,37 +60,37 @@ r0EzJIAAAAJ <- get_profile('r0EzJ_IAAAAJ') ## Javier Couso
 mHLvikAAAAJ <- get_profile('_mHLvikAAAAJ') ## Jeanne W. Simon
 VM3OxhsAAAAJ <- get_profile('VM3OxhsAAAAJ') ## Jorge Fabrega
 Q8J28ZcAAAAJ <- get_profile('Q8J28ZcAAAAJ') ## Jose de la Cruz Garrido
-tBxjDkcAAAAJ <- get_profile('tBxjDkcAAAAJ') ## JosÈ Hern·ndez-Bonivento
+tBxjDkcAAAAJ <- get_profile('tBxjDkcAAAAJ') ## Jos√© Hern√°ndez-Bonivento
 wsdmHJ0AAAAJ <- get_profile('wsdmHJ0AAAAJ') ## Juan Carlos Arellano
 eDBbeDcAAAAJ <- get_profile('eDBbeDcAAAAJ') ## Juan Pablo Araya
 dJMnKfcAAAAJ <- get_profile('dJMnKfcAAAAJ') ## Juan Pablo Couyoumdjian
 IgwSc8oAAAAJ <- get_profile('IgwSc8oAAAAJ') ## Juan Pablo Luna
 i2JJrfYAAAAJ <- get_profile('i2JJrfYAAAAJ') ## Julieta Suarez-Cao
 grB28SkAAAAJ <- get_profile('grB28SkAAAAJ') ## Karen Manzano
-vOiOsAAAAJ <- get_profile('1vOi_OsAAAAJ') ## Katherine Figueroa AillaÒir
+vOiOsAAAAJ <- get_profile('1vOi_OsAAAAJ') ## Katherine Figueroa Ailla√±ir
 kFHaW6wAAAAJ <- get_profile('kFHaW6wAAAAJ') ## Kenneth Bunker
 qFLejd0AAAAJ <- get_profile('qFLejd0AAAAJ') ## Kirsten Sehnbruch
 otugCsoAAAAJ <- get_profile('otugCsoAAAAJ') ## Laura Levick
 f9up4NwAAAAJ <- get_profile('f9up4NwAAAAJ') ## Lisa Zanotti
-kiG1xgAAAAJ <- get_profile('5kiG1xgAAAAJ') ## Lorena Oyarz˙n Serrano
+kiG1xgAAAAJ <- get_profile('5kiG1xgAAAAJ') ## Lorena Oyarz√∫n Serrano
 iIDHIHkAAAAJ <- get_profile('iIDHIHkAAAAJ') ## Loreto Correa
 Kh9TTGwAAAAJ <- get_profile('Kh9TTGwAAAAJ') ## Lucia Dammert
-jETtdIAAAAJ <- get_profile('8jETtdIAAAAJ') ## Luis ClaverÌa CambÛn
+jETtdIAAAAJ <- get_profile('8jETtdIAAAAJ') ## Luis Claver√≠a Camb√≥n
 kj503iEAAAAJ <- get_profile('kj503iEAAAAJ') ## Marcelo Marzouka
-YDPznzAAAAAJ <- get_profile('YDPznzAAAAAJ') ## MarÌa Gabriela Cordova
+YDPznzAAAAAJ <- get_profile('YDPznzAAAAAJ') ## Mar√≠a Gabriela Cordova
 pr35r24AAAAJ <- get_profile('pr35r24AAAAJ') ## Mariol Virgili Lillo
 oYjLYEAAAAJ <- get_profile('0oYjLYEAAAAJ') ## Matias Bargsted
 HA56QUAAAAJ <- get_profile('HA5_6QUAAAAJ') ## Matthias Erlandsen
 qKDaZAMAAAAJ <- get_profile('qKDaZAMAAAAJ') ## Mauricio Apablaza
 BPVbhToAAAAJ <- get_profile('BPVbhToAAAAJ') ## Mauricio Morales Quiroga
-yXeMPpEAAAAJ <- get_profile('yXeMPpEAAAAJ') ## Mauricio OlavarrÌa-Gambi
-Iz7nUN8AAAAJ <- get_profile('Iz7nUN8AAAAJ') ## M·ximo Quitral
-OLDMbVAAAAAJ <- get_profile('OLDMbVAAAAAJ') ## Mireya D·vila
-PtAYAAAAJ <- get_profile('800PtAYAAAAJ') ## Nicol·s Del Valle
-yyr6ge0AAAAJ <- get_profile('yyr6ge0AAAAJ') ## Nicol·s M. Somma
+yXeMPpEAAAAJ <- get_profile('yXeMPpEAAAAJ') ## Mauricio Olavarr√≠a-Gambi
+Iz7nUN8AAAAJ <- get_profile('Iz7nUN8AAAAJ') ## M√°ximo Quitral
+OLDMbVAAAAAJ <- get_profile('OLDMbVAAAAAJ') ## Mireya D√°vila
+PtAYAAAAJ <- get_profile('800PtAYAAAAJ') ## Nicol√°s Del Valle
+yyr6ge0AAAAJ <- get_profile('yyr6ge0AAAAJ') ## Nicol√°s M. Somma
 EQrjT5sAAAAJ <- get_profile('EQrjT5sAAAAJ') ## Nicole Darat
 KEBgAAAAJ <- get_profile('065KEBgAAAAJ') ## Nicole Jenne
-JRlbehsAAAAJ <- get_profile('JRlbehsAAAAJ') ## Octavio AvendaÒo
+JRlbehsAAAAJ <- get_profile('JRlbehsAAAAJ') ## Octavio Avenda√±o
 aEt164AAAAJ <- get_profile('_aEt164AAAAJ') ## Olga Espinoza
 cyKIMlUAAAAJ <- get_profile('cyKIMlUAAAAJ') ## Pablo Valenzuela
 IBcsZwAAAAJ <- get_profile('IBcs-ZwAAAAJ') ## Patricio Navia
@@ -107,12 +107,12 @@ nYgItkMAAAAJ <- get_profile('nYgItkMAAAAJ') ## Rodrigo Medel
 zePLgAAAAJ <- get_profile('3zePL_gAAAAJ') ## Rodrigo Osorio
 gkHNPiwAAAAJ <- get_profile('gkHNPiwAAAAJ') ## Rossana Castiglioni
 R84mfaoAAAAJ <- get_profile('R84mfaoAAAAJ') ## Sandra Baquedano
-CrQouUsAAAAJ <- get_profile('CrQouUsAAAAJ') ## Sebasti·n Carrasco
-aQaYIAAAAJ <- get_profile('82aQaYIAAAAJ') ## Sebasti·n Umpierrez
+CrQouUsAAAAJ <- get_profile('CrQouUsAAAAJ') ## Sebasti√°n Carrasco
+aQaYIAAAAJ <- get_profile('82aQaYIAAAAJ') ## Sebasti√°n Umpierrez
 F7Dguu4AAAAJ <- get_profile('F7Dguu4AAAAJ') ## Sergio Toro Maureira
 MsPC8uwAAAAJ <- get_profile('MsPC8uwAAAAJ') ## Shirley Gotz
 MR9YwQkAAAAJ <- get_profile('MR9YwQkAAAAJ') ## Sofia Donoso
-HcNzaN4AAAAJ <- get_profile('HcNzaN4AAAAJ') ## StÈphanie Alenda
+HcNzaN4AAAAJ <- get_profile('HcNzaN4AAAAJ') ## St√©phanie Alenda
 ZOmEt88AAAAJ <- get_profile('ZOmEt88AAAAJ') ## Susana Gazmuri
 XrCQYoAAAAJ <- get_profile('XrCQY-oAAAAJ') ## Tomas Dosek
 NvlbMocAAAAJ <- get_profile('NvlbMocAAAAJ') ## Umut Aydin
@@ -120,34 +120,39 @@ lzMBqcAAAAJ <- get_profile('-lzMBqcAAAAJ') ## Valeria Palanza
 lA1piEAAAAJ <- get_profile('7lA1piEAAAAJ') ## Veronica Figueroa Huencho
 VqjxJ4gAAAAJ <- get_profile('VqjxJ4gAAAAJ') ## Vesna Mandakovic
 IqYAAAAJ <- get_profile('21Iq__YAAAAJ') ## Violeta Montero
-ihALyKUAAAAJ <- get_profile('ihALyKUAAAAJ') ## Waleska MuÒoz Aravena
+ihALyKUAAAAJ <- get_profile('ihALyKUAAAAJ') ## Waleska Mu√±oz Aravena
 JxOP4oAAAAJ <- get_profile('JxOP4-oAAAAJ')  ## William Porath
 
-## Aditional
-## TzPYdWsAAAAJ <- get_profile('TzPYdWsAAAAJ') ## Arturo Arriagada
+## Additional (December 2019)
 IYungBYAAAAJ <- get_profile('IYungBYAAAAJ') ## Giancarlo Visconti
 AP5zUGwAAAAJ <- get_profile('AP5zUGwAAAAJ') ## Gabriel L. Negretto
 ws3YSrkAAAAJ <- get_profile('ws3YSrkAAAAJ') ## Ignacio Arana Araya
-ie78OmcAAAAJ <- get_profile('ie78OmcAAAAJ') ## JosÈ Miguel Cabezas
+ie78OmcAAAAJ <- get_profile('ie78OmcAAAAJ') ## Jos√© Miguel Cabezas
 cAowpkAAAAJ <- get_profile('5cAowpkAAAAJ') ## Rodrigo Mardones
 xP7heoAAAAJ <- get_profile('xP-7heoAAAAJ') ## Macarena Valenzuela
-RBv0BPIAAAAJ <- get_profile('RBv0BPIAAAAJ')## Germ·n Bidegain
+RBv0BPIAAAAJ <- get_profile('RBv0BPIAAAAJ')## Germ√°n Bidegain
 O7DOqCcAAAAJ <- get_profile('O7DOqCcAAAAJ') ## Victor Tricot Salomon
 KZhWCqgAAAAJ <- get_profile('KZhWCqgAAAAJ') ## Adrian Albala
 rIbm6tMAAAAJ <- get_profile('rIbm6tMAAAAJ') ## Miguel Angel Lopez
 
-## Excluded
-## MMCj-VQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## ¡lvaro RamÌrez-Alujas
+## Researchers to be added next round (March 2020)
+## TzPYdWsAAAAJ <- get_profile('TzPYdWsAAAAJ') ## Arturo Arriagada
+
+## Excluded (December 2019)
+## Authors who had added to their profile publications that are not their 
+## authorship (because of name confusion, deliberately or without realising it) 
+## have been removed from the ranking.
+## MMCj-VQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## √Ålvaro Ram√≠rez-Alujas
 ## QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
 
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           KiGpYt4AAAAJ$name, ## Alejandro Corvalan
           "Alfredo Joignant", ## C6i7344AAAAJ$name, 
-          mQwDWagAAAAJ$name, ## AndrÈs Stark AzÛcar
+          mQwDWagAAAAJ$name, ## Andr√©s Stark Az√≥car
           UYqfqAAAAAJ$name, ## Anthony A. Pezzola
           Y4q4OfoAAAAJ$name, ## Antoine Maillet
-          CDjgEGIAAAAJ$name, ## Antonio BascuÒ·n
-          UknWOrEAAAAJ$name, ## Basti·n Gonz·lez-Bustamante
+          CDjgEGIAAAAJ$name, ## Antonio Bascu√±√°n
+          UknWOrEAAAAJ$name, ## Basti√°n Gonz√°lez-Bustamante
           UALXeUMAAAAJ$name, ## Bernardo Mackenna
           IOab2sQAAAAJ$name, ## Camilo Vial
           Kq4dWnoAAAAJ$name, ## Carlos Huneeus
@@ -156,26 +161,26 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           WfwsloAAAAJ$name, ## Catherine Reyes-Housholder
           Y9qxhQ8AAAAJ$name, ## Cecilia Osorio Gonnet
           ZJSbAAAAAJ$name, ## Cesar Ross
-          hEwq8AAAAJ$name, ## Christopher MartÌnez
+          hEwq8AAAAJ$name, ## Christopher Mart√≠nez
           nj4yvK0AAAAJ$name, ## Claudia Heiss
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
-          vLROxScAAAAJ$name, ## Claudio Fuentes-Gonz·lez
+          vLROxScAAAAJ$name, ## Claudio Fuentes-Gonz√°lez
           QQq0cAAAAJ$name, ## Cristian Garay Vera
-          "Cristian PÈrez MuÒoz", ## MKayIWEAAAAJ$name, 
+          "Cristian P√©rez Mu√±oz", ## MKayIWEAAAAJ$name, 
           HVy8iAAAAAJ$name, ## Cristian Pliscoff
           MwnsXycAAAAJ$name, ## Cristina Moyano Barahona
-          L8S57cAAAAJ$name, ## CristÛbal Bellolio
-          iRjwbMAAAAJ$name, ## CristÛbal Rovira
-          aw7lNr4AAAAJ$name, ## CristÛbal Sandoval
+          L8S57cAAAAJ$name, ## Crist√≥bal Bellolio
+          iRjwbMAAAAJ$name, ## Crist√≥bal Rovira
+          aw7lNr4AAAAJ$name, ## Crist√≥bal Sandoval
           s112cUYAAAAJ$name, ## Daniel Brieba
-          VQKPXBMAAAAJ$name, ## Daniel Flores C·ceres
-          B7eJM_0AAAAJ$name, ## Daniel Santib·Òez
+          VQKPXBMAAAAJ$name, ## Daniel Flores C√°ceres
+          B7eJM_0AAAAJ$name, ## Daniel Santiba√±ez
           xWbhhH8AAAAJ$name, ## David Altman
           "Diego Rossello", ## MWiRrUAAAAJ$name, 
           NcxMjkAAAAAJ$name, ## Egon Montecinos
           bSlkAAAAJ$name, ## Ely Orrego
           dQZFoWYAAAAJ$name, ## Esteban Valenzuela
-          kHIa5vwAAAAJ$name, ## Eugenio Guzm·n
+          kHIa5vwAAAAJ$name, ## Eugenio Guzm√°n
           zAw8CDAAAAAJ$name, ## Evelyn Arriagada
           YAryivQAAAAJ$name, ## Felipe Schwember
           InrV7oEAAAAJ$name, ## Fernando Atria
@@ -183,9 +188,9 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           "Fernando Schmidt",  ## wXHJZ4oAAAAJ$name, 
           "Francisca Lisbona Saavedra", ## BB7GS4AAAAJ$name, 
           eubXaYAAAAJ$name, ## Francisco Urdinez
-          zWIsBT8AAAAJ$name, ## Germ·n Campos-Herrera
+          zWIsBT8AAAAJ$name, ## Germ√°n Campos-Herrera
           cEbNnwAAAAJ$name, ## Gonzalo Espinoza Bianchini
-          JmWI5MAAAAJ$name, ## Hugo JofrÈ
+          JmWI5MAAAAJ$name, ## Hugo Jofr√©
           rPfIQYAAAAJ$name, ## Ines Picazo Verdejo
           i6XB6MAAAAJ$name, ## Isaac Caro
           QeDE2BwAAAAJ$name, ## Jaime Contreras Alvarez
@@ -193,37 +198,37 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           mHLvikAAAAJ$name, ## Jeanne W. Simon
           VM3OxhsAAAAJ$name, ## Jorge Fabrega
           "Jose de la Cruz Garrido", ## Q8J28ZcAAAAJ$name, 
-          tBxjDkcAAAAJ$name, ## JosÈ Hern·ndez-Bonivento
+          tBxjDkcAAAAJ$name, ## Jos√© Hern√°ndez-Bonivento
           "Juan Carlos Arellano", ## wsdmHJ0AAAAJ$name, 
           eDBbeDcAAAAJ$name, ## Juan Pablo Araya
           dJMnKfcAAAAJ$name, ## Juan Pablo Couyoumdjian
           IgwSc8oAAAAJ$name, ## Juan Pablo Luna
           i2JJrfYAAAAJ$name, ## Julieta Suarez-Cao
           "Karen Manzano Iturra", ## grB28SkAAAAJ$name, 
-          vOiOsAAAAJ$name, ## Katherine Figueroa AillaÒir
+          vOiOsAAAAJ$name, ## Katherine Figueroa Ailla√±ir
           kFHaW6wAAAAJ$name, ## Kenneth Bunker
           qFLejd0AAAAJ$name, ## Kirsten Sehnbruch
           otugCsoAAAAJ$name, ## Laura Levick
           f9up4NwAAAAJ$name, ## Lisa Zanotti
-          kiG1xgAAAAJ$name, ## Lorena Oyarz˙n Serrano
+          kiG1xgAAAAJ$name, ## Lorena Oyarz√∫n Serrano
           iIDHIHkAAAAJ$name, ## Loreto Correa
           Kh9TTGwAAAAJ$name, ## Lucia Dammert
-          "Luis ClaverÌa CambÛn", ## jETtdIAAAAJ$name, 
+          "Luis Claver√≠a Camb√≥n", ## jETtdIAAAAJ$name, 
           kj503iEAAAAJ$name, ## Marcelo Marzouka
-          "MarÌa Gabriela Cordova", ## YDPznzAAAAAJ$name, 
+          "Mar√≠a Gabriela Cordova", ## YDPznzAAAAAJ$name, 
           pr35r24AAAAJ$name, ## Mariol Virgili Lillo
           oYjLYEAAAAJ$name, ## Matias Bargsted
           HA56QUAAAAJ$name, ## Matthias Erlandsen
           qKDaZAMAAAAJ$name, ## Mauricio Apablaza
           BPVbhToAAAAJ$name, ## Mauricio Morales Quiroga
-          "Mauricio OlavarrÌa-Gambi", ## yXeMPpEAAAAJ$name, 
-          "M·ximo Quitral Rojas", ## Iz7nUN8AAAAJ$name, 
-          OLDMbVAAAAAJ$name, ## Mireya D·vila
-          PtAYAAAAJ$name, ## Nicol·s Del Valle
-          yyr6ge0AAAAJ$name, ## Nicol·s M. Somma
+          "Mauricio Olavarr√≠a-Gambi", ## yXeMPpEAAAAJ$name, 
+          "M√°ximo Quitral Rojas", ## Iz7nUN8AAAAJ$name, 
+          OLDMbVAAAAAJ$name, ## Mireya D√°vila
+          PtAYAAAAJ$name, ## Nicol√°s Del Valle
+          yyr6ge0AAAAJ$name, ## Nicol√°s M. Somma
           EQrjT5sAAAAJ$name, ## Nicole Darat
           KEBgAAAAJ$name, ## Nicole Jenne
-          JRlbehsAAAAJ$name, ## Octavio AvendaÒo
+          JRlbehsAAAAJ$name, ## Octavio Avenda√±o
           aEt164AAAAJ$name, ## Olga Espinoza
           cyKIMlUAAAAJ$name, ## Pablo Valenzuela
           IBcsZwAAAAJ$name, ## Patricio Navia
@@ -240,12 +245,12 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           zePLgAAAAJ$name, ## Rodrigo Osorio
           gkHNPiwAAAAJ$name, ## Rossana Castiglioni
           R84mfaoAAAAJ$name, ## Sandra Baquedano
-          CrQouUsAAAAJ$name, ## Sebasti·n Carrasco
-          "Sebasti·n A. Umpierrez", ## aQaYIAAAAJ$name, 
+          CrQouUsAAAAJ$name, ## Sebasti√°n Carrasco
+          "Sebasti√°n A. Umpierrez", ## aQaYIAAAAJ$name, 
           F7Dguu4AAAAJ$name, ## Sergio Toro Maureira
           MsPC8uwAAAAJ$name, ## Shirley Gotz
           MR9YwQkAAAAJ$name, ## Sofia Donoso
-          HcNzaN4AAAAJ$name, ## StÈphanie Alenda
+          HcNzaN4AAAAJ$name, ## St√©phanie Alenda
           ZOmEt88AAAAJ$name, ## Susana Gazmuri
           XrCQYoAAAAJ$name, ## Tomas Dosek
           NvlbMocAAAAJ$name, ## Umut Aydin
@@ -253,15 +258,15 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           lA1piEAAAAJ$name, ## Veronica Figueroa Huencho
           VqjxJ4gAAAAJ$name, ## Vesna Mandakovic
           IqYAAAAJ$name, ## Violeta Montero
-          ihALyKUAAAAJ$name, ## Waleska MuÒoz Aravena
+          ihALyKUAAAAJ$name, ## Waleska Mu√±oz Aravena
           JxOP4oAAAAJ$name, ## William Porath
           IYungBYAAAAJ$name, ## Giancarlo Visconti
           "Gabriel L. Negretto", ## AP5zUGwAAAAJ$name,
           ws3YSrkAAAAJ$name, ## Ignacio Arana Araya
-          ie78OmcAAAAJ$name, ## JosÈ Miguel Cabezas
+          ie78OmcAAAAJ$name, ## Jos√© Miguel Cabezas
           cAowpkAAAAJ$name, ## Rodrigo Mardones
-          "Macarena Valenzuela Beltr·n", ## xP7heoAAAAJ$name 
-          "Germ·n Bidegain", ## Germ·n Bidegain
+          "Macarena Valenzuela Beltr√°n", ## xP7heoAAAAJ$name 
+          "Germ√°n Bidegain", ## Germ√°n Bidegain
           "Victor Tricot Salomon", ## Victor Tricot Salomon
           "Adrian Albala", ## Adrian Albala
           "Miguel Angel Lopez" ## Miguel Angel Lopez
@@ -270,11 +275,11 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
 ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$id, ## Alejandro Corvalan
         C6i7344AAAAJ$id, ## Alfredo Joignant
-        mQwDWagAAAAJ$id, ## AndrÈs Stark AzÛcar
+        mQwDWagAAAAJ$id, ## Andr√©s Stark Az√≥car
         UYqfqAAAAAJ$id, ## Anthony A. Pezzola
         Y4q4OfoAAAAJ$id, ## Antoine Maillet
-          CDjgEGIAAAAJ$id, ## Antonio BascuÒ·n
-          UknWOrEAAAAJ$id, ## Basti·n Gonz·lez-Bustamante
+          CDjgEGIAAAAJ$id, ## Antonio Bascu√±√°n
+          UknWOrEAAAAJ$id, ## Basti√°n Gonz√°lez-Bustamante
           UALXeUMAAAAJ$id, ## Bernardo Mackenna
           IOab2sQAAAAJ$id, ## Camilo Vial
           Kq4dWnoAAAAJ$id, ## Carlos Huneeus
@@ -283,26 +288,26 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
           WfwsloAAAAJ$id, ## Catherine Reyes-Housholder
           Y9qxhQ8AAAAJ$id, ## Cecilia Osorio Gonnet
           ZJSbAAAAAJ$id, ## Cesar Ross
-          hEwq8AAAAJ$id, ## Christopher MartÌnez
+          hEwq8AAAAJ$id, ## Christopher Mart√≠nez
           nj4yvK0AAAAJ$id, ## Claudia Heiss
           ckIjzZQAAAAJ$id, ## Claudio Fuentes
-          vLROxScAAAAJ$id, ## Claudio Fuentes-Gonz·lez
+          vLROxScAAAAJ$id, ## Claudio Fuentes-Gonz√°lez
           QQq0cAAAAJ$id, ## Cristian Garay Vera
-          MKayIWEAAAAJ$id, ## Cristian PÈrez MuÒoz
+          MKayIWEAAAAJ$id, ## Cristian P√©rez Mu√±oz
           HVy8iAAAAAJ$id, ## Cristian Pliscoff
           MwnsXycAAAAJ$id, ## Cristina Moyano Barahona
-          L8S57cAAAAJ$id, ## CristÛbal Bellolio
-          iRjwbMAAAAJ$id, ## CristÛbal Rovira
-          aw7lNr4AAAAJ$id, ## CristÛbal Sandoval
+          L8S57cAAAAJ$id, ## Crist√≥bal Bellolio
+          iRjwbMAAAAJ$id, ## Crist√≥bal Rovira
+          aw7lNr4AAAAJ$id, ## Crist√≥bal Sandoval
           s112cUYAAAAJ$id, ## Daniel Brieba
-          VQKPXBMAAAAJ$id, ## Daniel Flores C·ceres
-          B7eJM_0AAAAJ$id, ## Daniel Santib·Òez
+          VQKPXBMAAAAJ$id, ## Daniel Flores C√°ceres
+          B7eJM_0AAAAJ$id, ## Daniel Santiba√±ez
           xWbhhH8AAAAJ$id, ## David Altman
           MWiRrUAAAAJ$id, ## Diego Rossello
           NcxMjkAAAAAJ$id, ## Egon Montecinos
           bSlkAAAAJ$id, ## Ely Orrego
           dQZFoWYAAAAJ$id, ## Esteban Valenzuela
-          kHIa5vwAAAAJ$id, ## Eugenio Guzm·n
+          kHIa5vwAAAAJ$id, ## Eugenio Guzm√°n
           zAw8CDAAAAAJ$id, ## Evelyn Arriagada
           YAryivQAAAAJ$id, ## Felipe Schwember
           InrV7oEAAAAJ$id, ## Fernando Atria
@@ -310,9 +315,9 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
           wXHJZ4oAAAAJ$id, ## Fernando Schmidt
           BB7GS4AAAAJ$id, ## Francisca Lisbona
           eubXaYAAAAJ$id, ## Francisco Urdinez
-          zWIsBT8AAAAJ$id, ## Germ·n Campos-Herrera
+          zWIsBT8AAAAJ$id, ## Germ√°n Campos-Herrera
           cEbNnwAAAAJ$id, ## Gonzalo Espinoza Bianchini
-          JmWI5MAAAAJ$id, ## Hugo JofrÈ
+          JmWI5MAAAAJ$id, ## Hugo Jofr√©
           rPfIQYAAAAJ$id, ## Ines Picazo Verdejo
           i6XB6MAAAAJ$id, ## Isaac Caro
           QeDE2BwAAAAJ$id, ## Jaime Contreras Alvarez
@@ -320,37 +325,37 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
           mHLvikAAAAJ$id, ## Jeanne W. Simon
           VM3OxhsAAAAJ$id, ## Jorge Fabrega
           Q8J28ZcAAAAJ$id, ## Jose de la Cruz Garrido
-          tBxjDkcAAAAJ$id, ## JosÈ Hern·ndez-Bonivento
+          tBxjDkcAAAAJ$id, ## Jos√© Hern√°ndez-Bonivento
           wsdmHJ0AAAAJ$id, ## Juan Carlos Arellano
           eDBbeDcAAAAJ$id, ## Juan Pablo Araya
           dJMnKfcAAAAJ$id, ## Juan Pablo Couyoumdjian
           IgwSc8oAAAAJ$id, ## Juan Pablo Luna
           i2JJrfYAAAAJ$id, ## Julieta Suarez-Cao
           grB28SkAAAAJ$id, ## Karen Manzano
-          vOiOsAAAAJ$id, ## Katherine Figueroa AillaÒir
+          vOiOsAAAAJ$id, ## Katherine Figueroa Ailla√±ir
           kFHaW6wAAAAJ$id, ## Kenneth Bunker
           qFLejd0AAAAJ$id, ## Kirsten Sehnbruch
           otugCsoAAAAJ$id, ## Laura Levick
           f9up4NwAAAAJ$id, ## Lisa Zanotti
-          kiG1xgAAAAJ$id, ## Lorena Oyarz˙n Serrano
+          kiG1xgAAAAJ$id, ## Lorena Oyarz√∫n Serrano
           iIDHIHkAAAAJ$id, ## Loreto Correa
           Kh9TTGwAAAAJ$id, ## Lucia Dammert
-          jETtdIAAAAJ$id, ## Luis ClaverÌa CambÛn
+          jETtdIAAAAJ$id, ## Luis Claver√≠a Camb√≥n
           kj503iEAAAAJ$id, ## Marcelo Marzouka
-          YDPznzAAAAAJ$id, ## MarÌa Gabriela Cordova
+          YDPznzAAAAAJ$id, ## Mar√≠a Gabriela Cordova
           pr35r24AAAAJ$id, ## Mariol Virgili Lillo
           oYjLYEAAAAJ$id, ## Matias Bargsted
           HA56QUAAAAJ$id, ## Matthias Erlandsen
           qKDaZAMAAAAJ$id, ## Mauricio Apablaza
           BPVbhToAAAAJ$id, ## Mauricio Morales Quiroga
-          yXeMPpEAAAAJ$id, ## Mauricio OlavarrÌa-Gambi
-          Iz7nUN8AAAAJ$id, ## M·ximo Quitral
-          OLDMbVAAAAAJ$id, ## Mireya D·vila
-          PtAYAAAAJ$id, ## Nicol·s Del Valle
-          yyr6ge0AAAAJ$id, ## Nicol·s M. Somma
+          yXeMPpEAAAAJ$id, ## Mauricio Olavarr√≠a-Gambi
+          Iz7nUN8AAAAJ$id, ## M√°ximo Quitral
+          OLDMbVAAAAAJ$id, ## Mireya D√°vila
+          PtAYAAAAJ$id, ## Nicol√°s Del Valle
+          yyr6ge0AAAAJ$id, ## Nicol√°s M. Somma
           EQrjT5sAAAAJ$id, ## Nicole Darat
           KEBgAAAAJ$id, ## Nicole Jenne
-          JRlbehsAAAAJ$id, ## Octavio AvendaÒo
+          JRlbehsAAAAJ$id, ## Octavio Avenda√±o
           aEt164AAAAJ$id, ## Olga Espinoza
           cyKIMlUAAAAJ$id, ## Pablo Valenzuela
           IBcsZwAAAAJ$id, ## Patricio Navia
@@ -367,12 +372,12 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
           zePLgAAAAJ$id, ## Rodrigo Osorio
           gkHNPiwAAAAJ$id, ## Rossana Castiglioni
           R84mfaoAAAAJ$id, ## Sandra Baquedano
-          CrQouUsAAAAJ$id, ## Sebasti·n Carrasco
-          aQaYIAAAAJ$id, ## Sebasti·n Umpierrez
+          CrQouUsAAAAJ$id, ## Sebasti√°n Carrasco
+          aQaYIAAAAJ$id, ## Sebasti√°n Umpierrez
           F7Dguu4AAAAJ$id, ## Sergio Toro Maureira
           MsPC8uwAAAAJ$id, ## Shirley Gotz
           MR9YwQkAAAAJ$id, ## Sofia Donoso
-          HcNzaN4AAAAJ$id, ## StÈphanie Alenda
+          HcNzaN4AAAAJ$id, ## St√©phanie Alenda
           ZOmEt88AAAAJ$id, ## Susana Gazmuri
           XrCQYoAAAAJ$id, ## Tomas Dosek
           NvlbMocAAAAJ$id, ## Umut Aydin
@@ -380,15 +385,15 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
           lA1piEAAAAJ$id, ## Veronica Figueroa Huencho
           VqjxJ4gAAAAJ$id, ## Vesna Mandakovic
           IqYAAAAJ$id, ## Violeta Montero
-          ihALyKUAAAAJ$id, ## Waleska MuÒoz Aravena
+          ihALyKUAAAAJ$id, ## Waleska Mu√±oz Aravena
           JxOP4oAAAAJ$id, ## William Porath
         IYungBYAAAAJ$id, ## Giancarlo Visconti
         AP5zUGwAAAAJ$id, ## Gabriel L. Negretto
         ws3YSrkAAAAJ$id, ## Ignacio Arana Araya
-        ie78OmcAAAAJ$id, ## JosÈ Miguel Cabezas
+        ie78OmcAAAAJ$id, ## Jos√© Miguel Cabezas
         cAowpkAAAAJ$id, ## Rodrigo Mardones
         xP7heoAAAAJ$id, ## Macarena Valenzuela
-        RBv0BPIAAAAJ$id, ## Germ·n Bidegain
+        RBv0BPIAAAAJ$id, ## Germ√°n Bidegain
         O7DOqCcAAAAJ$id, ## Victor Tricot Salomon
         KZhWCqgAAAAJ$id, ## Adrian Albala
         rIbm6tMAAAAJ$id ## Miguel Angel Lopez
@@ -397,11 +402,11 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
 Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$affiliation, ## Alejandro Corvalan
         C6i7344AAAAJ$affiliation, ## Alfredo Joignant
-        mQwDWagAAAAJ$affiliation, ## AndrÈs Stark AzÛcar
+        mQwDWagAAAAJ$affiliation, ## Andr√©s Stark Az√≥car
         UYqfqAAAAAJ$affiliation, ## Anthony A. Pezzola
         Y4q4OfoAAAAJ$affiliation, ## Antoine Maillet
-        CDjgEGIAAAAJ$affiliation, ## Antonio BascuÒ·n
-        UknWOrEAAAAJ$affiliation, ## Basti·n Gonz·lez-Bustamante
+        CDjgEGIAAAAJ$affiliation, ## Antonio Bascu√±√°n
+        UknWOrEAAAAJ$affiliation, ## Basti√°n Gonz√°lez-Bustamante
         UALXeUMAAAAJ$affiliation, ## Bernardo Mackenna
         IOab2sQAAAAJ$affiliation, ## Camilo Vial
         Kq4dWnoAAAAJ$affiliation, ## Carlos Huneeus
@@ -410,26 +415,26 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         WfwsloAAAAJ$affiliation, ## Catherine Reyes-Housholder
         Y9qxhQ8AAAAJ$affiliation, ## Cecilia Osorio Gonnet
         ZJSbAAAAAJ$affiliation, ## Cesar Ross
-        hEwq8AAAAJ$affiliation, ## Christopher MartÌnez
+        hEwq8AAAAJ$affiliation, ## Christopher Mart√≠nez
         nj4yvK0AAAAJ$affiliation, ## Claudia Heiss
         ckIjzZQAAAAJ$affiliation, ## Claudio Fuentes
-        vLROxScAAAAJ$affiliation, ## Claudio Fuentes-Gonz·lez
+        vLROxScAAAAJ$affiliation, ## Claudio Fuentes-Gonz√°lez
         QQq0cAAAAJ$affiliation, ## Cristian Garay Vera
-        MKayIWEAAAAJ$affiliation, ## Cristian PÈrez MuÒoz
+        MKayIWEAAAAJ$affiliation, ## Cristian P√©rez Mu√±oz
         HVy8iAAAAAJ$affiliation, ## Cristian Pliscoff
         MwnsXycAAAAJ$affiliation, ## Cristina Moyano Barahona
-        L8S57cAAAAJ$affiliation, ## CristÛbal Bellolio
-        iRjwbMAAAAJ$affiliation, ## CristÛbal Rovira
-        aw7lNr4AAAAJ$affiliation, ## CristÛbal Sandoval
+        L8S57cAAAAJ$affiliation, ## Crist√≥bal Bellolio
+        iRjwbMAAAAJ$affiliation, ## Crist√≥bal Rovira
+        aw7lNr4AAAAJ$affiliation, ## Crist√≥bal Sandoval
         s112cUYAAAAJ$affiliation, ## Daniel Brieba
-        VQKPXBMAAAAJ$affiliation, ## Daniel Flores C·ceres
-        B7eJM_0AAAAJ$affiliation, ## Daniel Santib·Òez
+        VQKPXBMAAAAJ$affiliation, ## Daniel Flores C√°ceres
+        B7eJM_0AAAAJ$affiliation, ## Daniel Santiba√±ez
         xWbhhH8AAAAJ$affiliation, ## David Altman
         MWiRrUAAAAJ$affiliation, ## Diego Rossello
         NcxMjkAAAAAJ$affiliation, ## Egon Montecinos
         bSlkAAAAJ$affiliation, ## Ely Orrego
         dQZFoWYAAAAJ$affiliation, ## Esteban Valenzuela
-        kHIa5vwAAAAJ$affiliation, ## Eugenio Guzm·n
+        kHIa5vwAAAAJ$affiliation, ## Eugenio Guzm√°n
         zAw8CDAAAAAJ$affiliation, ## Evelyn Arriagada
         YAryivQAAAAJ$affiliation, ## Felipe Schwember
         InrV7oEAAAAJ$affiliation, ## Fernando Atria
@@ -437,9 +442,9 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         wXHJZ4oAAAAJ$affiliation, ## Fernando Schmidt
         BB7GS4AAAAJ$affiliation, ## Francisca Lisbona
         eubXaYAAAAJ$affiliation, ## Francisco Urdinez
-        zWIsBT8AAAAJ$affiliation, ## Germ·n Campos-Herrera
+        zWIsBT8AAAAJ$affiliation, ## Germ√°n Campos-Herrera
         cEbNnwAAAAJ$affiliation, ## Gonzalo Espinoza Bianchini
-        JmWI5MAAAAJ$affiliation, ## Hugo JofrÈ
+        JmWI5MAAAAJ$affiliation, ## Hugo Jofr√©
         rPfIQYAAAAJ$affiliation, ## Ines Picazo Verdejo
         i6XB6MAAAAJ$affiliation, ## Isaac Caro
         QeDE2BwAAAAJ$affiliation, ## Jaime Contreras Alvarez
@@ -447,37 +452,37 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         mHLvikAAAAJ$affiliation, ## Jeanne W. Simon
         VM3OxhsAAAAJ$affiliation, ## Jorge Fabrega
         Q8J28ZcAAAAJ$affiliation, ## Jose de la Cruz Garrido
-        tBxjDkcAAAAJ$affiliation, ## JosÈ Hern·ndez-Bonivento
+        tBxjDkcAAAAJ$affiliation, ## Jos√© Hern√°ndez-Bonivento
         wsdmHJ0AAAAJ$affiliation, ## Juan Carlos Arellano
         eDBbeDcAAAAJ$affiliation, ## Juan Pablo Araya
         dJMnKfcAAAAJ$affiliation, ## Juan Pablo Couyoumdjian
         IgwSc8oAAAAJ$affiliation, ## Juan Pablo Luna
         i2JJrfYAAAAJ$affiliation, ## Julieta Suarez-Cao
         grB28SkAAAAJ$affiliation, ## Karen Manzano
-        vOiOsAAAAJ$affiliation, ## Katherine Figueroa AillaÒir
+        vOiOsAAAAJ$affiliation, ## Katherine Figueroa Ailla√±ir
         kFHaW6wAAAAJ$affiliation, ## Kenneth Bunker
         qFLejd0AAAAJ$affiliation, ## Kirsten Sehnbruch
         otugCsoAAAAJ$affiliation, ## Laura Levick
         f9up4NwAAAAJ$affiliation, ## Lisa Zanotti
-        kiG1xgAAAAJ$affiliation, ## Lorena Oyarz˙n Serrano
+        kiG1xgAAAAJ$affiliation, ## Lorena Oyarz√∫n Serrano
         iIDHIHkAAAAJ$affiliation, ## Loreto Correa
         Kh9TTGwAAAAJ$affiliation, ## Lucia Dammert
-        jETtdIAAAAJ$affiliation, ## Luis ClaverÌa CambÛn
+        jETtdIAAAAJ$affiliation, ## Luis Claver√≠a Camb√≥n
         kj503iEAAAAJ$affiliation, ## Marcelo Marzouka
-        YDPznzAAAAAJ$affiliation, ## MarÌa Gabriela Cordova
+        YDPznzAAAAAJ$affiliation, ## Mar√≠a Gabriela Cordova
         pr35r24AAAAJ$affiliation, ## Mariol Virgili Lillo
         oYjLYEAAAAJ$affiliation, ## Matias Bargsted
         HA56QUAAAAJ$affiliation, ## Matthias Erlandsen
         qKDaZAMAAAAJ$affiliation, ## Mauricio Apablaza
         BPVbhToAAAAJ$affiliation, ## Mauricio Morales Quiroga
-        yXeMPpEAAAAJ$affiliation, ## Mauricio OlavarrÌa-Gambi
-        Iz7nUN8AAAAJ$affiliation, ## M·ximo Quitral
-        OLDMbVAAAAAJ$affiliation, ## Mireya D·vila
-        PtAYAAAAJ$affiliation, ## Nicol·s Del Valle
-        yyr6ge0AAAAJ$affiliation, ## Nicol·s M. Somma
+        yXeMPpEAAAAJ$affiliation, ## Mauricio Olavarr√≠a-Gambi
+        Iz7nUN8AAAAJ$affiliation, ## M√°ximo Quitral
+        OLDMbVAAAAAJ$affiliation, ## Mireya D√°vila
+        PtAYAAAAJ$affiliation, ## Nicol√°s Del Valle
+        yyr6ge0AAAAJ$affiliation, ## Nicol√°s M. Somma
         EQrjT5sAAAAJ$affiliation, ## Nicole Darat
         KEBgAAAAJ$affiliation, ## Nicole Jenne
-        JRlbehsAAAAJ$affiliation, ## Octavio AvendaÒo
+        JRlbehsAAAAJ$affiliation, ## Octavio Avenda√±o
         aEt164AAAAJ$affiliation, ## Olga Espinoza
         cyKIMlUAAAAJ$affiliation, ## Pablo Valenzuela
         IBcsZwAAAAJ$affiliation, ## Patricio Navia
@@ -494,12 +499,12 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         zePLgAAAAJ$affiliation, ## Rodrigo Osorio
         gkHNPiwAAAAJ$affiliation, ## Rossana Castiglioni
         R84mfaoAAAAJ$affiliation, ## Sandra Baquedano
-        CrQouUsAAAAJ$affiliation, ## Sebasti·n Carrasco
-        aQaYIAAAAJ$affiliation, ## Sebasti·n Umpierrez
+        CrQouUsAAAAJ$affiliation, ## Sebasti√°n Carrasco
+        aQaYIAAAAJ$affiliation, ## Sebasti√°n Umpierrez
         F7Dguu4AAAAJ$affiliation, ## Sergio Toro Maureira
         MsPC8uwAAAAJ$affiliation, ## Shirley Gotz
         MR9YwQkAAAAJ$affiliation, ## Sofia Donoso
-        HcNzaN4AAAAJ$affiliation, ## StÈphanie Alenda
+        HcNzaN4AAAAJ$affiliation, ## St√©phanie Alenda
         ZOmEt88AAAAJ$affiliation, ## Susana Gazmuri
         XrCQYoAAAAJ$affiliation, ## Tomas Dosek
         NvlbMocAAAAJ$affiliation, ## Umut Aydin
@@ -507,15 +512,15 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         lA1piEAAAAJ$affiliation, ## Veronica Figueroa Huencho
         VqjxJ4gAAAAJ$affiliation, ## Vesna Mandakovic
         IqYAAAAJ$affiliation, ## Violeta Montero
-        ihALyKUAAAAJ$affiliation, ## Waleska MuÒoz Aravena
+        ihALyKUAAAAJ$affiliation, ## Waleska Mu√±oz Aravena
         JxOP4oAAAAJ$affiliation, ## William Porath
         IYungBYAAAAJ$affiliation, ## Giancarlo Visconti
         AP5zUGwAAAAJ$affiliation, ## Gabriel L. Negretto
         ws3YSrkAAAAJ$affiliation, ## Ignacio Arana Araya
-        ie78OmcAAAAJ$affiliation, ## JosÈ Miguel Cabezas
+        ie78OmcAAAAJ$affiliation, ## Jos√© Miguel Cabezas
         cAowpkAAAAJ$affiliation, ## Rodrigo Mardones
         xP7heoAAAAJ$affiliation, ## Macarena Valenzuela
-        RBv0BPIAAAAJ$affiliation, ## Germ·n Bidegain
+        RBv0BPIAAAAJ$affiliation, ## Germ√°n Bidegain
         O7DOqCcAAAAJ$affiliation, ## Victor Tricot Salomon
         KZhWCqgAAAAJ$affiliation, ## Adrian Albala
         rIbm6tMAAAAJ$affiliation ## Miguel Angel Lopez
@@ -526,11 +531,11 @@ Aff
 Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UDP", ## 2. Alejandro Corvalan
                  "UDP-COES", ## 3. Alfredo Joignant
-                 "UAI", ## 4. AndrÈs Stark AzÛcar
+                 "UAI", ## 4. Andr√©s Stark Az√≥car
                  "WU", ## 5. Anthony A. Pezzola
                  "UCHILE", ## 6. Antoine Maillet
-                 "UAI", ## 7. Antonio BascuÒ·n
-                 "OXF-USACH", ## 8. Basti·n Gonz·lez-Bustamante
+                 "UAI", ## 7. Antonio Bascu√±√°n
+                 "OXF-USACH", ## 8. Basti√°n Gonz√°lez-Bustamante
                  "UCSD", ## 9. Bernardo Mackenna
                  "UA", ## 10. Camilo Vial
                  "UCHILE", ## 11. Carlos Huneeus
@@ -539,26 +544,26 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UDP-COES", ## 14. Catherine Reyes-Housholder
                  "UAH", ## 15. Cecilia Osorio Gonnet
                  "USACH", ## 16. Cesar Ross
-                 "UCT", ## 17. Christopher MartÌnez
+                 "UCT", ## 17. Christopher Mart√≠nez
                  "UCHILE", ## 18. Claudia Heiss
                  "UDP", ## 19. Claudio Fuentes
-                 "UA", ## 20. Claudio Fuentes-Gonz·lez
+                 "UA", ## 20. Claudio Fuentes-Gonz√°lez
                  "USACH", ## 21. Cristian Garay Vera
-                 "PUC", ## 22. Cristian PÈrez
+                 "PUC", ## 22. Cristian P√©rez
                  "UCHILE", ## 23. Cristian Pliscoff
                  "USACH", ## 24. Cristina Moyano Barahona
-                 "UAI", ## 25. CristÛbal Bellolio
-                 "UDP", ## 26. CristÛbal Rovira
-                 "UDP", ## 27. CristÛbal Sandoval
+                 "UAI", ## 25. Crist√≥bal Bellolio
+                 "UDP", ## 26. Crist√≥bal Rovira
+                 "UDP", ## 27. Crist√≥bal Sandoval
                  "UAI", ## 28. Daniel Brieba
-                 "ULAGOS", ## 29. Daniel Flores C·ceres
-                 "USACH", ## 30. Daniel Santib·Òez
+                 "ULAGOS", ## 29. Daniel Flores C√°ceres
+                 "USACH", ## 30. Daniel Santiba√±ez
                  "PUC", ## 31. David Altman
                  "UAI", ## 32. Diego Rossello
                  "UACH", ## 33. Egon Montecinos
                  "NWU", ## 34. Ely Orrego
                  "UDEC", ## 35. Esteban Valenzuela
-                 "UDD", ## 36. Eugenio Guzm·n
+                 "UDD", ## 36. Eugenio Guzm√°n
                  "UDP", ## 37. Evelyn Arriagada
                  "UAI", ## 38. Felipe Schwember
                  "UCHILE", ## 39. Fernando Atria
@@ -566,9 +571,9 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UDD", ## 41. Fernando Schmidt
                  "UDP", ## 42. Francisca Lisbona
                  "PUC", ## 43. Francisco Urdinez
-                 "UDP", ## 44. Germ·n Campos-Herrera
+                 "UDP", ## 44. Germ√°n Campos-Herrera
                  "UDP", ## 45. Gonzalo Espinoza Bianchini
-                 "UCHILE", ## 46. Hugo JofrÈ
+                 "UCHILE", ## 46. Hugo Jofr√©
                  "UDEC", ## 47. Ines Picazo Verdejo
                  "UAH", ## 48. Isaac Caro
                  "UDEC", ## 49. Jaime Contreras Alvarez
@@ -576,37 +581,37 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UDEC", ## 51. Jeanne W. Simon
                  "UDD", ## 52. Jorge Fabrega
                  "UDD", ## 53. Jose de la Cruz Garrido
-                 "UA", ## 54. JosÈ Hern·ndez-Bonivento
+                 "UA", ## 54. Jos√© Hern√°ndez-Bonivento
                  "UCT", ## 55. Juan Carlos Arellano
                  "UCHILE", ## 56. Juan Pablo Araya
                  "UDD", ## 57. Juan Pablo Couyoumdjian
                  "PUC", ## 58. Juan Pablo Luna
                  "PUC", ## 59. Julieta Suarez-Cao
                  "USACH", ## 60. Karen Manzano
-                 "UDEC", ## 61. Katherine Figueroa AillaÒir
+                 "UDEC", ## 61. Katherine Figueroa Ailla√±ir
                  "UNIMI", ## 62. Kenneth Bunker
                  "LSE-COES", ## 63. Kirsten Sehnbruch
                  "USACH", ## 64. Laura Levick
                  "UDP-Leiden", ## 65. Lisa Zanotti
-                 "UCHILE", ## 66. Lorena Oyarz˙n Serrano
+                 "UCHILE", ## 66. Lorena Oyarz√∫n Serrano
                  "ANEPE", ## 67. Loreto Correa
                  "USACH", ## 68. Lucia Dammert
-                 "USACH", ## 69. Luis ClaverÌa CambÛn
+                 "USACH", ## 69. Luis Claver√≠a Camb√≥n
                  "PUC", ## 70. Marcelo Marzouka
-                 "ULAGOS", ## 71. MarÌa Gabriela Cordova
+                 "ULAGOS", ## 71. Mar√≠a Gabriela Cordova
                  "UDEC", ## 72. Mariol Virgili Lillo
                  "PUC", ## 73. Matias Bargsted
                  "PUC", ## 74. Matthias Erlandsen
                  "UDD", ## 75. Mauricio Apablaza
                  "UTALCA", ## 76. Mauricio Morales Quiroga
-                 "USACH", ## 77. Mauricio OlavarrÌa-Gambi
-                 "UTEM", ## 78. M·ximo Quitral
-                 "UCHILE", ## 79. Mireya D·vila
-                 "IIPSS", ## 80. Nicol·s Del Valle
-                 "PUC", ## 81. Nicol·s M. Somma
+                 "USACH", ## 77. Mauricio Olavarr√≠a-Gambi
+                 "UTEM", ## 78. M√°ximo Quitral
+                 "UCHILE", ## 79. Mireya D√°vila
+                 "IIPSS", ## 80. Nicol√°s Del Valle
+                 "PUC", ## 81. Nicol√°s M. Somma
                  "UAI", ## 82. Nicole Darat
                  "PUC", ## 83. Nicole Jenne
-                 "UCHILE-UAH", ## 84. Octavio AvendaÒo
+                 "UCHILE-UAH", ## 84. Octavio Avenda√±o
                  "UCHILE", ## 85. Olga Espinoza
                  "PUC", ## 86. Pablo Valenzuela
                  "UDP-NYU", ## 87. Patricio Navia
@@ -623,12 +628,12 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UDP", ## 98. Rodrigo Osorio
                  "UDP", ## 99. Rossana Castiglioni
                  "UCHILE", ## 100. Sandra Baquedano
-                 "UMAYOR", ## 101. Sebasti·n Carrasco
-                 "UDP", ## 102. Sebasti·n Umpierrez
+                 "UMAYOR", ## 101. Sebasti√°n Carrasco
+                 "UDP", ## 102. Sebasti√°n Umpierrez
                  "UDEC", ## 103. Sergio Toro Maureira
                  "UAH", ## 104. Shirley Gotz
                  "UCHILE", ## 105. Sofia Donoso
-                 "UNAB", ## 106. StÈphanie Alenda
+                 "UNAB", ## 106. St√©phanie Alenda
                  "PUC", ## 107. Susana Gazmuri
                  "PUCP", ## 108. Tomas Dosek
                  "PUC", ## 109. Umut Aydin
@@ -636,15 +641,15 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 111. Veronica Figueroa Huencho
                  "UDD", ## 112. Vesna Mandakovic
                  "UDEC", ## 113. Violeta Montero
-                 "UDEC", ## 114. Waleska MuÒoz Aravena
+                 "UDEC", ## 114. Waleska Mu√±oz Aravena
                  "PUC", ## 115. William Porath
                  "PURDUE", ## 116. Giancarlo Visconti
                  "PUC", ## 117. Gabriel L. Negretto
                  "CMU", ## 118. Ignacio Arana Araya
-                 "UMAYOR", ## 119. JosÈ Miguel Cabezas
+                 "UMAYOR", ## 119. Jos√© Miguel Cabezas
                  "PUC", ## 120. Rodrigo Mardones
                  "UDP", ## 121. Macarena Valenzuela
-                 "UDELAR", ## Germ·n Bidegain
+                 "UDELAR", ## Germ√°n Bidegain
                  "unk.", ## Victor Tricot Salomon
                  "UnB", ## Adrian Albala
                  "UCHILE" ## Miguel Angel Lopez
@@ -653,11 +658,11 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
 Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            KiGpYt4AAAAJ$total_cites, ## Alejandro Corvalan
            C6i7344AAAAJ$total_cites, ## Alfredo Joignant
-           mQwDWagAAAAJ$total_cites, ## AndrÈs Stark AzÛcar
+           mQwDWagAAAAJ$total_cites, ## Andr√©s Stark Az√≥car
            UYqfqAAAAAJ$total_cites, ## Anthony A. Pezzola
            Y4q4OfoAAAAJ$total_cites, ## Antoine Maillet
-           CDjgEGIAAAAJ$total_cites, ## Antonio BascuÒ·n
-           UknWOrEAAAAJ$total_cites, ## Basti·n Gonz·lez-Bustamante
+           CDjgEGIAAAAJ$total_cites, ## Antonio Bascu√±√°n
+           UknWOrEAAAAJ$total_cites, ## Basti√°n Gonz√°lez-Bustamante
            UALXeUMAAAAJ$total_cites, ## Bernardo Mackenna
            IOab2sQAAAAJ$total_cites, ## Camilo Vial
            Kq4dWnoAAAAJ$total_cites, ## Carlos Huneeus
@@ -666,26 +671,26 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            WfwsloAAAAJ$total_cites, ## Catherine Reyes-Housholder
            Y9qxhQ8AAAAJ$total_cites, ## Cecilia Osorio Gonnet
            ZJSbAAAAAJ$total_cites, ## Cesar Ross
-           hEwq8AAAAJ$total_cites, ## Christopher MartÌnez
+           hEwq8AAAAJ$total_cites, ## Christopher Mart√≠nez
            nj4yvK0AAAAJ$total_cites, ## Claudia Heiss
            ckIjzZQAAAAJ$total_cites, ## Claudio Fuentes
-           vLROxScAAAAJ$total_cites, ## Claudio Fuentes-Gonz·lez
+           vLROxScAAAAJ$total_cites, ## Claudio Fuentes-Gonz√°lez
            QQq0cAAAAJ$total_cites, ## Cristian Garay Vera
-           MKayIWEAAAAJ$total_cites, ## Cristian PÈrez MuÒoz
+           MKayIWEAAAAJ$total_cites, ## Cristian P√©rez Mu√±oz
            HVy8iAAAAAJ$total_cites, ## Cristian Pliscoff
            MwnsXycAAAAJ$total_cites, ## Cristina Moyano Barahona
-           L8S57cAAAAJ$total_cites, ## CristÛbal Bellolio
-           iRjwbMAAAAJ$total_cites, ## CristÛbal Rovira
-           aw7lNr4AAAAJ$total_cites, ## CristÛbal Sandoval
+           L8S57cAAAAJ$total_cites, ## Crist√≥bal Bellolio
+           iRjwbMAAAAJ$total_cites, ## Crist√≥bal Rovira
+           aw7lNr4AAAAJ$total_cites, ## Crist√≥bal Sandoval
            s112cUYAAAAJ$total_cites, ## Daniel Brieba
-           VQKPXBMAAAAJ$total_cites, ## Daniel Flores C·ceres
-           B7eJM_0AAAAJ$total_cites, ## Daniel Santib·Òez
+           VQKPXBMAAAAJ$total_cites, ## Daniel Flores C√°ceres
+           B7eJM_0AAAAJ$total_cites, ## Daniel Santiba√±ez
            xWbhhH8AAAAJ$total_cites, ## David Altman
            MWiRrUAAAAJ$total_cites, ## Diego Rossello
            NcxMjkAAAAAJ$total_cites, ## Egon Montecinos
            bSlkAAAAJ$total_cites, ## Ely Orrego
            dQZFoWYAAAAJ$total_cites, ## Esteban Valenzuela
-           kHIa5vwAAAAJ$total_cites, ## Eugenio Guzm·n
+           kHIa5vwAAAAJ$total_cites, ## Eugenio Guzm√°n
            zAw8CDAAAAAJ$total_cites, ## Evelyn Arriagada
            YAryivQAAAAJ$total_cites, ## Felipe Schwember
            InrV7oEAAAAJ$total_cites, ## Fernando Atria
@@ -693,9 +698,9 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            wXHJZ4oAAAAJ$total_cites, ## Fernando Schmidt
            BB7GS4AAAAJ$total_cites, ## Francisca Lisbona
            eubXaYAAAAJ$total_cites, ## Francisco Urdinez
-           zWIsBT8AAAAJ$total_cites, ## Germ·n Campos-Herrera
+           zWIsBT8AAAAJ$total_cites, ## Germ√°n Campos-Herrera
            cEbNnwAAAAJ$total_cites, ## Gonzalo Espinoza Bianchini
-           JmWI5MAAAAJ$total_cites, ## Hugo JofrÈ
+           JmWI5MAAAAJ$total_cites, ## Hugo Jofr√©
            rPfIQYAAAAJ$total_cites, ## Ines Picazo Verdejo
            i6XB6MAAAAJ$total_cites, ## Isaac Caro
            QeDE2BwAAAAJ$total_cites, ## Jaime Contreras Alvarez
@@ -703,37 +708,37 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            mHLvikAAAAJ$total_cites, ## Jeanne W. Simon
            VM3OxhsAAAAJ$total_cites, ## Jorge Fabrega
            Q8J28ZcAAAAJ$total_cites, ## Jose de la Cruz Garrido
-           tBxjDkcAAAAJ$total_cites, ## JosÈ Hern·ndez-Bonivento
+           tBxjDkcAAAAJ$total_cites, ## Jos√© Hern√°ndez-Bonivento
            wsdmHJ0AAAAJ$total_cites, ## Juan Carlos Arellano
            eDBbeDcAAAAJ$total_cites, ## Juan Pablo Araya
            dJMnKfcAAAAJ$total_cites, ## Juan Pablo Couyoumdjian
            IgwSc8oAAAAJ$total_cites, ## Juan Pablo Luna
            i2JJrfYAAAAJ$total_cites, ## Julieta Suarez-Cao
            grB28SkAAAAJ$total_cites, ## Karen Manzano
-           vOiOsAAAAJ$total_cites, ## Katherine Figueroa AillaÒir
+           vOiOsAAAAJ$total_cites, ## Katherine Figueroa Ailla√±ir
            kFHaW6wAAAAJ$total_cites, ## Kenneth Bunker
            qFLejd0AAAAJ$total_cites, ## Kirsten Sehnbruch
            otugCsoAAAAJ$total_cites, ## Laura Levick
            f9up4NwAAAAJ$total_cites, ## Lisa Zanotti
-           kiG1xgAAAAJ$total_cites, ## Lorena Oyarz˙n Serrano
+           kiG1xgAAAAJ$total_cites, ## Lorena Oyarz√∫n Serrano
            iIDHIHkAAAAJ$total_cites, ## Loreto Correa
            Kh9TTGwAAAAJ$total_cites, ## Lucia Dammert
-           jETtdIAAAAJ$total_cites, ## Luis ClaverÌa CambÛn
+           jETtdIAAAAJ$total_cites, ## Luis Claver√≠a Camb√≥n
            kj503iEAAAAJ$total_cites, ## Marcelo Marzouka
-           YDPznzAAAAAJ$total_cites, ## MarÌa Gabriela Cordova
+           YDPznzAAAAAJ$total_cites, ## Mar√≠a Gabriela Cordova
            pr35r24AAAAJ$total_cites, ## Mariol Virgili Lillo
            oYjLYEAAAAJ$total_cites, ## Matias Bargsted
            HA56QUAAAAJ$total_cites, ## Matthias Erlandsen
            qKDaZAMAAAAJ$total_cites, ## Mauricio Apablaza
            BPVbhToAAAAJ$total_cites, ## Mauricio Morales Quiroga
-           yXeMPpEAAAAJ$total_cites, ## Mauricio OlavarrÌa-Gambi
-           Iz7nUN8AAAAJ$total_cites, ## M·ximo Quitral
-           OLDMbVAAAAAJ$total_cites, ## Mireya D·vila
-           PtAYAAAAJ$total_cites, ## Nicol·s Del Valle
-           yyr6ge0AAAAJ$total_cites, ## Nicol·s M. Somma
+           yXeMPpEAAAAJ$total_cites, ## Mauricio Olavarr√≠a-Gambi
+           Iz7nUN8AAAAJ$total_cites, ## M√°ximo Quitral
+           OLDMbVAAAAAJ$total_cites, ## Mireya D√°vila
+           PtAYAAAAJ$total_cites, ## Nicol√°s Del Valle
+           yyr6ge0AAAAJ$total_cites, ## Nicol√°s M. Somma
            EQrjT5sAAAAJ$total_cites, ## Nicole Darat
            KEBgAAAAJ$total_cites, ## Nicole Jenne
-           JRlbehsAAAAJ$total_cites, ## Octavio AvendaÒo
+           JRlbehsAAAAJ$total_cites, ## Octavio Avenda√±o
            aEt164AAAAJ$total_cites, ## Olga Espinoza
            cyKIMlUAAAAJ$total_cites, ## Pablo Valenzuela
            IBcsZwAAAAJ$total_cites, ## Patricio Navia
@@ -750,12 +755,12 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            zePLgAAAAJ$total_cites, ## Rodrigo Osorio
            gkHNPiwAAAAJ$total_cites, ## Rossana Castiglioni
            R84mfaoAAAAJ$total_cites, ## Sandra Baquedano
-           CrQouUsAAAAJ$total_cites, ## Sebasti·n Carrasco
-           aQaYIAAAAJ$total_cites, ## Sebasti·n Umpierrez
+           CrQouUsAAAAJ$total_cites, ## Sebasti√°n Carrasco
+           aQaYIAAAAJ$total_cites, ## Sebasti√°n Umpierrez
            F7Dguu4AAAAJ$total_cites, ## Sergio Toro Maureira
            MsPC8uwAAAAJ$total_cites, ## Shirley Gotz
            MR9YwQkAAAAJ$total_cites, ## Sofia Donoso
-           HcNzaN4AAAAJ$total_cites, ## StÈphanie Alenda
+           HcNzaN4AAAAJ$total_cites, ## St√©phanie Alenda
            ZOmEt88AAAAJ$total_cites, ## Susana Gazmuri
            XrCQYoAAAAJ$total_cites, ## Tomas Dosek
            NvlbMocAAAAJ$total_cites, ## Umut Aydin
@@ -763,15 +768,15 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            lA1piEAAAAJ$total_cites, ## Veronica Figueroa Huencho
            VqjxJ4gAAAAJ$total_cites, ## Vesna Mandakovic
            IqYAAAAJ$total_cites, ## Violeta Montero
-           ihALyKUAAAAJ$total_cites, ## Waleska MuÒoz Aravena
+           ihALyKUAAAAJ$total_cites, ## Waleska Mu√±oz Aravena
            JxOP4oAAAAJ$total_cites, ## William Porath
            IYungBYAAAAJ$total_cites, ## Giancarlo Visconti
            AP5zUGwAAAAJ$total_cites, ## Gabriel L. Negretto
            ws3YSrkAAAAJ$total_cites, ## Ignacio Arana Araya
-           ie78OmcAAAAJ$total_cites, ## JosÈ Miguel Cabezas
+           ie78OmcAAAAJ$total_cites, ## Jos√© Miguel Cabezas
            cAowpkAAAAJ$total_cites, ## Rodrigo Mardones
            xP7heoAAAAJ$total_cites, ## Macarena Valenzuela
-           RBv0BPIAAAAJ$total_cites, ## Germ·n Bidegain
+           RBv0BPIAAAAJ$total_cites, ## Germ√°n Bidegain
            O7DOqCcAAAAJ$total_cites, ## Victor Tricot Salomon
            KZhWCqgAAAAJ$total_cites, ## Adrian Albala
            rIbm6tMAAAAJ$total_cites ## Miguel Angel Lopez
@@ -780,11 +785,11 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
 H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              KiGpYt4AAAAJ$h_index, ## Alejandro Corvalan
              C6i7344AAAAJ$h_index, ## Alfredo Joignant
-             mQwDWagAAAAJ$h_index, ## AndrÈs Stark AzÛcar
+             mQwDWagAAAAJ$h_index, ## Andr√©s Stark Az√≥car
              UYqfqAAAAAJ$h_index, ## Anthony A. Pezzola
              Y4q4OfoAAAAJ$h_index, ## Antoine Maillet
-             CDjgEGIAAAAJ$h_index, ## Antonio BascuÒ·n
-             UknWOrEAAAAJ$h_index, ## Basti·n Gonz·lez-Bustamante
+             CDjgEGIAAAAJ$h_index, ## Antonio Bascu√±√°n
+             UknWOrEAAAAJ$h_index, ## Basti√°n Gonz√°lez-Bustamante
              UALXeUMAAAAJ$h_index, ## Bernardo Mackenna
              IOab2sQAAAAJ$h_index, ## Camilo Vial
              Kq4dWnoAAAAJ$h_index, ## Carlos Huneeus
@@ -793,26 +798,26 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              WfwsloAAAAJ$h_index, ## Catherine Reyes-Housholder
              Y9qxhQ8AAAAJ$h_index, ## Cecilia Osorio Gonnet
              ZJSbAAAAAJ$h_index, ## Cesar Ross
-             hEwq8AAAAJ$h_index, ## Christopher MartÌnez
+             hEwq8AAAAJ$h_index, ## Christopher Mart√≠nez
              nj4yvK0AAAAJ$h_index, ## Claudia Heiss
              ckIjzZQAAAAJ$h_index, ## Claudio Fuentes
-             vLROxScAAAAJ$h_index, ## Claudio Fuentes-Gonz·lez
+             vLROxScAAAAJ$h_index, ## Claudio Fuentes-Gonz√°lez
              QQq0cAAAAJ$h_index, ## Cristian Garay Vera
-             MKayIWEAAAAJ$h_index, ## Cristian PÈrez MuÒoz
+             MKayIWEAAAAJ$h_index, ## Cristian P√©rez Mu√±oz
              HVy8iAAAAAJ$h_index, ## Cristian Pliscoff
              MwnsXycAAAAJ$h_index, ## Cristina Moyano Barahona
-             L8S57cAAAAJ$h_index, ## CristÛbal Bellolio
-             iRjwbMAAAAJ$h_index, ## CristÛbal Rovira
-             aw7lNr4AAAAJ$h_index, ## CristÛbal Sandoval
+             L8S57cAAAAJ$h_index, ## Crist√≥bal Bellolio
+             iRjwbMAAAAJ$h_index, ## Crist√≥bal Rovira
+             aw7lNr4AAAAJ$h_index, ## Crist√≥bal Sandoval
              s112cUYAAAAJ$h_index, ## Daniel Brieba
-             VQKPXBMAAAAJ$h_index, ## Daniel Flores C·ceres
-             B7eJM_0AAAAJ$h_index, ## Daniel Santib·Òez
+             VQKPXBMAAAAJ$h_index, ## Daniel Flores C√°ceres
+             B7eJM_0AAAAJ$h_index, ## Daniel Santiba√±ez
              xWbhhH8AAAAJ$h_index, ## David Altman
              MWiRrUAAAAJ$h_index, ## Diego Rossello
              NcxMjkAAAAAJ$h_index, ## Egon Montecinos
              bSlkAAAAJ$h_index, ## Ely Orrego
              dQZFoWYAAAAJ$h_index, ## Esteban Valenzuela
-             kHIa5vwAAAAJ$h_index, ## Eugenio Guzm·n
+             kHIa5vwAAAAJ$h_index, ## Eugenio Guzm√°n
              zAw8CDAAAAAJ$h_index, ## Evelyn Arriagada
              YAryivQAAAAJ$h_index, ## Felipe Schwember
              InrV7oEAAAAJ$h_index, ## Fernando Atria
@@ -820,9 +825,9 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              wXHJZ4oAAAAJ$h_index, ## Fernando Schmidt
              BB7GS4AAAAJ$h_index, ## Francisca Lisbona
              eubXaYAAAAJ$h_index, ## Francisco Urdinez
-             zWIsBT8AAAAJ$h_index, ## Germ·n Campos-Herrera
+             zWIsBT8AAAAJ$h_index, ## Germ√°n Campos-Herrera
              cEbNnwAAAAJ$h_index, ## Gonzalo Espinoza Bianchini
-             JmWI5MAAAAJ$h_index, ## Hugo JofrÈ
+             JmWI5MAAAAJ$h_index, ## Hugo Jofr√©
              rPfIQYAAAAJ$h_index, ## Ines Picazo Verdejo
              i6XB6MAAAAJ$h_index, ## Isaac Caro
              QeDE2BwAAAAJ$h_index, ## Jaime Contreras Alvarez
@@ -830,37 +835,37 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              mHLvikAAAAJ$h_index, ## Jeanne W. Simon
              VM3OxhsAAAAJ$h_index, ## Jorge Fabrega
              Q8J28ZcAAAAJ$h_index, ## Jose de la Cruz Garrido
-             tBxjDkcAAAAJ$h_index, ## JosÈ Hern·ndez-Bonivento
+             tBxjDkcAAAAJ$h_index, ## Jos√© Hern√°ndez-Bonivento
              wsdmHJ0AAAAJ$h_index, ## Juan Carlos Arellano
              eDBbeDcAAAAJ$h_index, ## Juan Pablo Araya
              dJMnKfcAAAAJ$h_index, ## Juan Pablo Couyoumdjian
              IgwSc8oAAAAJ$h_index, ## Juan Pablo Luna
              i2JJrfYAAAAJ$h_index, ## Julieta Suarez-Cao
              grB28SkAAAAJ$h_index, ## Karen Manzano
-             vOiOsAAAAJ$h_index, ## Katherine Figueroa AillaÒir
+             vOiOsAAAAJ$h_index, ## Katherine Figueroa Ailla√±ir
              kFHaW6wAAAAJ$h_index, ## Kenneth Bunker
              qFLejd0AAAAJ$h_index, ## Kirsten Sehnbruch
              otugCsoAAAAJ$h_index, ## Laura Levick
              f9up4NwAAAAJ$h_index, ## Lisa Zanotti
-             kiG1xgAAAAJ$h_index, ## Lorena Oyarz˙n Serrano
+             kiG1xgAAAAJ$h_index, ## Lorena Oyarz√∫n Serrano
              iIDHIHkAAAAJ$h_index, ## Loreto Correa
              Kh9TTGwAAAAJ$h_index, ## Lucia Dammert
-             jETtdIAAAAJ$h_index, ## Luis ClaverÌa CambÛn
+             jETtdIAAAAJ$h_index, ## Luis Claver√≠a Camb√≥n
              kj503iEAAAAJ$h_index, ## Marcelo Marzouka
-             YDPznzAAAAAJ$h_index, ## MarÌa Gabriela Cordova
+             YDPznzAAAAAJ$h_index, ## Mar√≠a Gabriela Cordova
              pr35r24AAAAJ$h_index, ## Mariol Virgili Lillo
              oYjLYEAAAAJ$h_index, ## Matias Bargsted
              HA56QUAAAAJ$h_index, ## Matthias Erlandsen
              qKDaZAMAAAAJ$h_index, ## Mauricio Apablaza
              BPVbhToAAAAJ$h_index, ## Mauricio Morales Quiroga
-             yXeMPpEAAAAJ$h_index, ## Mauricio OlavarrÌa-Gambi
-             Iz7nUN8AAAAJ$h_index, ## M·ximo Quitral
-             OLDMbVAAAAAJ$h_index, ## Mireya D·vila
-             PtAYAAAAJ$h_index, ## Nicol·s Del Valle
-             yyr6ge0AAAAJ$h_index, ## Nicol·s M. Somma
+             yXeMPpEAAAAJ$h_index, ## Mauricio Olavarr√≠a-Gambi
+             Iz7nUN8AAAAJ$h_index, ## M√°ximo Quitral
+             OLDMbVAAAAAJ$h_index, ## Mireya D√°vila
+             PtAYAAAAJ$h_index, ## Nicol√°s Del Valle
+             yyr6ge0AAAAJ$h_index, ## Nicol√°s M. Somma
              EQrjT5sAAAAJ$h_index, ## Nicole Darat
              KEBgAAAAJ$h_index, ## Nicole Jenne
-             JRlbehsAAAAJ$h_index, ## Octavio AvendaÒo
+             JRlbehsAAAAJ$h_index, ## Octavio Avenda√±o
              aEt164AAAAJ$h_index, ## Olga Espinoza
              cyKIMlUAAAAJ$h_index, ## Pablo Valenzuela
              IBcsZwAAAAJ$h_index, ## Patricio Navia
@@ -877,12 +882,12 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              zePLgAAAAJ$h_index, ## Rodrigo Osorio
              gkHNPiwAAAAJ$h_index, ## Rossana Castiglioni
              R84mfaoAAAAJ$h_index, ## Sandra Baquedano
-             CrQouUsAAAAJ$h_index, ## Sebasti·n Carrasco
-             aQaYIAAAAJ$h_index, ## Sebasti·n Umpierrez
+             CrQouUsAAAAJ$h_index, ## Sebasti√°n Carrasco
+             aQaYIAAAAJ$h_index, ## Sebasti√°n Umpierrez
              F7Dguu4AAAAJ$h_index, ## Sergio Toro Maureira
              MsPC8uwAAAAJ$h_index, ## Shirley Gotz
              MR9YwQkAAAAJ$h_index, ## Sofia Donoso
-             HcNzaN4AAAAJ$h_index, ## StÈphanie Alenda
+             HcNzaN4AAAAJ$h_index, ## St√©phanie Alenda
              ZOmEt88AAAAJ$h_index, ## Susana Gazmuri
              XrCQYoAAAAJ$h_index, ## Tomas Dosek
              NvlbMocAAAAJ$h_index, ## Umut Aydin
@@ -890,15 +895,15 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              lA1piEAAAAJ$h_index, ## Veronica Figueroa Huencho
              VqjxJ4gAAAAJ$h_index, ## Vesna Mandakovic
              IqYAAAAJ$h_index, ## Violeta Montero
-             ihALyKUAAAAJ$h_index, ## Waleska MuÒoz Aravena
+             ihALyKUAAAAJ$h_index, ## Waleska Mu√±oz Aravena
              JxOP4oAAAAJ$h_index, ## William Porath
              IYungBYAAAAJ$h_index, ## Giancarlo Visconti
              AP5zUGwAAAAJ$h_index, ## Gabriel L. Negretto
              ws3YSrkAAAAJ$h_index, ## Ignacio Arana Araya
-             ie78OmcAAAAJ$h_index, ## JosÈ Miguel Cabezas
+             ie78OmcAAAAJ$h_index, ## Jos√© Miguel Cabezas
              cAowpkAAAAJ$h_index, ## Rodrigo Mardones
              xP7heoAAAAJ$h_index, ## Macarena Valenzuela
-             RBv0BPIAAAAJ$h_index, ## Germ·n Bidegain
+             RBv0BPIAAAAJ$h_index, ## Germ√°n Bidegain
              O7DOqCcAAAAJ$h_index, ## Victor Tricot Salomon
              KZhWCqgAAAAJ$h_index, ## Adrian Albala
              rIbm6tMAAAAJ$h_index ## Miguel Angel Lopez
@@ -914,4 +919,5 @@ data$Inv_Index <- NULL
 data <- data[order(-data$H_Index, -data$Cites), ]
 rownames(data) <- NULL
 
+## Export CSV
 write.csv(data,'ranking_dec19.csv')
