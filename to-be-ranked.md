@@ -10,4 +10,6 @@
 2. Hector Bahamonde (ID 3FHDoL0AAAAJ)
 3. Renata Retamal Iturriaga (ID V8JzxeQAAAAJ)
 
+*Note. The next measurement will be collected by June 2020.*
+
 Last updated: 7 March 2020.
