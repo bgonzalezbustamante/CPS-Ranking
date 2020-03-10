@@ -9,6 +9,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated analysis career trajectories.
 - Updated prediction of H-Index.
 - Journals subranking.
+- Institutions subranking.
 ### Changed
 - Update of badges.
 
