@@ -3,8 +3,8 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.6.4] - 2020-09-05
-- Release of dataset (DOI 10.17605/OSF.IO/M3NZD).
+## [2.6.5] - 2020-09-05
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated prediction of H-Index.
@@ -13,14 +13,19 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [2.5.4] - 2020-06-05
-- Release of dataset (DOI 10.17605/OSF.IO/M3NZD).
+## [2.5.5] - 2020-06-05
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Validation code at GitHub repository.
 - Prediction of H-Index.
 ### Changed
 - Update of badges.
+- Minor typesetting corrections in the changelog.
+
+## [2.4.5] - 2020-03-11
+### Changed
+- Minor typesetting corrections in the changelog.
 
 ## [2.4.4] - 2020-03-09
 ### Changed
@@ -34,7 +39,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.4.2] - 2020-03-05
 ### Added
-- Release of dataset (DOI 10.17605/OSF.IO/M3NZD).
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
@@ -113,7 +118,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [0.3.0] - 2019-12-03
 ### Added
-- Release of dataset (DOI 10.17605/OSF.IO/M3NZD).
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Analysis of career trajectories.
 - Co-author network analysis.
 
