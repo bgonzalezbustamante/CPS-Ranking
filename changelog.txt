@@ -3,22 +3,36 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.6.5] - 2020-09-05
+## [2.7.5] - 2020-09-05
+### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
+- Updated co-author network analysis.
+- Validation code at GitHub repository.
+- Updated version institutions ranking.
 - Updated prediction of H-Index.
-- Journals subranking.
-- Institutions subranking.
+- Impact ranking weighted by journal publications.
 ### Changed
 - Update of badges.
 
-## [2.5.5] - 2020-06-05
+## [2.6.5] - 2020-06-05
+### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
+- Updated co-author network analysis.
 - Validation code at GitHub repository.
+- Updated version institutions ranking.
 - Prediction of H-Index.
+### Changed
+- Update of badges.
+
+## [Released]
+
+## [2.5.5] - 2020-03-14
+### Added
+- Chilean institutions ranking.
 ### Changed
 - Update of badges.
 - Minor typesetting corrections in the changelog.
@@ -34,8 +48,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [2.4.3] - 2020-03-07
 ### Changed
 - Update of researchers to be added.
-
-## [Released]
 
 ## [2.4.2] - 2020-03-05
 ### Added
