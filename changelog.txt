@@ -9,7 +9,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
-- Validation code at GitHub repository.
 - Updated version institutions ranking.
 - Updated prediction of H-Index.
 - Impact ranking weighted by journal publications.
@@ -22,9 +21,9 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
-- Validation code at GitHub repository.
 - Updated version institutions ranking.
 - Prediction of H-Index.
+- Validation code at GitHub repository.
 ### Changed
 - Update of badges.
 
