@@ -26,6 +26,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Validation code at GitHub repository.
 ### Changed
 - Update of badges.
+- Minor typesetting corrections in the changelog.
 
 ## [Released]
 
