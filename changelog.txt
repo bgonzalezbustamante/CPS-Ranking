@@ -3,7 +3,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.7.5] - 2020-09-05
+## [2.7.6] - 2020-09-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -15,7 +15,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [2.6.5] - 2020-06-05
+## [2.6.6] - 2020-06-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -23,9 +23,12 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated co-author network analysis.
 - Updated version institutions ranking.
 - Prediction of H-Index.
-- Validation code at GitHub repository.
+- Validation code on GitHub repository.
 ### Changed
 - Update of badges.
+
+## [2.5.6] - 2020-04-30
+### Changed
 - Minor typesetting corrections in the changelog.
 
 ## [Released]
@@ -64,18 +67,18 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.3.1] 2020-02-04
 ### Added
-- Changelog in TXT format at GitHub repository.
+- Changelog in TXT format on GitHub repository.
 ### Changed
 - Revision of upgrade versioning.
 
 ## [2.2.1] 2020-01-26
 ## Changed
-- Update of badges at GitHub repository.
+- Update of badges on GitHub repository.
 - Update of researchers to be added.
 
 ## [2.2.0] 2020-01-17
 ### Added
-- License CC-BY Attribution 4.0 International at GitHub repository.
+- License CC-BY Attribution 4.0 International on GitHub repository.
 
 ## [2.1.0] - 2020-01-14
 ### Added
