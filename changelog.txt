@@ -3,7 +3,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.7.6] - 2020-09-05
+## [2.8.6] - 2020-09-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -16,17 +16,21 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [2.6.6] - 2020-06-05
+## [2.7.6] - 2020-06-05
 ### Added
-- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
 - Updated version institutions ranking.
 ### Changed
+- Update of badges.
+
+## [2.6.6] - 2020-06-02
+### Added
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
+### Changed
 - UFT-8 encoding datasets (WIP).
 - Minor typesetting corrections in the changelog (WIP).
-- Update of badges.
 
 ## [2.5.6] - 2020-04-30
 ### Changed
