@@ -718,24 +718,24 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UMAYOR", ## 119. José Miguel Cabezas
                  "PUC", ## 120. Rodrigo Mardones
                  "UDP", ## 121. Macarena Valenzuela
-                 "UDELAR", ## Germán Bidegain
-                 "unk.", ## Victor Tricot Salomon
-                 "UnB", ## Adrian Albala
-                 "UCHILE", ## Miguel Angel Lopez
-                 "USACH", ## Marcelo Mella Polanco
-                 "UCHILE", ## Hary Hugo Fruhling
-                 "UAI", ## Arturo Arriagada
-                 "unk.", ## Jorge Gordin
-                 "PUC", ## Stefano Palestini
-                 "PUC", ## Ross Mittiga
-                 "PUC", ## Alfonso Donoso
-                 "PUC", ## Giovanni Agostinis
-                 "IL", ## Antonio Canale-Mayet
-                 "QMUL", ## Javier Sajuria
-                 "PUC", ## Federico Rojas-de-Galarreta
-                 "KCL", ## Ximena Soto Soutullo
-                 "USACH", ## Luis Garrido-Vergara
-                 "PUC" ## Carolina Acevedo
+                 "UDELAR", ## 122. Germán Bidegain
+                 "unk.", ## 123. Victor Tricot Salomon
+                 "UnB", ## 124. Adrian Albala
+                 "UCHILE", ## 125. Miguel Angel Lopez
+                 "USACH", ## 126. Marcelo Mella Polanco
+                 "UCHILE", ## 127. Hary Hugo Fruhling
+                 "UAI", ## 128. Arturo Arriagada
+                 "unk.", ## 129. Jorge Gordin
+                 "PUC", ## 130. Stefano Palestini
+                 "PUC", ## 131. Ross Mittiga
+                 "PUC", ## 132. Alfonso Donoso
+                 "PUC", ## 133. Giovanni Agostinis
+                 "IL", ## 134. Antonio Canale-Mayet
+                 "QMUL", ## 135. Javier Sajuria
+                 "PUC", ## 136. Federico Rojas-de-Galarreta
+                 "KCL", ## 137. Ximena Soto Soutullo
+                 "USACH", ## 138. Luis Garrido-Vergara
+                 "PUC" ## 139. Carolina Acevedo
 )
 
 ## Number of Cites
