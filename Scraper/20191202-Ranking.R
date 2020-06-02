@@ -1,7 +1,20 @@
-## CPS-Ranking December 2019
+##############################################################
+
+## Chilean Political Science Impact Ranking Scraper
+## R version 3.6.1 (2019-07-05) -- "Action of the Toes"
+## Date: December 2019
 ## Bastián González-Bustamante
-## bastian.gonzalezbustamante@politics.ox.ac.uk
-## http://users.ox.ac.uk/~shil5311/
+## University of Oxford
+## E-mail: bastian.gonzalezbustamante@politics.ox.ac.uk
+## Website: http://users.ox.ac.uk/~shil5311/
+
+## COVID-19 Pandemic in South America Project
+## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
+## Website: http://users.ox.ac.uk/~shil5311/ranking/
+## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
+
+##############################################################
+
 
 library(scholar)
 ## library(kableExtra)
@@ -920,4 +933,5 @@ data <- data[order(-data$H_Index, -data$Cites), ]
 rownames(data) <- NULL
 
 ## Export CSV
-write.csv(data,'20191202_ranking.csv')
+## write.csv(data,'20191202_ranking.csv')
+write.csv(data,'20191202_ranking.csv', fileEncoding = "UTF-8")
