@@ -1,12 +1,24 @@
-## CPS-Ranking March 2020
+##############################################################
+
+## Chilean Political Science Impact Ranking Scraper
+## R version 3.6.1 (2019-07-05) -- "Action of the Toes"
+## Date: March 2020
 ## Bastián González-Bustamante
-## bastian.gonzalezbustamante@politics.ox.ac.uk
-## http://users.ox.ac.uk/~shil5311/
+## University of Oxford
+## E-mail: bastian.gonzalezbustamante@politics.ox.ac.uk
+## Website: http://users.ox.ac.uk/~shil5311/
 
+## COVID-19 Pandemic in South America Project
+## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
+## Website: http://users.ox.ac.uk/~shil5311/ranking/
+## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
+
+##############################################################
+
+## Package
 library(scholar)
-## library(kableExtra)
 
-## Sample Previous Round (December 2019)
+## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
 KiGpYt4AAAAJ <- get_profile('KiGpYt4AAAAJ') ## Alejandro Corvalan
 C6i7344AAAAJ <- get_profile('C6i7344AAAAJ') ## Alfredo Joignant
@@ -133,7 +145,7 @@ O7DOqCcAAAAJ <- get_profile('O7DOqCcAAAAJ') ## Victor Tricot Salomon
 KZhWCqgAAAAJ <- get_profile('KZhWCqgAAAAJ') ## Adrian Albala
 rIbm6tMAAAAJ <- get_profile('rIbm6tMAAAAJ') ## Miguel Angel Lopez
 
-## Additional Sample (March 2020)
+## Sample March 2020
 qdm2fHgAAAAJ <- get_profile('qdm2fHgAAAAJ') ## Marcelo Mella Polanco
 dJKWN8wAAAAJ <- get_profile('dJKWN8wAAAAJ') ## Hary Hugo Fruhling
 TzPYdWsAAAAJ <- get_profile('TzPYdWsAAAAJ') ## Arturo Arriagada
@@ -149,13 +161,14 @@ r2q0t8cAAAAJhl <- get_profile('r2q0t8cAAAAJ&hl') ## Ximena Soto Soutullo
 DlO0jXVS4FIC <- get_profile('DlO0jXVS4FIC') ## Luis Garrido-Vergara
 KNKPs0EAAAAJ <- get_profile('KNKPs0EAAAAJ') ## Carolina Acevedo
 
-## Excluded (since December 2019)
+## Excluded
 ## Authors who had added to their profile publications that are not their 
 ## authorship (because of name confusion, deliberately or without realising it) 
 ## have been removed from the ranking.
 ## MMCj-VQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## Álvaro Ramírez-Alujas
 ## QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
 
+## Names
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           KiGpYt4AAAAJ$name, ## Alejandro Corvalan
           "Alfredo Joignant", ## C6i7344AAAAJ$name, 
@@ -297,6 +310,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           KNKPs0EAAAAJ$name ## Carolina Acevedo
 )
 
+## Google Scholar ID
 ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$id, ## Alejandro Corvalan
         C6i7344AAAAJ$id, ## Alfredo Joignant
@@ -438,6 +452,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         KNKPs0EAAAAJ$id ## Carolina Acevedo
 )
 
+## Affiliations
 Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$affiliation, ## Alejandro Corvalan
         C6i7344AAAAJ$affiliation, ## Alfredo Joignant
@@ -579,8 +594,9 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         KNKPs0EAAAAJ$affiliation ## Carolina Acevedo
 )
 
-Aff
+## Aff
 
+## Short-Affiliations
 Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 2. Alejandro Corvalan
                  "UDP-COES", ## 3. Alfredo Joignant
@@ -722,6 +738,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "PUC" ## Carolina Acevedo
 )
 
+## Number of Cites
 Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            KiGpYt4AAAAJ$total_cites, ## Alejandro Corvalan
            C6i7344AAAAJ$total_cites, ## Alfredo Joignant
@@ -863,6 +880,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            KNKPs0EAAAAJ$total_cites ## Carolina Acevedo
 )
 
+## H-Index
 H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              KiGpYt4AAAAJ$h_index, ## Alejandro Corvalan
              C6i7344AAAAJ$h_index, ## Alfredo Joignant
@@ -1004,8 +1022,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              KNKPs0EAAAAJ$h_index ## Carolina Acevedo
 )
 
-## rm(data)
-
+## Quartiles
 Inv_Index <- H_Index*-1
 data <- data.frame(Name, ID, Affiliation, Cites, H_Index, Inv_Index)
 data[is.na(data)] <- 0
@@ -1015,4 +1032,5 @@ data <- data[order(-data$H_Index, -data$Cites), ]
 rownames(data) <- NULL
 
 ## Export CSV
-write.csv(data,'20200305_ranking.csv')
+## write.csv(data,'20200305_ranking.csv')
+write.csv(data,'20200305_ranking.csv', fileEncoding = "UTF-8")
