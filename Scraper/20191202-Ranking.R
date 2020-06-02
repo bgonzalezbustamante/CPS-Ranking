@@ -15,11 +15,10 @@
 
 ##############################################################
 
-
+## Package
 library(scholar)
-## library(kableExtra)
 
-## Initial Sample (December 2019)
+## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
 KiGpYt4AAAAJ <- get_profile('KiGpYt4AAAAJ') ## Alejandro Corvalan
 C6i7344AAAAJ <- get_profile('C6i7344AAAAJ') ## Alfredo Joignant
@@ -135,8 +134,6 @@ VqjxJ4gAAAAJ <- get_profile('VqjxJ4gAAAAJ') ## Vesna Mandakovic
 IqYAAAAJ <- get_profile('21Iq__YAAAAJ') ## Violeta Montero
 ihALyKUAAAAJ <- get_profile('ihALyKUAAAAJ') ## Waleska Muñoz Aravena
 JxOP4oAAAAJ <- get_profile('JxOP4-oAAAAJ')  ## William Porath
-
-## Additional Sample (December 2019)
 IYungBYAAAAJ <- get_profile('IYungBYAAAAJ') ## Giancarlo Visconti
 AP5zUGwAAAAJ <- get_profile('AP5zUGwAAAAJ') ## Gabriel L. Negretto
 ws3YSrkAAAAJ <- get_profile('ws3YSrkAAAAJ') ## Ignacio Arana Araya
@@ -148,16 +145,14 @@ O7DOqCcAAAAJ <- get_profile('O7DOqCcAAAAJ') ## Victor Tricot Salomon
 KZhWCqgAAAAJ <- get_profile('KZhWCqgAAAAJ') ## Adrian Albala
 rIbm6tMAAAAJ <- get_profile('rIbm6tMAAAAJ') ## Miguel Angel Lopez
 
-## Sample Next Round (March 2020)
-## TzPYdWsAAAAJ <- get_profile('TzPYdWsAAAAJ') ## Arturo Arriagada
-
-## Excluded (December 2019)
+## Excluded
 ## Authors who had added to their profile publications that are not their 
 ## authorship (because of name confusion, deliberately or without realising it) 
 ## have been removed from the ranking.
 ## MMCj-VQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## Álvaro Ramírez-Alujas
 ## QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
 
+## Names
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           KiGpYt4AAAAJ$name, ## Alejandro Corvalan
           "Alfredo Joignant", ## C6i7344AAAAJ$name, 
@@ -285,6 +280,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           "Miguel Angel Lopez" ## Miguel Angel Lopez
 )
 
+## Google Scholar ID
 ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$id, ## Alejandro Corvalan
         C6i7344AAAAJ$id, ## Alfredo Joignant
@@ -412,6 +408,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         rIbm6tMAAAAJ$id ## Miguel Angel Lopez
 )
 
+## Affiliations
 Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$affiliation, ## Alejandro Corvalan
         C6i7344AAAAJ$affiliation, ## Alfredo Joignant
@@ -539,8 +536,9 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         rIbm6tMAAAAJ$affiliation ## Miguel Angel Lopez
 )
 
-Aff
+## Aff
 
+## Short-Affiliations
 Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UDP", ## 2. Alejandro Corvalan
                  "UDP-COES", ## 3. Alfredo Joignant
@@ -668,6 +666,7 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UCHILE" ## Miguel Angel Lopez
 )
 
+## Number of Cites
 Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            KiGpYt4AAAAJ$total_cites, ## Alejandro Corvalan
            C6i7344AAAAJ$total_cites, ## Alfredo Joignant
@@ -795,6 +794,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            rIbm6tMAAAAJ$total_cites ## Miguel Angel Lopez
 )
 
+## H-Index
 H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              KiGpYt4AAAAJ$h_index, ## Alejandro Corvalan
              C6i7344AAAAJ$h_index, ## Alfredo Joignant
@@ -922,8 +922,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              rIbm6tMAAAAJ$h_index ## Miguel Angel Lopez
 )
 
-## rm(data)
-
+## Quartiles
 Inv_Index <- H_Index*-1
 data <- data.frame(Name, ID, Affiliation, Cites, H_Index, Inv_Index)
 data[is.na(data)] <- 0
