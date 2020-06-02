@@ -660,10 +660,10 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "UMAYOR", ## 119. José Miguel Cabezas
                  "PUC", ## 120. Rodrigo Mardones
                  "UDP", ## 121. Macarena Valenzuela
-                 "UDELAR", ## Germán Bidegain
-                 "unk.", ## Victor Tricot Salomon
-                 "UnB", ## Adrian Albala
-                 "UCHILE" ## Miguel Angel Lopez
+                 "UDELAR", ## 122. Germán Bidegain
+                 "unk.", ## 123. Victor Tricot Salomon
+                 "UnB", ## 124. Adrian Albala
+                 "UCHILE" ## 125. Miguel Angel Lopez
 )
 
 ## Number of Cites
