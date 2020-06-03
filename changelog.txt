@@ -19,18 +19,20 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking (WIP).
 - Chilean universities ranking (WIP).
 ### Changed
+- Unique changelog at GitHub repository (WIP).
 - Update of badges (WIP).
 ### Deprecated
 - Analysis career trajectories.
 - Co-author network analysis.
 - Institutions ranking.
+- Changelog at the website.
 
 ## [2.6.6] - 2020-06-02
 ### Added
-- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 ### Changed
-- UFT-8 encoding datasets (WIP).
-- Minor typesetting corrections in the changelog (WIP).
+- UFT-8 encoding datasets.
+- Minor typesetting corrections in the changelog.
 
 ## [2.5.6] - 2020-04-30
 ### Changed
