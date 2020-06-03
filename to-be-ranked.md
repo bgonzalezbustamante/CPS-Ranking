@@ -6,13 +6,8 @@
 
 **Researchers to be added:**
 
-1. Andrés Dockendorff (ID fJbvIm4AAAAJ)
-2. Hector Bahamonde (ID 3FHDoL0AAAAJ)
-3. Renata Retamal Iturriaga (ID V8JzxeQAAAAJ)
-4. Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ)
-5. Lucas Perelló (ID ShRtBhMAAAAJ)
-6. Carlos Cantillana (ID 8iP3MuwAAAAJ)
+1. 
 
-*Note. The next measurement will be collected by June 2020.*
+*Note. The next measurement will be collected by September 2020.*
 
-Last updated: 14 March 2020.
+Last updated: June 3, 2020.
