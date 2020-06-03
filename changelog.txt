@@ -16,14 +16,14 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [2.7.6] - 2020-06-05
+## [2.7.6] - 2020-06-03
 ### Added
-- Updated version impact ranking.
-- Updated analysis career trajectories.
-- Updated co-author network analysis.
-- Updated version institutions ranking.
+- Updated version impact ranking (WIP).
+- Updated analysis career trajectories (WIP).
+- Updated co-author network analysis (WIP).
+- Updated version institutions ranking (WIP).
 ### Changed
-- Update of badges.
+- Update of badges (WIP).
 
 ## [2.6.6] - 2020-06-02
 ### Added
