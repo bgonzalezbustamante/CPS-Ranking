@@ -7,23 +7,22 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
-- Updated analysis career trajectories.
-- Updated co-author network analysis.
 - Updated version institutions ranking.
-- Prediction of H-Index.
-- Validation code at GitHub repository.
-- Impact ranking weighted by journal publications.
+- Prediction of H-Index (TBC).
+- Validation code at GitHub repository (TBC).
+- Impact ranking weighted by journal publications (TBC).
 ### Changed
 - Update of badges.
 
 ## [2.7.6] - 2020-06-03
 ### Added
 - Updated version impact ranking (WIP).
-- Updated analysis career trajectories (WIP).
-- Updated co-author network analysis (WIP).
 - Updated version institutions ranking (WIP).
 ### Changed
 - Update of badges (WIP).
+### Deprecated
+- Updated analysis career trajectories.
+- Updated co-author network analysis.
 
 ## [2.6.6] - 2020-06-02
 ### Added
