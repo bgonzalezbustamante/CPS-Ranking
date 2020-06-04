@@ -21,6 +21,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Chilean universities ranking.
 ### Changed
+- Tabular style.
 - Unique changelog at GitHub repository.
 - Update of badges.
 ### Deprecated
