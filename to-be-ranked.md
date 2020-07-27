@@ -10,4 +10,4 @@
 
 *Note. The next measurement will be collected by September 2020.*
 
-Last updated: June 3, 2020.
+Last updated: July 27, 2020.
