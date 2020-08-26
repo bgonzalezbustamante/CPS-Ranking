@@ -3,7 +3,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.8.9] - 2020-09-05
+## [2.8.10] - 2020-09-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -11,6 +11,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Prediction of H-Index (TBC).
 - Validation code at GitHub repository (TBC).
 - Impact ranking weighted by journal publications (TBC).
+### Changed
+- Update of badges.
+
+## [2.7.10] - 2020-08-26
 ### Changed
 - Update of badges.
 
