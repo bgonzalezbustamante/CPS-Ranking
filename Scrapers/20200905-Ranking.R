@@ -787,7 +787,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "PUC", ## 136. Federico Rojas-de-Galarreta
                  "KCL", ## 137. Ximena Soto Soutullo
                  "USACH", ## 138. Luis Garrido-Vergara
-                 "PUC", ## 139. Carolina Acevedo
+                 "UCT", ## 139. Carolina Acevedo
                  "UCHILE", ## 140. Andrés Dockendorff
                  "UOH", ## 141. Hector Bahamonde
                  "unk.", ## 142. Renata Retamal Iturriaga
