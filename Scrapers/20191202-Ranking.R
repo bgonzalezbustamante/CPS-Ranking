@@ -8,7 +8,7 @@
 ## E-mail: bastian.gonzalezbustamante@politics.ox.ac.uk
 ## Website: http://users.ox.ac.uk/~shil5311/
 
-## COVID-19 Pandemic in South America Project
+## Chilean Political Science Impact Ranking Project
 ## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
 ## Website: http://users.ox.ac.uk/~shil5311/ranking/
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
