@@ -10,7 +10,8 @@
 2. María Patricia Sotomayor Valarezo (ID ZRf8dtAAAAAJ)
 3. Sergio A. Huertas-Hernandez (ID fv7N0eUAAAAJ)
 4. Aldo Madariaga (ID n0UQqa4AAAAJ)
+5. Carla Cisternas (ID ArIMp5YAAAAJ)
 
 *Note. The next measurement will be collected by September 2020.*
 
-Last updated: August 5, 2020.
+Last updated: September 5, 2020.
