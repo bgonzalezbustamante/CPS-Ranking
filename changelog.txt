@@ -19,11 +19,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [2.8.10] - 2020-09-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
-- Updated version impact ranking (WIP).
-- Updated version universities ranking (WIP).
+- Updated version impact ranking.
+- Updated version universities ranking.
 - Update of researchers to be added.
 ### Changed
-- Update of badges (WIP).
+- Update of badges.
 
 ## [2.7.10] - 2020-08-26
 ### Changed
