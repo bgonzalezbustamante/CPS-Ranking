@@ -14,6 +14,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
+## [2.8.11] - 2020-09-20
+### Changed
+- Update of badges.
+
 ## [Released]
 
 ## [2.8.10] - 2020-09-05
