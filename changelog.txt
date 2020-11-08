@@ -3,7 +3,16 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.9.10] - 2020-09-05
+## [2.10.12] - 2021-03-05
+### Added
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
+- Updated version impact ranking.
+- Updated version universities ranking.
+- Impact ranking weighted by journal publications (TBC).
+### Changed
+- Update of badges.
+
+## [2.9.12] - 2020-12-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -13,6 +22,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Impact ranking weighted by journal publications (TBC).
 ### Changed
 - Update of badges.
+
+## [2.8.12] - 2020-11-08
+### Changed
+- Update of researchers to be added.
+- Minor typesetting corrections in the changelog.
 
 ## [2.8.11] - 2020-09-20
 ### Changed
