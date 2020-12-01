@@ -14,12 +14,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.9.12] - 2020-12-05
 ### Added
-- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
-- Updated version impact ranking.
-- Updated version universities ranking.
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
+- Updated version impact ranking (WIP).
+- Updated version universities ranking (WIP).
+- Validation code at GitHub repository (WIP).
 - Prediction of H-Index (TBC).
-- Validation code at GitHub repository (TBC).
-- Impact ranking weighted by journal publications (TBC).
 ### Changed
 - Update of badges.
 
