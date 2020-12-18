@@ -3,7 +3,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.10.12] - 2021-03-05
+## [4.0.0] - TBC
+### Added
+- Automatic deployment from GitHub with Netlify on own domain.
+
+## [3.2.0] - 2021-03-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -12,15 +16,39 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [2.9.12] - 2020-12-05
+## [3.1.0] - TBC
 ### Added
-- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
-- Updated version impact ranking (WIP).
-- Updated version universities ranking (WIP).
 - Validation code at GitHub repository (WIP).
 - Prediction of H-Index (TBC).
 ### Changed
 - Update of badges.
+
+## [3.0.0] - TBC
+### Added
+- Automatic deployment from GitHub with Netlify.
+- DNS domain redirections.
+### Changed
+- CPS-Ranking from ox.ac.uk to bgonzalezbustamante.com.
+### Removed
+- Uploading by FTP on ox.ac.uk server.
+
+## [Released]
+
+## [2.11.9] - 2020-12-18 (WIP)
+### Added
+- Preparing automatic deployment from GitHub with Netlify.
+### Deprecated
+- Uploading by FTP on ox.ac.uk server.
+
+## [2.10.12] - 2020-12-16
+### Added
+- Updated version impact ranking.
+### Changed
+- Update of badges.
+
+## [2.9.12] - 2020-12-01
+### Added
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 
 ## [2.8.12] - 2020-11-08
 ### Changed
@@ -30,8 +58,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [2.8.11] - 2020-09-20
 ### Changed
 - Update of badges.
-
-## [Released]
 
 ## [2.8.10] - 2020-09-05
 ### Added
