@@ -23,7 +23,9 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [3.0.0] - TBC
+## [Released]
+
+## [3.0.0] - 2020-12-19
 ### Added
 - Automatic deployment from GitHub with Netlify.
 - DNS domain redirections.
@@ -32,9 +34,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Removed
 - Uploading by FTP on ox.ac.uk server.
 
-## [Released]
-
-## [2.11.12] - 2020-12-18 (WIP)
+## [2.11.12] - 2020-12-18
 ### Added
 - Preparing automatic deployment from GitHub with Netlify.
 ### Deprecated
