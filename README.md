@@ -12,4 +12,4 @@ The fifth measurement has been collected on December 1, 2020. The next one will 
 
 I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), and [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) for their valuable comments and contributions. 
 
-Last updated: January 19, 2020.
+Last updated: January 19, 2021.
