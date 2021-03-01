@@ -6,17 +6,20 @@
 ## Bastián González-Bustamante
 ## University of Oxford
 ## E-mail: bastian.gonzalezbustamante@politics.ox.ac.uk
-## Website: http://users.ox.ac.uk/~shil5311/
+## Website: https://bgonzalezbustamante.com/
 
 ## Chilean Political Science Impact Ranking Project
 ## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
-## Website: http://users.ox.ac.uk/~shil5311/ranking/
+## Website: https://bgonzalezbustamante.com/cps-ranking/
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
 ##############################################################
 
 ## Package
 library(scholar)
+
+## Directory
+setwd("20200305")
 
 ## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
@@ -145,6 +148,13 @@ O7DOqCcAAAAJ <- get_profile('O7DOqCcAAAAJ') ## Victor Tricot Salomon
 KZhWCqgAAAAJ <- get_profile('KZhWCqgAAAAJ') ## Adrian Albala
 rIbm6tMAAAAJ <- get_profile('rIbm6tMAAAAJ') ## Miguel Angel Lopez
 
+## Excluded
+## Authors who had added to their profile publications that are not their 
+## authorship (because of name confusion, deliberately or without realising it) 
+## have been removed from the ranking.
+MMCj-VQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## Álvaro Ramírez-Alujas
+QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
+
 ## Sample March 2020
 qdm2fHgAAAAJ <- get_profile('qdm2fHgAAAAJ') ## Marcelo Mella Polanco
 dJKWN8wAAAAJ <- get_profile('dJKWN8wAAAAJ') ## Hary Hugo Fruhling
@@ -160,13 +170,6 @@ hTyE9WAAAAAJ <- get_profile('hTyE9WAAAAAJ') ## Federico Rojas-de-Galarreta
 r2q0t8cAAAAJhl <- get_profile('r2q0t8cAAAAJ&hl') ## Ximena Soto Soutullo
 DlO0jXVS4FIC <- get_profile('DlO0jXVS4FIC') ## Luis Garrido-Vergara
 KNKPs0EAAAAJ <- get_profile('KNKPs0EAAAAJ') ## Carolina Acevedo
-
-## Excluded
-## Authors who had added to their profile publications that are not their 
-## authorship (because of name confusion, deliberately or without realising it) 
-## have been removed from the ranking.
-## MMCj-VQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## Álvaro Ramírez-Alujas
-## QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
 
 ## Names
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
