@@ -160,7 +160,7 @@ u9c4q20AAAAJ <- get_profile('u9c4q20AAAAJ') ## Giovanni Agostinis
 dFcoyfMAAAAJ <- get_profile('dFcoyfMAAAAJ') ## Antonio Canale-Mayet
 elmJq2gAAAAJ <- get_profile('elmJq2gAAAAJ') ## Javier Sajuria
 hTyE9WAAAAAJ <- get_profile('hTyE9WAAAAAJ') ## Federico Rojas-de-Galarreta
-r2q0t8cAAAAJhl <- get_profile('r2q0t8cAAAAJ&hl') ## Ximena Soto Soutullo
+r2q0t8cAAAAJhl <- get_profile('r2q0t8cAAAAJ') ## Ximena Soto Soutullo
 DlO0jXVS4FIC <- get_profile('DlO0jXVS4FIC') ## Luis Garrido-Vergara
 KNKPs0EAAAAJ <- get_profile('KNKPs0EAAAAJ') ## Carolina Acevedo
 
@@ -214,7 +214,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           nj4yvK0AAAAJ$name, ## Claudia Heiss
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
           vLROxScAAAAJ$name, ## Claudio Fuentes-González
-          QQq0cAAAAJ$name, ## Cristian Garay Vera
+          "Cristian Garay Vera", ## Cristian Garay Vera
           "Cristian Pérez Muñoz", ## MKayIWEAAAAJ$name, 
           HVy8iAAAAAJ$name, ## Cristian Pliscoff
           MwnsXycAAAAJ$name, ## Cristina Moyano Barahona
@@ -486,7 +486,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         dFcoyfMAAAAJ$id, ## Antonio Canale-Mayet
         elmJq2gAAAAJ$id, ## Javier Sajuria
         hTyE9WAAAAAJ$id,  ## Federico Rojas-de-Galarreta
-        r2q0t8cAAAAJhl$id, ## Ximena Soto Soutullo
+        "r2q0t8cAAAAJ", ## Ximena Soto Soutullo
         DlO0jXVS4FIC$id, ## Luis Garrido-Vergara
         KNKPs0EAAAAJ$id, ## Carolina Acevedo
         fJbvIm4AAAAJ$id, ## Andrés Dockendorff
