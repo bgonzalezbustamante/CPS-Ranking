@@ -7,29 +7,25 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Automatic deployment from GitHub with Netlify on own domain.
 
-## [3.4.1] - 2021-03-05
+## [3.3.1] - 2021-06-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
-- Updated version universities ranking (TBC).
-- Impact ranking weighted by journal publications (TBC).
+- Validation code at GitHub repository (TBC).
 - Prediction of H-Index (TBC).
 ### Changed
 - Update of badges.
 
-## [3.3.1] - TBC
-### Added
-- Validation code at GitHub repository (WIP).
-### Changed
-- Update of badges.
+## [Released]
 
-## [3.2.1] - 2021-03-05
+## [3.2.1] - 2021-03-08
 ### Added
 - Updated version impact ranking (WIP).
 ### Changed
-- Update of badges.
-
-## [Released]
+- Tabular style (WIP).
+- Last names typo corrections on data sets (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
+- Revision of upgrade versioning.
+- Update of badges (WIP).
 
 ## [3.1.1] - 2021-03-01
 ### Added
@@ -45,6 +41,8 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - DNS domain redirections.
 ### Changed
 - CPS-Ranking from ox.ac.uk to bgonzalezbustamante.com.
+### Deprecated
+- Updated universities ranking.
 ### Removed
 - Uploading by FTP on ox.ac.uk server.
 
@@ -117,7 +115,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 ### Changed
-- UFT-8 encoding datasets.
+- UTF-8 encoding datasets.
 - Minor typesetting corrections in the changelog.
 ### Deprecated
 - Changelog at the website.
