@@ -176,7 +176,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           nj4yvK0AAAAJ$name, ## Claudia Heiss
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
           vLROxScAAAAJ$name, ## Claudio Fuentes-González
-          QQq0cAAAAJ$name, ## Cristian Garay Vera
+          "Cristian Garay Vera", ## Cristian Garay Vera
           "Cristian Pérez Muñoz", ## MKayIWEAAAAJ$name, 
           HVy8iAAAAAJ$name, ## Cristian Pliscoff
           MwnsXycAAAAJ$name, ## Cristina Moyano Barahona
