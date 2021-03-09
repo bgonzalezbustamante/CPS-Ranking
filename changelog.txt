@@ -20,12 +20,12 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [3.2.1] - 2021-03-08
 ### Added
-- Updated version impact ranking (WIP).
+- Updated version impact ranking.
 ### Changed
-- Tabular style (WIP).
-- Last names typo corrections on data sets (DOI: 10.17605/OSF.IO/M3NZD) (WIP).
+- Tabular style.
+- Last names typo corrections on data sets (DOI: 10.17605/OSF.IO/M3NZD).
 - Revision of upgrade versioning.
-- Update of badges (WIP).
+- Update of badges.
 
 ## [3.1.1] - 2021-03-01
 ### Added
