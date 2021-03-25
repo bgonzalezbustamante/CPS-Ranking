@@ -16,6 +16,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
+## [3.2.4] - 2021-03-25
+### Changed
+- Revision of upgrade versioning.
+- Update of researchers to be added.
+
 ## [Released]
 
 ## [3.2.3] - 2021-03-11
@@ -181,7 +186,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.1.0] - 2020-01-14
 ### Added
-- Badges in SVG.
+- Badges in SVG at GitHub repository and Web.
 ### Changed
 - Update of researchers to be added.
 
@@ -201,7 +206,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [1.0.2] - 2020-01-01
 ### Changed
-- Minor typesetting corrections.
+- Minor corrections.
 
 ## [1.0.1] - 2019-12-23
 ### Changed
