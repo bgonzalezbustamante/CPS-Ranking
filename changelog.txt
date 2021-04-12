@@ -16,13 +16,13 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
+## [Released]
+
 ## [3.2.4] - 2021-03-25
 ### Changed
 - Revision of upgrade versioning.
 - Update of researchers to be added.
 - Minor corrections.
-
-## [Released]
 
 ## [3.2.3] - 2021-03-11
 ### Changed
