@@ -327,7 +327,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           MR9YwQkAAAAJ$name, ## Sofia Donoso
           HcNzaN4AAAAJ$name, ## Stéphanie Alenda
           ZOmEt88AAAAJ$name, ## Susana Gazmuri
-          XrCQYoAAAAJ$name, ## Tomas Dosek
+          "Tomas Dosek", ## Tomas Dosek
           NvlbMocAAAAJ$name, ## Umut Aydin
           lzMBqcAAAAJ$name, ## Valeria Palanza
           lA1piEAAAAJ$name, ## Veronica Figueroa Huencho
