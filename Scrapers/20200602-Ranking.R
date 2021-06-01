@@ -1,4 +1,8 @@
-##############################################################
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Script ID ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Chilean Political Science Impact Ranking Scraper
 ## R version 3.6.1 (2019-07-05) -- "Action of the Toes"
@@ -13,13 +17,14 @@
 ## Website: https://bgonzalezbustamante.com/cps-ranking/
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
-##############################################################
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Sample ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Package
 library(scholar)
-
-## Directory
-setwd("20200602")
 
 ## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
@@ -179,6 +184,12 @@ bsie88AAAAJ <- get_profile('bsi-e88AAAAJ') ## Gonzalo Contreras Aguirre
 ShRtBhMAAAAJ <- get_profile('ShRtBhMAAAAJ') ## Lucas Perelló
 P3MuwAAAAJ <- get_profile('8iP3MuwAAAAJ') ## Carlos Cantillana
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Names ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## Names
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           KiGpYt4AAAAJ$name, ## Alejandro Corvalan
@@ -327,6 +338,12 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           P3MuwAAAAJ$name ## Carlos Cantillana
 )
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Scholar ID ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## Google Scholar ID
 ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$id, ## Alejandro Corvalan
@@ -474,6 +491,12 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         ShRtBhMAAAAJ$id, ## Lucas Perelló
         P3MuwAAAAJ$id ## Carlos Cantillana
 )
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Affiliations ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Affiliations
 Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
@@ -773,6 +796,12 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "unk." ## 145. Carlos Cantillana
 )
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Cites ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## Number of Cites
 Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            KiGpYt4AAAAJ$total_cites, ## Alejandro Corvalan
@@ -920,6 +949,12 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            ShRtBhMAAAAJ$total_cites, ## Lucas Perelló
            P3MuwAAAAJ$total_cites ## Carlos Cantillana
 )
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### H-Index ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## H-Index
 H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
@@ -1069,6 +1104,12 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              P3MuwAAAAJ$h_index ## Carlos Cantillana
 )
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Data Set ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## Quartiles
 Inv_Index <- H_Index*-1
 data <- data.frame(Name, ID, Affiliation, Cites, H_Index, Inv_Index)
@@ -1079,4 +1120,4 @@ data <- data[order(-data$H_Index, -data$Cites), ]
 rownames(data) <- NULL
 
 ## Export CSV
-write.csv(data,'20200602_ranking.csv', fileEncoding = "UTF-8")
+write.csv(data,'20200602/20200602_ranking.csv', fileEncoding = "UTF-8")
