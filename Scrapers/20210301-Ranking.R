@@ -1,4 +1,8 @@
-##############################################################
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Script ID ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Chilean Political Science Impact Ranking Scraper
 ## R version 4.0.2 (2020-06-22) -- "Taking Off Again"
@@ -13,13 +17,14 @@
 ## Website: https://bgonzalezbustamante.com/cps-ranking/
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
-##############################################################
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Sample ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Package
 library(scholar)
-
-## Directory
-setwd("20210301")
 
 ## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
@@ -148,6 +153,13 @@ O7DOqCcAAAAJ <- get_profile('O7DOqCcAAAAJ') ## Victor Tricot Salomon
 KZhWCqgAAAAJ <- get_profile('KZhWCqgAAAAJ') ## Adrian Albala
 rIbm6tMAAAAJ <- get_profile('rIbm6tMAAAAJ') ## Miguel Angel Lopez
 
+## Excluded
+## Authors who had added to their profile publications that are not their 
+## authorship (because of name confusion, deliberately or without realising it) 
+## have been removed from the ranking.
+MMCjVQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## Álvaro Ramírez-Alujas
+QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
+
 ## Sample March 2020
 qdm2fHgAAAAJ <- get_profile('qdm2fHgAAAAJ') ## Marcelo Mella Polanco
 dJKWN8wAAAAJ <- get_profile('dJKWN8wAAAAJ') ## Hary Hugo Fruhling
@@ -172,13 +184,6 @@ bsie88AAAAJ <- get_profile('bsi-e88AAAAJ') ## Gonzalo Contreras Aguirre
 ShRtBhMAAAAJ <- get_profile('ShRtBhMAAAAJ') ## Lucas Perelló
 P3MuwAAAAJ <- get_profile('8iP3MuwAAAAJ') ## Carlos Cantillana
 
-## Excluded
-## Authors who had added to their profile publications that are not their 
-## authorship (because of name confusion, deliberately or without realising it) 
-## have been removed from the ranking.
-MMCjVQAAAAJ <- get_profile('MMCj-VQAAAAJ') ## Álvaro Ramírez-Alujas
-QkIdjasAAAAJ <- get_profile('QkIdjasAAAAJ') ## Juan Carlos Castillo 
-
 ## Sample September 2020
 R7MsicAAAAJ <- get_profile('1R7MsicAAAAJ') ## Rodolfo de Camargo Lima
 ZRf8dtAAAAAJ <- get_profile('ZRf8dtAAAAAJ') ## María Patricia Sotomayor Valarezo
@@ -192,6 +197,12 @@ s6VvyfsAAAAJ <- get_profile('s6VvyfsAAAAJ') ## María Cristina Escudero
 
 ## Sample March 2021
 IiVBoQAAAAJ <- get_profile('IiVB-oQAAAAJ') ## Javiera Arce
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Names ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Names
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
@@ -349,6 +360,12 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           IiVBoQAAAAJ$name ## Javiera Arce
 )
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Scholar ID ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## Google Scholar ID
 ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         KiGpYt4AAAAJ$id, ## Alejandro Corvalan
@@ -504,6 +521,12 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         s6VvyfsAAAAJ$id, ## María Cristina Escudero
         IiVBoQAAAAJ$id ## Javiera Arce
 )
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Affiliations ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Affiliations
 Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
@@ -816,8 +839,14 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UMAYOR", ## 150. Carla Cisternas 
                  "UDEC", ## 151. Armando Cartes Montory
                  "UCHILE", ## 152. María Cristina Escudero
-                 "UVALPO" ## Javiera Arce
+                 "UVALPO" ## 153. Javiera Arce
 )
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Cites ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Number of Cites
 Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
@@ -975,6 +1004,12 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            IiVBoQAAAAJ$total_cites ## Javiera Arce
 )
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### H-Index ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## H-Index
 H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              KiGpYt4AAAAJ$h_index, ## Alejandro Corvalan
@@ -1131,6 +1166,12 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              IiVBoQAAAAJ$h_index ## Javiera Arce
 )
 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Data Set ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ## Quartiles
 Inv_Index <- H_Index*-1
 data <- data.frame(Name, ID, Affiliation, Cites, H_Index, Inv_Index)
@@ -1141,4 +1182,4 @@ data <- data[order(-data$H_Index, -data$Cites), ]
 rownames(data) <- NULL
 
 ## Export CSV
-write.csv(data,'20210301_ranking.csv', fileEncoding = "UTF-8")
+write.csv(data,'20210301/20210301_ranking.csv', fileEncoding = "UTF-8")
