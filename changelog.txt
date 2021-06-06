@@ -16,7 +16,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [3.3.8] - 2021-06-02
+## [3.3.8] - 2021-06-06
 ### Changed
 - Update of researchers to be added.
 
