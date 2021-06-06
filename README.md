@@ -14,4 +14,4 @@ The seventh measurement has been collected on June 1, 2021. The next one will be
 
 I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), and [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) for their valuable comments and contributions. 
 
-Last updated: June 2, 2021.
+Last updated: June 6, 2021.
