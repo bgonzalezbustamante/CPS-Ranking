@@ -8,6 +8,6 @@
 
 1. 
 
-*Note. The next measurement will be collected by December 2021.*
+*Note. If you like to suggest someone, please send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by December 2021.*
 
 Last updated: September 1, 2021.
