@@ -7,12 +7,19 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Automatic deployment from GitHub with Netlify on own domain.
 
-## [3.4.8] - 2021-09-05
+## [3.5.8] - 2021-12-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Validation code at GitHub repository (TBC).
 - Prediction of H-Index (TBC).
+### Changed
+- Update of badges.
+
+## [3.4.8] - 2021-09-01
+### Added
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
+- Updated version impact ranking.
 ### Changed
 - Update of badges.
 
