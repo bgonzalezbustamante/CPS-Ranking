@@ -10,7 +10,7 @@ It has been elaborated according to the following sampling criteria. First of al
 
 Furthermore, a consistency index (C-Index) has been calculated on March 2021 measurement. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated. 
 
-The eight measurement has been collected on September 1, 2021. The next one will be collected by December 2021. The data set can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)). If you like to suggest someone, please send an email to bastian.gonzalezbustamante@politics.ox.ac.uk 
+The eight measurement has been collected on September 1, 2021. The next one will be collected by December 2021. The data set can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)).  See also the [researchers to be added](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/to-be-ranked.md). If you like to suggest someone, please send an email to bastian.gonzalezbustamante@politics.ox.ac.uk.
 
 I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), and [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) for their valuable comments and contributions. 
 
