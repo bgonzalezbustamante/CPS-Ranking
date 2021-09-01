@@ -16,18 +16,19 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
+## [Released]
+
 ## [3.4.8] - 2021-09-01
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
+- Project on training-datalab.com
 ### Changed
 - Update of badges.
 
 ## [3.3.8] - 2021-06-06
 ### Changed
 - Update of researchers to be added.
-
-## [Released]
 
 ## [3.3.7] - 2021-06-01
 ### Added
