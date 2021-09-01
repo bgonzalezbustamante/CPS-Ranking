@@ -187,7 +187,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           nj4yvK0AAAAJ$name, ## Claudia Heiss
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
           vLROxScAAAAJ$name, ## Claudio Fuentes-González
-          "Cristian Garay Vera", ## Cristian Garay Vera
+          "Cristian Garay Vera", ## QQq0cAAAAJ$name
           "Cristian Pérez Muñoz", ## MKayIWEAAAAJ$name, 
           HVy8iAAAAAJ$name, ## Cristian Pliscoff
           MwnsXycAAAAJ$name, ## Cristina Moyano Barahona
@@ -288,10 +288,10 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           ie78OmcAAAAJ$name, ## José Miguel Cabezas
           cAowpkAAAAJ$name, ## Rodrigo Mardones
           "Macarena Valenzuela Beltrán", ## xP7heoAAAAJ$name 
-          "Germán Bidegain", ## Germán Bidegain
-          "Victor Tricot Salomon", ## Victor Tricot Salomon
-          "Adrian Albala", ## Adrian Albala
-          "Miguel Angel Lopez" ## Miguel Angel Lopez
+          "Germán Bidegain", ## RBv0BPIAAAAJ$name
+          "Victor Tricot Salomon", ## O7DOqCcAAAAJ$name
+          "Adrian Albala", ## KZhWCqgAAAAJ$name
+          "Miguel Angel Lopez" ## rIbm6tMAAAAJ$name
 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
