@@ -240,7 +240,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           nj4yvK0AAAAJ$name, ## Claudia Heiss
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
           vLROxScAAAAJ$name, ## Claudio Fuentes-González
-          "Cristian Garay Vera", ## Cristian Garay Vera
+          "Cristian Garay Vera", ## QQq0cAAAAJ$name
           "Cristian Pérez Muñoz", ## MKayIWEAAAAJ$name, 
           HVy8iAAAAAJ$name, ## Cristian Pliscoff
           MwnsXycAAAAJ$name, ## Cristina Moyano Barahona
@@ -327,7 +327,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           MR9YwQkAAAAJ$name, ## Sofia Donoso
           HcNzaN4AAAAJ$name, ## Stéphanie Alenda
           ZOmEt88AAAAJ$name, ## Susana Gazmuri
-          "Tomas Dosek", ## Tomas Dosek
+          "Tomas Dosek", ## XrCQYoAAAAJ$name
           NvlbMocAAAAJ$name, ## Umut Aydin
           lzMBqcAAAAJ$name, ## Valeria Palanza
           lA1piEAAAAJ$name, ## Veronica Figueroa Huencho
@@ -341,10 +341,10 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           ie78OmcAAAAJ$name, ## José Miguel Cabezas
           cAowpkAAAAJ$name, ## Rodrigo Mardones
           "Macarena Valenzuela Beltrán", ## xP7heoAAAAJ$name 
-          "Germán Bidegain", ## Germán Bidegain
-          "Victor Tricot Salomon", ## Victor Tricot Salomon
-          "Adrian Albala", ## Adrian Albala
-          "Miguel Angel Lopez", ## Miguel Angel Lopez
+          "Germán Bidegain", ## RBv0BPIAAAAJ$name
+          "Victor Tricot Salomon", ## O7DOqCcAAAAJ$name
+          "Adrian Albala", ## KZhWCqgAAAAJ$name
+          "Miguel Angel Lopez", ## rIbm6tMAAAAJ$name
           qdm2fHgAAAAJ$name, ## Marcelo Mella Polanco
           dJKWN8wAAAAJ$name,  ## Hary Hugo Fruhling
           TzPYdWsAAAAJ$name, ## Arturo Arriagada
@@ -366,14 +366,14 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           ShRtBhMAAAAJ$name, ## Lucas Perelló
           P3MuwAAAAJ$name, ## Carlos Cantillana
           R7MsicAAAAJ$name, ## Rodolfo de Camargo Lima
-          "María Patricia Sotomayor", ## María Patricia Sotomayor Valarezo
-          "Sergio Huertas-Hernandez", ## Sergio A. Huertas-Hernandez
+          "María Patricia Sotomayor", ## ZRf8dtAAAAAJ$name
+          "Sergio Huertas-Hernandez", ## fv7N0eUAAAAJ$name
           n0UQqa4AAAAJ$name, ## Aldo Madariaga
           ArIMp5YAAAAJ$name, ## Carla Cisternas 
           bjloTEAAAAJ$name, ## Armando Cartes Montory
           s6VvyfsAAAAJ$name, ## María Cristina Escudero
           IiVBoQAAAAJ$name, ## Javiera Arce
-          "Carla Alberti", ## Carla Alberti
+          "Carla Alberti", ## tcX6pYAAAAJ$name
           omFHUesAAAAJ$name, ## Cristóbal Bywaters C.
           tHL6bFwAAAAJ$name, ## Maite De Cea
           PfjSTeUAAAAJ$name,  ## Lucia Miranda Leibe
@@ -383,7 +383,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           LWLkiYMAAAAJ$name, ## Amy L. Atchison
           kv5dWS4AAAAJ$name, ## Arlette Martínez Ossa
           DqP7GsAAAAJ$name, ## Pablo Argote
-          "Jaime Baeza Freer", ## Jaime Baeza Freer
+          "Jaime Baeza Freer", ## xwVLXRQAAAAJ$name
           sCGIj8AAAAJ$name, ## Gonzalo Alvarez Fuentes
           muKzXeYAAAAJ$name ## Diego Sazo
 )
