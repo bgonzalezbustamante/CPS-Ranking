@@ -7,7 +7,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Automatic deployment from GitHub with Netlify on own domain.
 
-## [3.5.8] - 2021-12-05
+## [3.5.9] - 2021-12-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -17,6 +17,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Update of badges.
 
 ## [Released]
+
+## [3.4.9] - 2021-10-18
+### Changed
+- Update of researchers to be added.
 
 ## [3.4.8] - 2021-09-01
 ### Added
