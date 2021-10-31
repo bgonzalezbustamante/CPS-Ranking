@@ -234,7 +234,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.1.0] - 2020-01-14
 ### Added
-- README on GitHub repository.
+- README in MD format on GitHub repository.
 - Badges in SVG on GitHub repository and Web.
 ### Changed
 - Update of researchers to be added.
