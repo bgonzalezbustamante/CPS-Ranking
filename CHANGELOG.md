@@ -7,7 +7,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Automatic deployment from GitHub with Netlify on own domain.
 
-## [3.5.11] - 2021-12-05
+## [3.5.12] - 2021-12-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -16,9 +16,13 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Update of badges.
 
-## [3.4.11] - TBC
+## [3.4.12] - TBC
 ### Changed
 - Scripts and folders names standardisation.
+
+## [3.4.11] - 2021-10-31
+### Changed
+- Minor corrections.
 
 ## [Released]
 
@@ -160,7 +164,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Chilean universities ranking.
 ### Changed
 - Tabular style.
-- Unique changelog on GitHub repository.
 - Update of badges.
 ### Deprecated
 - Updated analysis career trajectories.
@@ -174,13 +177,13 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 ### Changed
 - UTF-8 encoding datasets.
-- Minor typesetting corrections in the changelog.
+- Minor corrections.
 ### Deprecated
 - Changelog at the website.
 
 ## [2.5.6] - 2020-04-30
 ### Changed
-- Minor typesetting corrections in the changelog.
+- Minor corrections.
 
 ## [2.5.5] - 2020-03-14
 ### Added
@@ -231,6 +234,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.1.0] - 2020-01-14
 ### Added
+- README on GitHub repository.
 - Badges in SVG on GitHub repository and Web.
 ### Changed
 - Update of researchers to be added.
