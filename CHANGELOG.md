@@ -123,7 +123,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [2.8.12] - 2020-11-08
 ### Changed
 - Update of researchers to be added.
-- Minor typesetting corrections in the changelog.
+- Minor corrections.
 
 ## [2.8.11] - 2020-09-20
 ### Changed
@@ -167,7 +167,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated co-author network analysis.
 - Updated institutions ranking.
 ### Removed
-- Changelog at the website.
+- Changelog on the website.
 
 ## [2.6.6] - 2020-06-02
 ### Added
@@ -187,11 +187,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Chilean institutions ranking.
 ### Changed
 - Update of badges.
-- Minor typesetting corrections in the changelog.
+- Minor corrections.
 
 ## [2.4.5] - 2020-03-11
 ### Changed
-- Minor typesetting corrections in the changelog.
+- Minor corrections.
 
 ## [2.4.4] - 2020-03-09
 ### Changed
