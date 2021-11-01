@@ -20,11 +20,12 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Changed
 - Scripts and folders names standardisation.
 
+## [Released]
+
 ## [3.4.11] - 2021-10-31
 ### Changed
+- Update of researchers to be added.
 - Minor corrections.
-
-## [Released]
 
 ## [3.4.10] - 2021-10-22
 ### Changed
