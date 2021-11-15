@@ -22,6 +22,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [3.4.12] - 2021-11-15
 ### Changed
 - License in MD format on GitHub repository.
+- Minor corrections.
 
 ## [3.4.11] - 2021-10-31
 ### Changed
