@@ -14,4 +14,4 @@ The eight measurement has been collected on September 1, 2021. The next one will
 
 I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), and [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) for their valuable comments and contributions. 
 
-Last updated: October 31, 2021.
+Last updated: November 15, 2021.
