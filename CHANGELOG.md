@@ -15,13 +15,13 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Prediction of H-Index (TBC).
 ### Changed
 - Scripts and folders names standardisation.
-- Update of badges.
 
 ## [Released]
 
 ## [3.4.12] - 2021-11-15
 ### Changed
 - License in MD format on GitHub repository.
+- Revision of upgrade versioning.
 - Minor corrections.
 
 ## [3.4.11] - 2021-10-31
@@ -43,8 +43,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
 - Project on training-datalab.com
-### Changed
-- Update of badges.
 
 ## [3.3.8] - 2021-06-06
 ### Changed
@@ -54,8 +52,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
-### Changed
-- Update of badges.
 
 ## [3.2.7] - 2021-05-09
 ### Changed
@@ -90,7 +86,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Tabular style.
 - Last names typo corrections on data sets (DOI: 10.17605/OSF.IO/M3NZD).
 - Revision of upgrade versioning.
-- Update of badges.
 
 ## [3.1.1] - 2021-03-01
 ### Added
@@ -120,8 +115,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [2.10.12] - 2020-12-16
 ### Added
 - Updated version impact ranking.
-### Changed
-- Update of badges.
 
 ## [2.9.12] - 2020-12-01
 ### Added
@@ -134,7 +127,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.8.11] - 2020-09-20
 ### Changed
-- Update of badges.
+- Minor corrections.
 
 ## [2.8.10] - 2020-09-05
 ### Added
@@ -142,12 +135,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Updated version universities ranking.
 - Update of researchers to be added.
-### Changed
-- Update of badges.
 
 ## [2.7.10] - 2020-08-26
 ### Changed
-- Update of badges.
+- Minor corrections.
 
 ## [2.7.9] - 2020-08-05
 ### Changed
@@ -167,7 +158,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Chilean universities ranking.
 ### Changed
 - Tabular style.
-- Update of badges.
 ### Deprecated
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
@@ -192,7 +182,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Chilean institutions ranking.
 ### Changed
-- Update of badges.
 - Minor corrections.
 
 ## [2.4.5] - 2020-03-11
@@ -213,12 +202,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Updated analysis career trajectories.
 - Updated co-author network analysis.
-### Changed
-- Update of badges.
 
 ## [2.3.2] 2020-02-11
 ### Changed
-- Update of badges.
+- Minor corrections.
 
 ## [2.3.1] 2020-02-04
 ### Added
@@ -228,7 +215,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [2.2.1] 2020-01-26
 ## Changed
-- Update of badges.
 - Update of researchers to be added.
 
 ## [2.2.0] 2020-01-17
