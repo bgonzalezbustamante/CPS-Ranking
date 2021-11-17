@@ -46,4 +46,4 @@ WIP
 
 ### Last updated
 
-[November 17, 2021.](CHANGELOG.md).
+[November 17, 2021](CHANGELOG.md).
