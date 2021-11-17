@@ -23,6 +23,12 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 
 *Note: If you like to suggest someone, please send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by December 2021.*
 
+## Store and Backup
+
+The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)). Both USB keys issue one-time passwords to generate a cryptographic authentication FIDO 2 and U2F.
+
+WIP
+
 ## License
 
 This data is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
@@ -31,9 +37,13 @@ This data is released under a [Creative Commons Attribution 4.0 International li
 
 Bastián González-Bustamante \
 bastian.gonzalezbustamante@politics.ox.ac.uk \
-https://orcid.org/0000-0003-1510-6820 \
+[ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820) \
 https://bgonzalezbustamante.com 
+
+## CRediT - Contributor Roles Taxonomy
+
+WIP
 
 ### Last updated
 
-November 17, 2021.
+[November 17, 2021.](CHANGELOG.md).
