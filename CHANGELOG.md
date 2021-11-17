@@ -5,9 +5,9 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [4.0.0] - TBC
 ### Added
-- Automatic deployment from GitHub with Netlify on own domain.
+- Automatic deployment from GitHub with Netlify on own domain (TBC).
 
-## [3.5.12] - 2021-12-05
+## [3.6.12] - 2021-12-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -17,6 +17,12 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [3.5.12] - 2021-11-17
+### Added
+- Repository status badge.
+### Changed
+- Minor corrections.
 
 ## [3.4.12] - 2021-11-15
 ### Changed
