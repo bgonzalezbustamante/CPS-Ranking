@@ -13,6 +13,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Updated version impact ranking.
 - Validation code at GitHub repository (TBC).
 - Prediction of H-Index (TBC).
+- K-Index (TBC).
 ### Changed
 - Scripts and folders names standardisation (TBC).
 
