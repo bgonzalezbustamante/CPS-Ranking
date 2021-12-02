@@ -10,11 +10,11 @@
 ## Bastián González-Bustamante
 ## University of Oxford
 ## E-mail: bastian.gonzalezbustamante@politics.ox.ac.uk
-## Website: https://bgonzalezbustamante.com/
+## Website: https://bgonzalezbustamante.com
 
 ## Chilean Political Science Impact Ranking Project
 ## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
-## Website: https://bgonzalezbustamante.com/cps-ranking/
+## Website: https://bgonzalezbustamante.com/cps-ranking
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
