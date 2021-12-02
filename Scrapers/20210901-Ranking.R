@@ -10,11 +10,11 @@
 ## Bastián González-Bustamante
 ## University of Oxford
 ## E-mail: bastian.gonzalezbustamante@politics.ox.ac.uk
-## Website: https://bgonzalezbustamante.com/
+## Website: https://bgonzalezbustamante.com
 
 ## Chilean Political Science Impact Ranking Project
 ## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
-## Website: https://bgonzalezbustamante.com/cps-ranking/
+## Website: https://bgonzalezbustamante.com/cps-ranking
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -922,9 +922,9 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 164. Jaime Baeza Freer
                  "UNAP", ## 165. Gonzalo Alvarez Fuentes
                  "LSE", ## 166. Diego Sazo
-                 "UCHILE", ## Felipe Agüero
-                 "PUC", ## Hernán Campos-Parra
-                 "UDP"  ## Nicolás Mimica
+                 "UCHILE", ## 167. Felipe Agüero
+                 "PUC", ## 168. Hernán Campos-Parra
+                 "UDP"  ## 169. Nicolás Mimica
 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
