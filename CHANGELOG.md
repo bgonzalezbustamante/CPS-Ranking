@@ -22,6 +22,9 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
+- Code of conduct in MD format.
+### Changed
+- Minor corrections.
 
 ## [3.5.12] - 2021-11-17
 ### Added
