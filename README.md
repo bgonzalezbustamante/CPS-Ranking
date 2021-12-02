@@ -32,15 +32,11 @@ This data is released under a [Creative Commons Attribution 4.0 International li
 
 ## Contribute
 
-Contributions are entirely welcome. You just need to [open an issue](https://github.com/bgonzalezbustamante/chilean-undersecretaries/issues/new) with your comment or idea.
+Contributions are entirely welcome. You just need to [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) with your comment or idea.
 
 For more substantial contributions, please fork this repository and make changes. Pull requests are also welcome.
 
 Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
-
-## Citation
-
-González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2022) (Version 1.4.4 -- Yellow Bonus) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
 
 ## Author
 
