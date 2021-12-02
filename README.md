@@ -22,7 +22,7 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 
 *Note: If you like to suggest someone, please send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by March 2022.*
 
-## Store and Backup
+## Storage
 
 The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)), a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)), and one physical USB seurity device (Carla Cisternas, [ORCID iD 0000-0001-7948-6194](https://orcid.org/0000-0001-7948-6194)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
 
