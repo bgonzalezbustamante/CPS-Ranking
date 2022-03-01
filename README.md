@@ -57,4 +57,4 @@ Rodrigo Cuevas: Resources.
 
 ### Last updated
 
-[December 2, 2021](CHANGELOG.md).
+[March 1, 2022](CHANGELOG.md).
