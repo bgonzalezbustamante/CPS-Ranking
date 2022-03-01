@@ -1121,3 +1121,4 @@ rownames(data) <- NULL
 
 ## Export CSV
 write.csv(data,'20200602/20200602_ranking.csv', fileEncoding = "UTF-8")
+save.image("20200602/Ranking-Jun-2020.RData")
