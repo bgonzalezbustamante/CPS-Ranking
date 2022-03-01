@@ -12,7 +12,7 @@ It has been elaborated according to the following sampling criteria. First of al
 
 Furthermore, a consistency index (C-Index) has been calculated on March 2021 measurement. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated. 
 
-The nineth measurement has been collected on December 2, 2021. The next one will be collected by March 2022. The data set can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)). 
+The tenth measurement has been collected on March 1, 2022. The next one will be collected by June 2022. The data set can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)). 
 
 I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), and [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) for their valuable comments and contributions.
 
