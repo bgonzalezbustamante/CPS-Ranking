@@ -1,23 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on Chilean Political Science Impact Ranking</title>
-    <link>/~shil5311/test/serie/</link>
-    <description>Recent content in Series on Chilean Political Science Impact Ranking</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/~shil5311/test/serie/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Impact Ranking Dec. 2019</title>
-      <link>/~shil5311/test/serie/2019-12-02-impact-ranking/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/~shil5311/test/serie/2019-12-02-impact-ranking/</guid>
-      <description>RankingNameIDAffiliationCitesH_IndexQuartile1David AltmanxWbhhH8AAAAJPUC48053212Lucia DammertKh9TTGwAAAAJUSACH41382913Peter SiavelisHGTSACIAAAAJCOES34892914Patricio D NaviaIBcs-ZwAAAAJUDP-NYU32132715Cristóbal Rovira Kaltwasser4iRjwbMAAAAJUDP39392616Juan Pablo LunaIgwSc8oAAAAJPUC28592617Gabriel L.</description>
-    </item>
-    
-  </channel>
-</rss>
