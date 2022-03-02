@@ -7,7 +7,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Automatic deployment from GitHub with Netlify on own domain (TBC).
 
-## [3.8.12] - 2022-06-05
+## [3.9.12] - 2022-06-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -16,6 +16,13 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - K-Index (TBC).
 
 ## [Released]
+
+## [3.8.12] - 2022-03-02
+### Added
+- Import data code.
+### Changed
+- Update of researchers to be added.
+- Minor corrections.
 
 ## [3.7.12] - 2022-03-01
 ### Added
