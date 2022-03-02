@@ -30,7 +30,7 @@ The GitHub repository has controlled access with Two-Factor Authentication (2FA)
 
 ### Software
 
-We used R version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following package: scholar v0.2.1. In early code versions, we used R versions 3.6.1 (2019-07-05) -- "Action of the Toes" and 4.0.2 (2020-06-22) -- "Taking Off Again".
+We used R version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following package: scholar v0.2.1. In early scripts, we used R versions 3.6.1 (2019-07-05) -- "Action of the Toes" and 4.0.2 (2020-06-22) -- "Taking Off Again".
 
 ### Import Data
 
