@@ -100,6 +100,10 @@ For more substantial contributions, please fork this repository and make changes
 
 Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
 
+## Citation
+
+González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.8.12 -- Jolly Night) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
+
 ## Author
 
 Bastián González-Bustamante \
