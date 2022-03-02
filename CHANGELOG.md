@@ -20,6 +20,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [3.8.12] - 2022-03-02
 ### Added
 - Import data code.
+- Citation CFF file.
 ### Changed
 - Update of researchers to be added.
 - Minor corrections.
