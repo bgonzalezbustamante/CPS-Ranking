@@ -14,8 +14,6 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Validation code at GitHub repository (TBC).
 - Prediction of H-Index (TBC).
 - K-Index (TBC).
-### Changed
-- Scripts and folders names standardisation (TBC).
 
 ## [Released]
 
@@ -23,6 +21,8 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
+### Changed
+- Folders names standardisation.
 ### Removed
 - Website backup on GitHub.
 
