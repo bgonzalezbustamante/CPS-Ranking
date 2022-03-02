@@ -2,7 +2,7 @@
 **Chilean Political Science Impact Ranking** \
 **https://bgonzalezbustamante.com/cps-ranking/**
 
-[![Version](https://img.shields.io/badge/version-v3.7.12-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-March%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-03-01-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-171-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-03-01-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-June%202022-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.8.12-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-March%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-03-01-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-171-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-03-01-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-June%202022-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -18,13 +18,75 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 
 ## Researchers to be Added
 
-1. 
+1. Karina Arias Yurisch (ID glnCpMkAAAAJ)
 
-*Note: If you like to suggest someone, please send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by March 2022.*
+*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by June 2022.*
 
 ## Storage
 
 The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)), a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)), and one physical USB seurity device (Carla Cisternas, [ORCID iD 0000-0001-7948-6194](https://orcid.org/0000-0001-7948-6194)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
+
+## Getting Started
+
+### Software
+
+We used R version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following package: scholar v0.2.1. In early code versions, we used R versions 3.6.1 (2019-07-05) -- "Action of the Toes" and 4.0.2 (2020-06-22) -- "Taking Off Again".
+
+### Import Data
+
+#### R Code
+
+``` r
+## December 2019
+dec2019 <- read.csv("https://osf.io/2qfwv/download", fileEncoding = "UTF-8")
+names(dec2019)[1] = "Ranking"
+
+## March 2020
+mar2020 <- read.csv("https://osf.io/8hnx3/download", fileEncoding = "UTF-8")
+names(mar2020)[1] = "Ranking"
+
+## June 2020
+jun2020 <- read.csv("https://osf.io/zc7d8/download", fileEncoding = "UTF-8")
+names(jun2020)[1] = "Ranking"
+
+## September 2020
+sep2020 <- read.csv("https://osf.io/mv9z8/download", fileEncoding = "UTF-8")
+names(sep2020)[1] = "Ranking"
+
+## December 2020
+dec2020 <- read.csv("https://osf.io/3vqny/download", fileEncoding = "UTF-8")
+names(dec2020)[1] = "Ranking"
+
+## March 2021
+mar2021 <- read.csv("https://osf.io/u2q8k/download", fileEncoding = "UTF-8")
+names(mar2021)[1] = "Ranking"
+
+## June 2021
+jun2021 <- read.csv("https://osf.io/c8t26/download", fileEncoding = "UTF-8")
+names(jun2021)[1] = "Ranking"
+
+## September 2021
+sep2021 <- read.csv("https://osf.io/3cuvt/download", fileEncoding = "UTF-8")
+names(sep2021)[1] = "Ranking"
+
+## December 2021
+dec2021 <- read.csv("https://osf.io/ru6xj/download", fileEncoding = "UTF-8")
+names(dec2021)[1] = "Ranking"
+
+## March 2022
+mar2022 <- read.csv("https://osf.io/5daqg/download", fileEncoding = "UTF-8")
+names(mar2022)[1] = "Ranking"
+```
+
+#### Example of Python Code
+
+``` python
+import pandas as pd
+
+## March 2022
+url = "https://osf.io/5daqg/download"
+df = pd.read_csv(url, index_col=0)
+```
 
 ## License
 
@@ -57,4 +119,4 @@ Rodrigo Cuevas: Resources.
 
 ### Last updated
 
-[March 1, 2022](CHANGELOG.md).
+[March 2, 2022](CHANGELOG.md).
