@@ -23,6 +23,8 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
+### Removed
+- Website backup on GitHub.
 
 ## [3.6.12] - 2021-12-02
 ### Added
@@ -31,6 +33,8 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - Code of conduct in MD format.
 ### Changed
 - Minor corrections.
+### Deprecated
+- Website backup on GitHub.
 
 ## [3.5.12] - 2021-11-17
 ### Added
@@ -62,7 +66,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
-- Project on training-datalab.com
+- Project on training-datalab.com.
 
 ## [3.3.8] - 2021-06-06
 ### Changed
@@ -244,7 +248,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ## [2.1.0] - 2020-01-14
 ### Added
 - README in MD format on GitHub repository.
-- Badges in SVG on GitHub repository and Web.
+- Badges in SVG on GitHub repository.
 ### Changed
 - Update of researchers to be added.
 
