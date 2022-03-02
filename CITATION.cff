@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below."
+authors:
+- family-names: "González-Bustamante"
+  given-names: "Bastián"
+  orcid: "https://orcid.org/0000-0003-1510-6820"
+title: "Chilean Political Science Impact Ranking"
+version: "3.8.12 -- Jolly Night"
+doi: 10.17605/OSF.IO/C8PRA
+date-released: 2022-02-03
+url: "https://github.com/bgonzalezbustamante/CPS-Ranking"
+type: data
