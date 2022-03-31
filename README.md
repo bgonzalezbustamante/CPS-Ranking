@@ -90,7 +90,7 @@ df = pd.read_csv(url, index_col=0)
 
 ## License
 
-The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](CCBY40.md), and the underlying code used to format and display that content is licensed under a [MIT license](LICENSE.md).
+The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](CCBY40.md), and the underlying code used to format and display that content is licensed under an [MIT license](LICENSE.md).
 
 ## Contribute
 
@@ -119,7 +119,7 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 Carla Cisternas ([ORCID iD 0000-0001-7948-6194](https://orcid.org/0000-0001-7948-6194)): Resources and validation.
 
-Rodrigo Cuevas (ORCID iD TBC): Resources.
+Rodrigo Cuevas ([ORCID iD 0000-0002-5980-1908](https://orcid.org/0000-0002-5980-1908)): Resources.
 
 ### Last updated
 
