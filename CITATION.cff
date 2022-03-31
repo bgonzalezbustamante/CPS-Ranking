@@ -5,8 +5,8 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0003-1510-6820"
 title: "Chilean Political Science Impact Ranking"
-version: "3.8.12 -- Jolly Night"
+version: "3.9.12 -- Morning Forest"
 doi: 10.17605/OSF.IO/C8PRA
-date-released: 2022-02-03
+date-released: 2022-03-31
 url: "https://github.com/bgonzalezbustamante/CPS-Ranking"
 type: data
