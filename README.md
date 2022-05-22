@@ -38,45 +38,45 @@ We used `R v4.1.0 -- Camp Pontanezen` and `scholar v0.2.1` package. In early scr
 #### R Code
 
 ``` r
-## December 2019
-dec2019 <- read.csv("https://osf.io/2qfwv/download", fileEncoding = "UTF-8")
-names(dec2019)[1] = "Ranking"
-
-## March 2020
-mar2020 <- read.csv("https://osf.io/8hnx3/download", fileEncoding = "UTF-8")
-names(mar2020)[1] = "Ranking"
-
-## June 2020
-jun2020 <- read.csv("https://osf.io/zc7d8/download", fileEncoding = "UTF-8")
-names(jun2020)[1] = "Ranking"
-
-## September 2020
-sep2020 <- read.csv("https://osf.io/mv9z8/download", fileEncoding = "UTF-8")
-names(sep2020)[1] = "Ranking"
-
-## December 2020
-dec2020 <- read.csv("https://osf.io/3vqny/download", fileEncoding = "UTF-8")
-names(dec2020)[1] = "Ranking"
-
-## March 2021
-mar2021 <- read.csv("https://osf.io/u2q8k/download", fileEncoding = "UTF-8")
-names(mar2021)[1] = "Ranking"
-
-## June 2021
-jun2021 <- read.csv("https://osf.io/c8t26/download", fileEncoding = "UTF-8")
-names(jun2021)[1] = "Ranking"
-
-## September 2021
-sep2021 <- read.csv("https://osf.io/3cuvt/download", fileEncoding = "UTF-8")
-names(sep2021)[1] = "Ranking"
+## March 2022
+mar2022 <- read.csv("https://osf.io/5daqg/download", fileEncoding = "UTF-8")
+names(mar2022)[1] = "Ranking"
 
 ## December 2021
 dec2021 <- read.csv("https://osf.io/ru6xj/download", fileEncoding = "UTF-8")
 names(dec2021)[1] = "Ranking"
 
-## March 2022
-mar2022 <- read.csv("https://osf.io/5daqg/download", fileEncoding = "UTF-8")
-names(mar2022)[1] = "Ranking"
+## September 2021
+sep2021 <- read.csv("https://osf.io/3cuvt/download", fileEncoding = "UTF-8")
+names(sep2021)[1] = "Ranking"
+
+## June 2021
+jun2021 <- read.csv("https://osf.io/c8t26/download", fileEncoding = "UTF-8")
+names(jun2021)[1] = "Ranking"
+
+## March 2021
+mar2021 <- read.csv("https://osf.io/u2q8k/download", fileEncoding = "UTF-8")
+names(mar2021)[1] = "Ranking"
+
+## December 2020
+dec2020 <- read.csv("https://osf.io/3vqny/download", fileEncoding = "UTF-8")
+names(dec2020)[1] = "Ranking"
+
+## September 2020
+sep2020 <- read.csv("https://osf.io/mv9z8/download", fileEncoding = "UTF-8")
+names(sep2020)[1] = "Ranking"
+
+## June 2020
+jun2020 <- read.csv("https://osf.io/zc7d8/download", fileEncoding = "UTF-8")
+names(jun2020)[1] = "Ranking"
+
+## March 2020
+mar2020 <- read.csv("https://osf.io/8hnx3/download", fileEncoding = "UTF-8")
+names(mar2020)[1] = "Ranking"
+
+## December 2019
+dec2019 <- read.csv("https://osf.io/2qfwv/download", fileEncoding = "UTF-8")
+names(dec2019)[1] = "Ranking"
 ```
 
 #### Example of Python Code
