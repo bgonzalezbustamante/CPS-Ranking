@@ -358,7 +358,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           bjloTEAAAAJ$name, ## Armando Cartes Montory
           s6VvyfsAAAAJ$name, ## María Cristina Escudero
           IiVBoQAAAAJ$name ## Javiera Arce
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -520,7 +520,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         bjloTEAAAAJ$id, ## Armando Cartes Montory
         s6VvyfsAAAAJ$id, ## María Cristina Escudero
         IiVBoQAAAAJ$id ## Javiera Arce
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -682,7 +682,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         bjloTEAAAAJ$affiliation, ## Armando Cartes Montory
         s6VvyfsAAAAJ$affiliation, ## María Cristina Escudero
         IiVBoQAAAAJ$affiliation ## Javiera Arce
-)
+        )
 
 ## Aff
 
@@ -840,7 +840,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UDEC", ## 151. Armando Cartes Montory
                  "UCHILE", ## 152. María Cristina Escudero
                  "UVALPO" ## 153. Javiera Arce
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1002,7 +1002,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            bjloTEAAAAJ$total_cites, ## Armando Cartes Montory
            s6VvyfsAAAAJ$total_cites, ## María Cristina Escudero
            IiVBoQAAAAJ$total_cites ## Javiera Arce
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1164,7 +1164,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              bjloTEAAAAJ$h_index, ## Armando Cartes Montory
              s6VvyfsAAAAJ$h_index, ## María Cristina Escudero
              IiVBoQAAAAJ$h_index ## Javiera Arce
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
