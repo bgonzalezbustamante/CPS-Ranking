@@ -354,7 +354,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           ArIMp5YAAAAJ$name, ## Carla Cisternas 
           bjloTEAAAAJ$name, ## Armando Cartes Montory
           s6VvyfsAAAAJ$name ## María Cristina Escudero
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -515,7 +515,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         ArIMp5YAAAAJ$id, ## Carla Cisternas 
         bjloTEAAAAJ$id, ## Armando Cartes Montory
         s6VvyfsAAAAJ$id ## María Cristina Escudero
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -676,7 +676,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         ArIMp5YAAAAJ$affiliation, ## Carla Cisternas 
         bjloTEAAAAJ$affiliation, ## Armando Cartes Montory
         s6VvyfsAAAAJ$affiliation ## María Cristina Escudero
-)
+        )
 
 ## Aff
 
@@ -833,7 +833,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "USACH", ## 150. Carla Cisternas 
                  "UDEC", ## 151. Armando Cartes Montory
                  "UCHILE" ## 152. María Cristina Escudero
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -994,7 +994,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            ArIMp5YAAAAJ$total_cites, ## Carla Cisternas 
            bjloTEAAAAJ$total_cites, ## Armando Cartes Montory
            s6VvyfsAAAAJ$total_cites ## María Cristina Escudero
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1155,7 +1155,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              ArIMp5YAAAAJ$h_index, ## Carla Cisternas 
              bjloTEAAAAJ$h_index, ## Armando Cartes Montory
              s6VvyfsAAAAJ$h_index ## María Cristina Escudero
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
