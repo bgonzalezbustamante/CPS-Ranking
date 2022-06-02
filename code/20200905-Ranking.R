@@ -347,8 +347,8 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           "María Patricia Sotomayor", ## ZRf8dtAAAAAJ$name
           "Sergio Huertas-Hernandez", ## fv7N0eUAAAAJ$name
           n0UQqa4AAAAJ$name, ## Aldo Madariaga
-          ArIMp5YAAAAJ$name ## Carla Cisternas 
-)
+          ArIMp5YAAAAJ$name ## Carla Cisternas
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -506,8 +506,8 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         ZRf8dtAAAAAJ$id, ## María Patricia Sotomayor Valarezo
         fv7N0eUAAAAJ$id, ## Sergio A. Huertas-Hernandez
         n0UQqa4AAAAJ$id, ## Aldo Madariaga
-        ArIMp5YAAAAJ$id ## Carla Cisternas 
-)
+        ArIMp5YAAAAJ$id ## Carla Cisternas
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -665,8 +665,8 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         ZRf8dtAAAAAJ$affiliation, ## María Patricia Sotomayor Valarezo
         fv7N0eUAAAAJ$affiliation, ## Sergio A. Huertas-Hernandez
         n0UQqa4AAAAJ$affiliation, ## Aldo Madariaga
-        ArIMp5YAAAAJ$affiliation ## Carla Cisternas 
-)
+        ArIMp5YAAAAJ$affiliation ## Carla Cisternas
+        )
 
 ## Aff
 
@@ -820,8 +820,8 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "PUC", ## 147. María Patricia Sotomayor Valarezo
                  "PUC", ## 148. Sergio A. Huertas-Hernandez
                  "UDP", ## 149. Aldo Madariaga
-                 "USACH" ## 150. Carla Cisternas 
-)
+                 "USACH" ## 150. Carla Cisternas
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -979,8 +979,8 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            ZRf8dtAAAAAJ$total_cites, ## María Patricia Sotomayor Valarezo
            fv7N0eUAAAAJ$total_cites, ## Sergio A. Huertas-Hernandez
            n0UQqa4AAAAJ$total_cites, ## Aldo Madariaga
-           ArIMp5YAAAAJ$total_cites ## Carla Cisternas 
-)
+           ArIMp5YAAAAJ$total_cites ## Carla Cisternas
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1138,8 +1138,8 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              ZRf8dtAAAAAJ$h_index, ## María Patricia Sotomayor Valarezo
              fv7N0eUAAAAJ$h_index, ## Sergio A. Huertas-Hernandez
              n0UQqa4AAAAJ$h_index, ## Aldo Madariaga
-             ArIMp5YAAAAJ$h_index ## Carla Cisternas 
-)
+             ArIMp5YAAAAJ$h_index ## Carla Cisternas
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
