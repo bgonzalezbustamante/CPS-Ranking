@@ -21,6 +21,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
+- Minor corrections.
 
 ## [3.9.14] - 2022-05-22
 ### Changed
