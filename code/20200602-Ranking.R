@@ -336,7 +336,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           bsie88AAAAJ$name, ## Gonzalo Contreras Aguirre
           ShRtBhMAAAAJ$name, ## Lucas Perelló
           P3MuwAAAAJ$name ## Carlos Cantillana
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -490,7 +490,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         bsie88AAAAJ$id, ## Gonzalo Contreras Aguirre
         ShRtBhMAAAAJ$id, ## Lucas Perelló
         P3MuwAAAAJ$id ## Carlos Cantillana
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -644,7 +644,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         bsie88AAAAJ$affiliation, ## Gonzalo Contreras Aguirre
         ShRtBhMAAAAJ$affiliation, ## Lucas Perelló
         P3MuwAAAAJ$affiliation ## Carlos Cantillana
-)
+        )
 
 ## Aff
 
@@ -794,7 +794,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "OXF", ## 143. Gonzalo Contreras Aguirre
                  "NSSR", ## 144. Lucas Perelló
                  "unk." ## 145. Carlos Cantillana
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -948,7 +948,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            bsie88AAAAJ$total_cites, ## Gonzalo Contreras Aguirre
            ShRtBhMAAAAJ$total_cites, ## Lucas Perelló
            P3MuwAAAAJ$total_cites ## Carlos Cantillana
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1102,7 +1102,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              bsie88AAAAJ$h_index, ## Gonzalo Contreras Aguirre
              ShRtBhMAAAAJ$h_index, ## Lucas Perelló
              P3MuwAAAAJ$h_index ## Carlos Cantillana
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
