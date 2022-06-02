@@ -404,7 +404,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           jxM4fcAAAAJ$name, ## Leslie Wehner
           b7GxWBAAAAAJ$name, ## Ariel Becerra
           DZbBocQAAAAJ$name ## Constanza Jorquera Mery
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -585,7 +585,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         jxM4fcAAAAJ$id, ## Leslie Wehner
         b7GxWBAAAAAJ$id, ## Ariel Becerra
         DZbBocQAAAAJ$id ## Constanza Jorquera Mery
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -766,7 +766,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         jxM4fcAAAAJ$affiliation, ## Leslie Wehner
         b7GxWBAAAAAJ$affiliation, ## Ariel Becerra
         DZbBocQAAAAJ$affiliation ## Constanza Jorquera Mery
-)
+        )
 
 ## Aff
 
@@ -943,7 +943,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UOB", ## 169. Leslie Wehner
                  "UDP", ## 170. Ariel Becerra
                  "USACH" ## 171. Constanza Jorquera Mery
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1124,7 +1124,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            jxM4fcAAAAJ$total_cites, ## Leslie Wehner
            b7GxWBAAAAAJ$total_cites, ## Ariel Becerra
            DZbBocQAAAAJ$total_cites ## Constanza Jorquera Mery
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1305,7 +1305,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              jxM4fcAAAAJ$h_index, ## Leslie Wehner
              b7GxWBAAAAAJ$h_index, ## Ariel Becerra
              DZbBocQAAAAJ$h_index ## Constanza Jorquera Mery
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
