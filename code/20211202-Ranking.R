@@ -400,7 +400,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           u0K3FJMAAAAJ$name,  ## Nicolás Mimica
           jxM4fcAAAAJ$name, ## Leslie Wehner
           b7GxWBAAAAAJ$name ## Ariel Becerra
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -580,7 +580,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         u0K3FJMAAAAJ$id,  ## Nicolás Mimica
         jxM4fcAAAAJ$id, ## Leslie Wehner
         b7GxWBAAAAAJ$id ## Ariel Becerra
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -760,7 +760,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         u0K3FJMAAAAJ$affiliation,  ## Nicolás Mimica
         jxM4fcAAAAJ$affiliation, ## Leslie Wehner
         b7GxWBAAAAAJ$affiliation ## Ariel Becerra
-)
+        )
 
 ## Aff
 
@@ -936,7 +936,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UDP",  ## 169. Nicolás Mimica
                  "UOB", ## 170. Leslie Wehner
                  "UDP" ## 171. Ariel Becerra
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1116,7 +1116,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            u0K3FJMAAAAJ$total_cites,  ## Nicolás Mimica
            jxM4fcAAAAJ$total_cites, ## Leslie Wehner
            b7GxWBAAAAAJ$total_cites ## Ariel Becerra
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1296,7 +1296,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              u0K3FJMAAAAJ$h_index,  ## Nicolás Mimica
              jxM4fcAAAAJ$h_index, ## Leslie Wehner
              b7GxWBAAAAAJ$h_index ## Ariel Becerra
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
