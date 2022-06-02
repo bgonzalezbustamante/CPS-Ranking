@@ -386,7 +386,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           "Jaime Baeza Freer", ## xwVLXRQAAAAJ$name
           sCGIj8AAAAJ$name, ## Gonzalo Alvarez Fuentes
           muKzXeYAAAAJ$name ## Diego Sazo
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -561,7 +561,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         xwVLXRQAAAAJ$id, ## Jaime Baeza Freer
         sCGIj8AAAAJ$id, ## Gonzalo Alvarez Fuentes
         muKzXeYAAAAJ$id ## Diego Sazo
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -736,8 +736,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         xwVLXRQAAAAJ$affiliation, ## Jaime Baeza Freer
         sCGIj8AAAAJ$affiliation, ## Gonzalo Alvarez Fuentes
         muKzXeYAAAAJ$affiliation ## Diego Sazo
-)
-
+        )
 
 ## Aff
 
@@ -908,7 +907,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 164. Jaime Baeza Freer
                  "UNAP", ## 165. Gonzalo Alvarez Fuentes
                  "LSE" ## 166. Diego Sazo
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1083,7 +1082,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            xwVLXRQAAAAJ$total_cites, ## Jaime Baeza Freer
            sCGIj8AAAAJ$total_cites, ## Gonzalo Alvarez Fuentes
            muKzXeYAAAAJ$total_cites ## Diego Sazo
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1258,7 +1257,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              xwVLXRQAAAAJ$h_index, ## Jaime Baeza Freer
              sCGIj8AAAAJ$h_index, ## Gonzalo Alvarez Fuentes
              muKzXeYAAAAJ$h_index ## Diego Sazo
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
