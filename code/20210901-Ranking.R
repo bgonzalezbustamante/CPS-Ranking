@@ -394,7 +394,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           "Felipe Agüero", ## JSPWdfYAAAAJ$name
           QIn03zIAAAAJ$name, ## Hernán Campos-Parra
           u0K3FJMAAAAJ$name  ## Nicolás Mimica
-)
+          )
 
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -573,7 +573,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         JSPWdfYAAAAJ$id, ## Felipe Agüero
         QIn03zIAAAAJ$id, ## Hernán Campos-Parra
         u0K3FJMAAAAJ$id  ## Nicolás Mimica
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -751,7 +751,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         JSPWdfYAAAAJ$affiliation, ## Felipe Agüero
         QIn03zIAAAAJ$affiliation, ## Hernán Campos-Parra
         u0K3FJMAAAAJ$affiliation  ## Nicolás Mimica
-)
+        )
 
 ## Aff
 
@@ -925,7 +925,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 167. Felipe Agüero
                  "PUC", ## 168. Hernán Campos-Parra
                  "UDP"  ## 169. Nicolás Mimica
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1103,7 +1103,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            JSPWdfYAAAAJ$total_cites, ## Felipe Agüero
            QIn03zIAAAAJ$total_cites, ## Hernán Campos-Parra
            u0K3FJMAAAAJ$total_cites  ## Nicolás Mimica
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1281,8 +1281,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              JSPWdfYAAAAJ$h_index, ## Felipe Agüero
              QIn03zIAAAAJ$h_index, ## Hernán Campos-Parra
              u0K3FJMAAAAJ$h_index  ## Nicolás Mimica
-             
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
