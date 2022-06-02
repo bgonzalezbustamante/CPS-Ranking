@@ -292,7 +292,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           "Victor Tricot Salomon", ## O7DOqCcAAAAJ$name
           "Adrian Albala", ## KZhWCqgAAAAJ$name
           "Miguel Angel Lopez" ## rIbm6tMAAAAJ$name
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -426,7 +426,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         O7DOqCcAAAAJ$id, ## Victor Tricot Salomon
         KZhWCqgAAAAJ$id, ## Adrian Albala
         rIbm6tMAAAAJ$id ## Miguel Angel Lopez
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -560,7 +560,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         O7DOqCcAAAAJ$affiliation, ## Victor Tricot Salomon
         KZhWCqgAAAAJ$affiliation, ## Adrian Albala
         rIbm6tMAAAAJ$affiliation ## Miguel Angel Lopez
-)
+        )
 
 ## Aff
 
@@ -690,7 +690,7 @@ Affiliation <- c("FLACSO", ## 1. Alejandro Olivares L.
                  "unk.", ## 123. Victor Tricot Salomon
                  "UnB", ## 124. Adrian Albala
                  "UCHILE" ## 125. Miguel Angel Lopez
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -824,7 +824,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            O7DOqCcAAAAJ$total_cites, ## Victor Tricot Salomon
            KZhWCqgAAAAJ$total_cites, ## Adrian Albala
            rIbm6tMAAAAJ$total_cites ## Miguel Angel Lopez
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -958,7 +958,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              O7DOqCcAAAAJ$h_index, ## Victor Tricot Salomon
              KZhWCqgAAAAJ$h_index, ## Adrian Albala
              rIbm6tMAAAAJ$h_index ## Miguel Angel Lopez
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
