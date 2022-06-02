@@ -322,7 +322,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           r2q0t8cAAAAJhl$name, ## Ximena Soto Soutullo
           DlO0jXVS4FIC$name, ## Luis Garrido-Vergara
           KNKPs0EAAAAJ$name ## Carolina Acevedo
-)
+          )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -470,7 +470,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         "r2q0t8cAAAAJ", ## Ximena Soto Soutullo
         DlO0jXVS4FIC$id, ## Luis Garrido-Vergara
         KNKPs0EAAAAJ$id ## Carolina Acevedo
-)
+        )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -618,7 +618,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         r2q0t8cAAAAJhl$affiliation, ## Ximena Soto Soutullo
         DlO0jXVS4FIC$affiliation, ## Luis Garrido-Vergara
         KNKPs0EAAAAJ$affiliation ## Carolina Acevedo
-)
+        )
 
 ## Aff
 
@@ -762,7 +762,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "KCL", ## 137. Ximena Soto Soutullo
                  "USACH", ## 138. Luis Garrido-Vergara
                  "PUC" ## 139. Carolina Acevedo
-)
+                 )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -910,7 +910,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            r2q0t8cAAAAJhl$total_cites, ## Ximena Soto Soutullo
            DlO0jXVS4FIC$total_cites, ## Luis Garrido-Vergara
            KNKPs0EAAAAJ$total_cites ## Carolina Acevedo
-)
+           )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1058,7 +1058,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              r2q0t8cAAAAJhl$h_index, ## Ximena Soto Soutullo
              DlO0jXVS4FIC$h_index, ## Luis Garrido-Vergara
              KNKPs0EAAAAJ$h_index ## Carolina Acevedo
-)
+             )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
