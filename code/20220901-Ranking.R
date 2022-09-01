@@ -957,7 +957,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UOB", ## 166. Leslie Wehner
                  "UDP", ## 167. Ariel Becerra
                  "USACH", ## 168. Constanza Jorquera Mery
-                 "UCHILE", ## 169. Karina Arias Yurisch
+                 "USACH", ## 169. Karina Arias Yurisch
                  "UCHILE", ## 170. Álvaro Ramírez-Alujas
                  "UVALPO" ## 171. Diego Barría Traverso
                  )
