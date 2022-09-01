@@ -409,7 +409,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           jxM4fcAAAAJ$name, ## Leslie Wehner
           b7GxWBAAAAAJ$name, ## Ariel Becerra
           DZbBocQAAAAJ$name, ## Constanza Jorquera Mery
-          glnCpMkAAAAJ$name, ## Karina Arias Yurisch
+          "Karina Arias Yurisch", ## glnCpMkAAAAJ$name
           "Álvaro Ramírez-Alujas", ## Álvaro Ramírez-Alujas
           r5a2TwAAAAJ$name ## Diego Barría Traverso
           )
