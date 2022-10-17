@@ -149,6 +149,8 @@ Carla Cisternas ([ORCID iD 0000-0001-7948-6194](https://orcid.org/0000-0001-7948
 
 Rodrigo Cuevas ([ORCID iD 0000-0002-5980-1908](https://orcid.org/0000-0002-5980-1908)): Resources.
 
+Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-8393)): Resources.
+
 ### Last updated
 
 [October 17, 2022](CHANGELOG.md).
