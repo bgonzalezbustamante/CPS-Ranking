@@ -33,7 +33,10 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 
 ## Researchers to be Added
 
-1.
+1. Jhon Jaime-Godoy (ID zqlTlxYAAAAJ)
+2. Vicente Faúndez Caicedo (ID xhj3oqEAAAAJ)
+3. Carolina Pérez Aburto (ID vgJHvAcAAAAJ)
+4. Caterina Bo Guzman (ID 3ULmjXcAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by December 2022.*
 
@@ -148,4 +151,4 @@ Rodrigo Cuevas ([ORCID iD 0000-0002-5980-1908](https://orcid.org/0000-0002-5980-
 
 ### Last updated
 
-[September 1, 2022](CHANGELOG.md).
+[October 17, 2022](CHANGELOG.md).
