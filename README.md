@@ -37,6 +37,7 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 2. Vicente Faúndez Caicedo (ID xhj3oqEAAAAJ)
 3. Carolina Pérez Aburto (ID vgJHvAcAAAAJ)
 4. Caterina Bo Guzman (ID 3ULmjXcAAAAJ)
+5. Verónica Figueroa-Gutiérrez (ID IuQrLCEAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by December 2022.*
 
