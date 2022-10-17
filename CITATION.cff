@@ -5,8 +5,8 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0003-1510-6820"
 title: "Chilean Political Science Impact Ranking"
-version: "3.11.14 -- Quiet Mud"
+version: "3.11.15 -- Ancient Block"
 doi: 10.17605/OSF.IO/C8PRA
-date-released: 2022-09-01
+date-released: 2022-10-17
 url: "https://github.com/bgonzalezbustamante/CPS-Ranking"
 type: data
