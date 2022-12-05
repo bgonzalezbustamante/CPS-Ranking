@@ -36,7 +36,7 @@ Y4q4OfoAAAAJ <- get_profile('Y4q4OfoAAAAJ') ## Antoine Maillet
 CDjgEGIAAAAJ <- get_profile('CDjgEGIAAAAJ') ## Antonio Bascuñán
 UknWOrEAAAAJ <- get_profile('UknWOrEAAAAJ') ## Bastián González-Bustamante
 UALXeUMAAAAJ <- get_profile('UALXeUMAAAAJ') ## Bernardo Mackenna
-## IOab2sQAAAAJ <- get_profile('IOab2sQAAAAJ') ## Camilo Vial (delete account)
+## IOab2sQAAAAJ <- get_profile('IOab2sQAAAAJ') ## Camilo Vial (deleted account)
 Kq4dWnoAAAAJ <- get_profile('Kq4dWnoAAAAJ') ## Carlos Huneeus
 ApRJQVkAAAAJ <- get_profile('ApRJQVkAAAAJ') ## Carolina Segovia
 ## FfBVmgkAAAAJ <- get_profile('FfBVmgkAAAAJ') ## Carsten-Andreas Schulz (removed by petition)
@@ -132,7 +132,7 @@ aQaYIAAAAJ <- get_profile('82aQaYIAAAAJ') ## Sebastián Umpierrez
 F7Dguu4AAAAJ <- get_profile('F7Dguu4AAAAJ') ## Sergio Toro Maureira
 MsPC8uwAAAAJ <- get_profile('MsPC8uwAAAAJ') ## Shirley Gotz
 MR9YwQkAAAAJ <- get_profile('MR9YwQkAAAAJ') ## Sofia Donoso
-## HcNzaN4AAAAJ <- get_profile('HcNzaN4AAAAJ') ## Stéphanie Alenda (delete account)
+## HcNzaN4AAAAJ <- get_profile('HcNzaN4AAAAJ') ## Stéphanie Alenda (deleted account)
 ZOmEt88AAAAJ <- get_profile('ZOmEt88AAAAJ') ## Susana Gazmuri
 XrCQYoAAAAJ <- get_profile('XrCQY-oAAAAJ') ## Tomas Dosek
 NvlbMocAAAAJ <- get_profile('NvlbMocAAAAJ') ## Umut Aydin
@@ -206,7 +206,7 @@ PfjSTeUAAAAJ <- get_profile('PfjSTeUAAAAJ') ## Lucia Miranda Leibe
 JD_X4KYAAAAJ <- get_profile('JD_X4KYAAAAJ') ## Carlos Meléndez
 qNc7eZgAAAAJ <- get_profile('qNc7eZgAAAAJ') ## Nerea C. Palma
 ZjxwRK0AAAAJ <- get_profile('ZjxwRK0AAAAJ') ## Diego Telias
-## LWLkiYMAAAAJ <- get_profile('LWLkiYMAAAAJ') ## Amy L. Atchison (delete account)
+## LWLkiYMAAAAJ <- get_profile('LWLkiYMAAAAJ') ## Amy L. Atchison (deleted account)
 kv5dWS4AAAAJ <- get_profile('kv5dWS4AAAAJ') ## Arlette Martínez Ossa
 DqP7GsAAAAJ <- get_profile('6DqP7GsAAAAJ') ## Pablo Argote
 xwVLXRQAAAAJ <- get_profile('xwVLXRQAAAAJ') ## Jaime Baeza Freer
@@ -246,7 +246,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           CDjgEGIAAAAJ$name, ## Antonio Bascuñán
           UknWOrEAAAAJ$name, ## Bastián González-Bustamante
           UALXeUMAAAAJ$name, ## Bernardo Mackenna
-          ## IOab2sQAAAAJ$name, ## Camilo Vial (delete account)
+          ## IOab2sQAAAAJ$name, ## Camilo Vial (deleted account)
           Kq4dWnoAAAAJ$name, ## Carlos Huneeus
           ApRJQVkAAAAJ$name, ## Carolina Segovia
           ## FfBVmgkAAAAJ$name, ## Carsten-Andreas Schulz (removed by petition)
@@ -342,7 +342,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           F7Dguu4AAAAJ$name, ## Sergio Toro Maureira
           MsPC8uwAAAAJ$name, ## Shirley Gotz
           MR9YwQkAAAAJ$name, ## Sofia Donoso
-          ## HcNzaN4AAAAJ$name, ## Stéphanie Alenda (delete account)
+          ## HcNzaN4AAAAJ$name, ## Stéphanie Alenda (deleted account)
           ZOmEt88AAAAJ$name, ## Susana Gazmuri
           "Tomas Dosek", ## XrCQYoAAAAJ$name
           NvlbMocAAAAJ$name, ## Umut Aydin
@@ -397,7 +397,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           JD_X4KYAAAAJ$name, ## Carlos Meléndez
           qNc7eZgAAAAJ$name, ## Nerea C. Palma
           ZjxwRK0AAAAJ$name, ## Diego Telias
-          ## LWLkiYMAAAAJ$name, ## Amy L. Atchison (delete account)
+          ## LWLkiYMAAAAJ$name, ## Amy L. Atchison (deleted account)
           kv5dWS4AAAAJ$name, ## Arlette Martínez Ossa
           DqP7GsAAAAJ$name, ## Pablo Argote
           "Jaime Baeza Freer", ## xwVLXRQAAAAJ$name
@@ -430,7 +430,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         CDjgEGIAAAAJ$id, ## Antonio Bascuñán
         UknWOrEAAAAJ$id, ## Bastián González-Bustamante
         UALXeUMAAAAJ$id, ## Bernardo Mackenna
-        ## IOab2sQAAAAJ$id, ## Camilo Vial (delete account)
+        ## IOab2sQAAAAJ$id, ## Camilo Vial (deleted account)
         Kq4dWnoAAAAJ$id, ## Carlos Huneeus
         ApRJQVkAAAAJ$id, ## Carolina Segovia
         ## FfBVmgkAAAAJ$id, ## Carsten-Andreas Schulz (removed by petition)
@@ -526,7 +526,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         F7Dguu4AAAAJ$id, ## Sergio Toro Maureira
         MsPC8uwAAAAJ$id, ## Shirley Gotz
         MR9YwQkAAAAJ$id, ## Sofia Donoso
-        ## HcNzaN4AAAAJ$id, ## Stéphanie Alenda (delete account)
+        ## HcNzaN4AAAAJ$id, ## Stéphanie Alenda (deleted account)
         ZOmEt88AAAAJ$id, ## Susana Gazmuri
         XrCQYoAAAAJ$id, ## Tomas Dosek
         NvlbMocAAAAJ$id, ## Umut Aydin
@@ -581,7 +581,7 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         JD_X4KYAAAAJ$id, ## Carlos Meléndez
         qNc7eZgAAAAJ$id, ## Nerea C. Palma
         ZjxwRK0AAAAJ$id, ## Diego Telias
-        ## LWLkiYMAAAAJ$id, ## Amy L. Atchison (delete account)
+        ## LWLkiYMAAAAJ$id, ## Amy L. Atchison (deleted account)
         kv5dWS4AAAAJ$id, ## Arlette Martínez Ossa
         DqP7GsAAAAJ$id, ## Pablo Argote
         xwVLXRQAAAAJ$id, ## Jaime Baeza Freer
@@ -614,7 +614,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         CDjgEGIAAAAJ$affiliation, ## Antonio Bascuñán
         UknWOrEAAAAJ$affiliation, ## Bastián González-Bustamante
         UALXeUMAAAAJ$affiliation, ## Bernardo Mackenna
-        ## IOab2sQAAAAJ$affiliation, ## Camilo Vial (delete account)
+        ## IOab2sQAAAAJ$affiliation, ## Camilo Vial (deleted account)
         Kq4dWnoAAAAJ$affiliation, ## Carlos Huneeus
         ApRJQVkAAAAJ$affiliation, ## Carolina Segovia
         ## FfBVmgkAAAAJ$affiliation, ## Carsten-Andreas Schulz (removed by petition)
@@ -710,7 +710,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         F7Dguu4AAAAJ$affiliation, ## Sergio Toro Maureira
         MsPC8uwAAAAJ$affiliation, ## Shirley Gotz
         MR9YwQkAAAAJ$affiliation, ## Sofia Donoso
-        ## HcNzaN4AAAAJ$affiliation, ## Stéphanie Alenda (delete account)
+        ## HcNzaN4AAAAJ$affiliation, ## Stéphanie Alenda (deleted account)
         ZOmEt88AAAAJ$affiliation, ## Susana Gazmuri
         XrCQYoAAAAJ$affiliation, ## Tomas Dosek
         NvlbMocAAAAJ$affiliation, ## Umut Aydin
@@ -765,7 +765,7 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         JD_X4KYAAAAJ$affiliation, ## Carlos Meléndez
         qNc7eZgAAAAJ$affiliation, ## Nerea C. Palma
         ZjxwRK0AAAAJ$affiliation, ## Diego Telias
-        ## LWLkiYMAAAAJ$affiliation, ## Amy L. Atchison (delete account)
+        ## LWLkiYMAAAAJ$affiliation, ## Amy L. Atchison (deleted account)
         kv5dWS4AAAAJ$affiliation, ## Arlette Martínez Ossa
         DqP7GsAAAAJ$affiliation, ## Pablo Argote
         xwVLXRQAAAAJ$affiliation, ## Jaime Baeza Freer
@@ -794,7 +794,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UAI", ## 7. Antonio Bascuñán
                  "OXF-USACH", ## 8. Bastián González-Bustamante
                  "UCSD", ## 9. Bernardo Mackenna
-                 ## "UA", ## Camilo Vial (delete account)
+                 ## "UA", ## Camilo Vial (deleted account)
                  "UCHILE", ## 10. Carlos Huneeus
                  "UDP", ## 11. Carolina Segovia
                  ## "CU", ## Carsten-Andreas Schulz (removed by petition)
@@ -890,7 +890,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UMAYOR", ## 101. Sergio Toro Maureira
                  "UAH", ## 102. Shirley Gotz
                  "UCHILE", ## 103. Sofia Donoso
-                 ## "UNAB", ## Stéphanie Alenda (delete account)
+                 ## "UNAB", ## Stéphanie Alenda (deleted account)
                  "PUC", ## 104. Susana Gazmuri
                  "PUCP", ## 105. Tomas Dosek
                  "PUC", ## 106. Umut Aydin
@@ -945,7 +945,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UDP", ## 155. Carlos Meléndez
                  "PUC", ## 156. Nerea C. Palma
                  "PUC", ## 157. Diego Telias
-                 ## "UVALPO", ## Amy L. Atchison (delete account)
+                 ## "UVALPO", ## Amy L. Atchison (deleted account)
                  "UDP", ## 158. Arlette Martínez Ossa
                  "CU", ## 159. Pablo Argote
                  "UCHILE", ## 160. Jaime Baeza Freer
@@ -978,7 +978,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            CDjgEGIAAAAJ$total_cites, ## Antonio Bascuñán
            UknWOrEAAAAJ$total_cites, ## Bastián González-Bustamante
            UALXeUMAAAAJ$total_cites, ## Bernardo Mackenna
-           ## IOab2sQAAAAJ$total_cites, ## Camilo Vial (delete account)
+           ## IOab2sQAAAAJ$total_cites, ## Camilo Vial (deleted account)
            Kq4dWnoAAAAJ$total_cites, ## Carlos Huneeus
            ApRJQVkAAAAJ$total_cites, ## Carolina Segovia
            ## FfBVmgkAAAAJ$total_cites, ## Carsten-Andreas Schulz (removed by petition)
@@ -1074,7 +1074,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            F7Dguu4AAAAJ$total_cites, ## Sergio Toro Maureira
            MsPC8uwAAAAJ$total_cites, ## Shirley Gotz
            MR9YwQkAAAAJ$total_cites, ## Sofia Donoso
-           ## HcNzaN4AAAAJ$total_cites, ## Stéphanie Alenda (delete account)
+           ## HcNzaN4AAAAJ$total_cites, ## Stéphanie Alenda (deleted account)
            ZOmEt88AAAAJ$total_cites, ## Susana Gazmuri
            XrCQYoAAAAJ$total_cites, ## Tomas Dosek
            NvlbMocAAAAJ$total_cites, ## Umut Aydin
@@ -1129,7 +1129,7 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            JD_X4KYAAAAJ$total_cites, ## Carlos Meléndez
            qNc7eZgAAAAJ$total_cites, ## Nerea C. Palma
            ZjxwRK0AAAAJ$total_cites, ## Diego Telias
-           ## LWLkiYMAAAAJ$total_cites, ## Amy L. Atchison (delete account)
+           ## LWLkiYMAAAAJ$total_cites, ## Amy L. Atchison (deleted account)
            kv5dWS4AAAAJ$total_cites, ## Arlette Martínez Ossa
            DqP7GsAAAAJ$total_cites, ## Pablo Argote
            xwVLXRQAAAAJ$total_cites, ## Jaime Baeza Freer
@@ -1162,7 +1162,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              CDjgEGIAAAAJ$h_index, ## Antonio Bascuñán
              UknWOrEAAAAJ$h_index, ## Bastián González-Bustamante
              UALXeUMAAAAJ$h_index, ## Bernardo Mackenna
-             ## IOab2sQAAAAJ$h_index, ## Camilo Vial (delete account)
+             ## IOab2sQAAAAJ$h_index, ## Camilo Vial (deleted account)
              Kq4dWnoAAAAJ$h_index, ## Carlos Huneeus
              ApRJQVkAAAAJ$h_index, ## Carolina Segovia
              ## FfBVmgkAAAAJ$h_index, ## Carsten-Andreas Schulz (removed by petition)
@@ -1258,7 +1258,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              F7Dguu4AAAAJ$h_index, ## Sergio Toro Maureira
              MsPC8uwAAAAJ$h_index, ## Shirley Gotz
              MR9YwQkAAAAJ$h_index, ## Sofia Donoso
-             ## HcNzaN4AAAAJ$h_index, ## Stéphanie Alenda (delete account)
+             ## HcNzaN4AAAAJ$h_index, ## Stéphanie Alenda (deleted account)
              ZOmEt88AAAAJ$h_index, ## Susana Gazmuri
              XrCQYoAAAAJ$h_index, ## Tomas Dosek
              NvlbMocAAAAJ$h_index, ## Umut Aydin
@@ -1313,7 +1313,7 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              JD_X4KYAAAAJ$h_index, ## Carlos Meléndez
              qNc7eZgAAAAJ$h_index, ## Nerea C. Palma
              ZjxwRK0AAAAJ$h_index, ## Diego Telias
-             ## LWLkiYMAAAAJ$h_index, ## Amy L. Atchison (delete account)
+             ## LWLkiYMAAAAJ$h_index, ## Amy L. Atchison (deleted account)
              kv5dWS4AAAAJ$h_index, ## Arlette Martínez Ossa
              DqP7GsAAAAJ$h_index, ## Pablo Argote
              xwVLXRQAAAAJ$h_index, ## Jaime Baeza Freer
