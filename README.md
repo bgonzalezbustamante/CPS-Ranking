@@ -2,7 +2,7 @@
 **Chilean Political Science Impact Ranking** \
 **https://bgonzalezbustamante.com/cps-ranking/**
 
-[![Version](https://img.shields.io/badge/version-v3.11.15-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-September%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-09-01-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-171-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-09-01-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-December%202022-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.12.15-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-December%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-175-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-March%202023-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.2.2-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -12,12 +12,13 @@ It has been elaborated according to the following sampling criteria. First of al
 
 Furthermore, a consistency index `C-Index` was calculated on [March 2021 measurement](https://bgonzalezbustamante.com/cps-ranking/series/2021-03-08-impact-ranking/). `C-Index` goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.
 
-The twelfth measurement has been collected on September 1, 2022. The next one will be collected by December 2022. The data set can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)).
+The thirteenth measurement has been collected on December 5, 2022. The next one will be collected by March 2023. The data set can be downloaded from the OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)).
 
-I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), and [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) for their valuable comments and contributions.
+I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/authors/aolivares/), [Carla Cisternas](https://bgonzalezbustamante.com/authors/ccisternas/), [Rodrigo Cuevas](https://bgonzalezbustamante.com/authors/rcuevas/) and Patricio Navia for their valuable comments and contributions.
 
 ## Rankings
 
+- [Impact Ranking December 2022](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/)
 - [Impact Ranking September 2022](https://bgonzalezbustamante.com/cps-ranking/series/2022-09-01-impact-ranking/)
 - [Impact Ranking June 2022](https://bgonzalezbustamante.com/cps-ranking/series/2022-06-02-impact-ranking/)
 - [Impact Ranking March 2022](https://bgonzalezbustamante.com/cps-ranking/series/2022-03-01-impact-ranking/)
@@ -33,11 +34,7 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 
 ## Researchers to be Added
 
-1. Jhon Jaime-Godoy (ID zqlTlxYAAAAJ)
-2. Vicente Faúndez Caicedo (ID xhj3oqEAAAAJ)
-3. Carolina Pérez Aburto (ID vgJHvAcAAAAJ)
-4. Caterina Bo Guzman (ID 3ULmjXcAAAAJ)
-5. Verónica Figueroa-Gutiérrez (ID IuQrLCEAAAAJ)
+1.
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by December 2022.*
 
@@ -49,13 +46,17 @@ The GitHub repository has controlled access with Two-Factor Authentication `2FA`
 
 ### Software
 
-We used `R v4.1.0 -- Camp Pontanezen` and `scholar v0.2.1` package. In early scripts, we used `R v3.6.1 -- Action of the Toes` and `R v4.0.2 -- Taking Off Again`.
+We used `R v4.2.2 -- Innocent and Trusting` and `scholar v0.2.4` package. In early scripts, we used `R v4.1.0 -- Camp Pontanezen`, `R v3.6.1 -- Action of the Toes`, `R v4.0.2 -- Taking Off Again` and `scholar v0.2.1` package.
 
 ### Import Data
 
 #### R Code
 
 ``` r
+### December 2022
+dec2022 <- read.csv("https://osf.io/vkw3a/download", fileEncoding = "UTF-8")
+names(dec2022)[1] = "Ranking"
+
 ## September 2022
 sep2022 <- read.csv("https://osf.io/xzkqf/download", fileEncoding = "UTF-8")
 names(sep2022)[1] = "Ranking"
@@ -110,8 +111,8 @@ names(dec2019)[1] = "Ranking"
 ``` python
 import pandas as pd
 
-## September 2022
-url = "https://osf.io/xzkqf/download"
+## December 2022
+url = "https://osf.io/vkw3a/download"
 df = pd.read_csv(url, index_col=0)
 ```
 
@@ -131,7 +132,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.11.15 -- Ancient Block) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
+González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.12.15 -- Ancient Grass) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
 
 ## Author
 
@@ -154,4 +155,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[October 17, 2022](CHANGELOG.md).
+[December 5, 2022](CHANGELOG.md).
