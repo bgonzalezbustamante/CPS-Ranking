@@ -2,7 +2,7 @@
 **Chilean Political Science Impact Ranking** \
 **https://bgonzalezbustamante.com/cps-ranking/**
 
-[![Version](https://img.shields.io/badge/version-v3.12.15-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-December%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-175-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-March%202023-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.2.2-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.12.16-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-December%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-175-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-March%202023-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.2.2-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -34,7 +34,7 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 
 ## Researchers to be Added
 
-1.
+1. Diego Sazo (ID EUBDjRMAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by December 2022.*
 
@@ -132,7 +132,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.12.15 -- Ancient Grass) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
+González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.12.16 -- Orange Glade) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
 
 ## Author
 
@@ -155,4 +155,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[December 5, 2022](CHANGELOG.md).
+[December 7, 2022](CHANGELOG.md).
