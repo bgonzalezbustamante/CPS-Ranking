@@ -5,8 +5,8 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0003-1510-6820"
 title: "Chilean Political Science Impact Ranking"
-version: "3.12.16 -- Orange Glade"
+version: "3.12.17 -- Autumn Hat"
 doi: 10.17605/OSF.IO/C8PRA
-date-released: 2022-12-07
+date-released: 2022-12-09
 url: "https://github.com/bgonzalezbustamante/CPS-Ranking"
 type: data
