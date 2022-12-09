@@ -37,6 +37,7 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 1. Diego Sazo (ID EUBDjRMAAAAJ)
 2. Mariana Chudnovsky (ID 4DhexOEAAAAJ)
 3. Isabel Castillo Carniglia (ID zhduEFwAAAAJ)
+4. Carmen Le Foulon (ID wRPMNvUAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by March 2023.*
 
