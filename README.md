@@ -2,7 +2,7 @@
 **Chilean Political Science Impact Ranking** \
 **https://bgonzalezbustamante.com/cps-ranking/**
 
-[![Version](https://img.shields.io/badge/version-v3.12.17-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-December%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-175-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-March%202023-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.2.2-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.12.18-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![Update](https://img.shields.io/badge/latest%20release-December%202022-orange.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Ranked](https://img.shields.io/badge/cases%20ranked-175-brightgreen.svg)](https://bgonzalezbustamante.com/cps-ranking/series/2022-12-05-impact-ranking/) [![Next](https://img.shields.io/badge/next%20release-March%202023-red.svg)](CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CPS-Ranking.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FC8PRA-blue)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.2.2-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -38,6 +38,8 @@ I would like to thank [Alejandro Olivares](https://bgonzalezbustamante.com/autho
 2. Mariana Chudnovsky (ID 4DhexOEAAAAJ)
 3. Isabel Castillo Carniglia (ID zhduEFwAAAAJ)
 4. Carmen Le Foulon (ID wRPMNvUAAAAJ)
+5. Felipe Livert (ID N7E3JRMAAAAJ)
+6. Francesco Penaglia (ID XZoScBQAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  bastian.gonzalezbustamante@politics.ox.ac.uk. The next measurement will be collected by March 2023.*
 
@@ -135,7 +137,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.12.17 -- Autumn Hat) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
+González-Bustamante, B. (2022). Chilean Political Science Impact Ranking (Version 3.12.18 -- Snowy Cherry) [Data set]. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
 
 ## Author
 
@@ -158,4 +160,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[December 9, 2022](CHANGELOG.md).
+[January 15, 2023](CHANGELOG.md).
