@@ -410,7 +410,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           b7GxWBAAAAAJ$name, ## Ariel Becerra
           DZbBocQAAAAJ$name, ## Constanza Jorquera Mery
           "Karina Arias Yurisch", ## glnCpMkAAAAJ$name
-          "Álvaro Ramírez-Alujas", ## Álvaro Ramírez-Alujas
+          "Álvaro Ramírez-Alujas", ## wk_ROsAAAAJ$name
           r5a2TwAAAAJ$name ## Diego Barría Traverso
           )
 
@@ -925,7 +925,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 135. Luis Garrido-Vergara
                  "UCT", ## 136. Carolina Acevedo
                  "UCHILE", ## 137. Andrés Dockendorff
-                 "TURKU", ## 138. Hector Bahamonde
+                 "UTU", ## 138. Hector Bahamonde
                  "unk.", ## 139. Renata Retamal Iturriaga
                  "OXF", ## 140. Gonzalo Contreras Aguirre
                  "SC", ## 141. Lucas Perelló
