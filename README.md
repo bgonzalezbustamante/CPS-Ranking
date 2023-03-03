@@ -137,7 +137,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B. (2023). Chilean Political Science Impact Ranking (Version 3.13.18 -- Silent Thunder) [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA)
+González-Bustamante, B. (2023). Chilean Political Science Impact Ranking (Version 3.13.18 -- Silent Thunder) [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA).
 
 ## Author
 
