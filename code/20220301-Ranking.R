@@ -911,7 +911,7 @@ Affiliation <- c("UCT", ## 1. Alejandro Olivares L.
                  "UCHILE", ## 137. Luis Garrido-Vergara
                  "UCT", ## 138. Carolina Acevedo
                  "UCHILE", ## 139. Andrés Dockendorff
-                 "TURKU", ## 140. Hector Bahamonde
+                 "UTU", ## 140. Hector Bahamonde
                  "unk.", ## 141. Renata Retamal Iturriaga
                  "OXF", ## 142. Gonzalo Contreras Aguirre
                  "MMC", ## 143. Lucas Perelló
