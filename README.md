@@ -57,7 +57,6 @@ We used `R v4.2.2 -- Innocent and Trusting` and `scholar v0.2.4` package. In ear
 jun2023 <- read.csv("https://osf.io/f5wme/download", fileEncoding = "UTF-8")
 names(jun2023)[1] = "Ranking"
 
-
 ### March 2023
 mar2023 <- read.csv("https://osf.io/sra48/download", fileEncoding = "UTF-8")
 names(mar2023)[1] = "Ranking"
