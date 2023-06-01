@@ -3,11 +3,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [4.0.0] - TBC
-### Added
-- Automatic deployment from GitHub with Netlify on own domain (TBC).
-
-## [3.14.18] - 2023-06-05
+## [4.1.0] - 2023-09-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -16,6 +12,13 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - K-Index (TBC).
 
 ## [Released]
+
+## [4.0.0] - 2023-06-01
+### Added
+- Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
+- Updated version impact ranking.
+### Changed
+- CPS-Ranking from bgonzalezbustamante.com to training-datalab.com.
 
 ## [3.13.18] - 2023-03-03
 ### Added
