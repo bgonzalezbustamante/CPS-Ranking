@@ -13,7 +13,7 @@
 
 ## Chilean Political Science Impact Ranking Project
 ## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
-## Website: https://bgonzalezbustamante.com/cps-ranking
+## Website: https://training-datalab.com/projects/cps-ranking
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -928,7 +928,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UBB", ## 92. Roberto Mardones
                  "USACH", ## 93. Rodolfo Disi Pavlic
                  "UCT", ## 94. Rodrigo Cuevas
-                 "UAB", ## 95. Rodrigo Medel
+                 "UNAB", ## 95. Rodrigo Medel
                  "UDP", ## 96. Rodrigo Osorio
                  "UDP", ## 97. Rossana Castiglioni
                  "UCHILE", ## 98. Sandra Baquedano
