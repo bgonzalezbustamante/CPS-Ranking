@@ -35,7 +35,8 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 ## Researchers to be Added
 
 1. Stéphanie Alenda (ID WWNCkZMAAAAJ)
-2.
+2. Fabián Belmar (ID wr6beBsAAAAJ)
+3. Joaquín Rozas-Bugueño (ID 9H55Z4oAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by September 2023.*
 
@@ -178,4 +179,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[June 2, 2023](CHANGELOG.md).
+[July 26, 2023](CHANGELOG.md).
