@@ -2,7 +2,7 @@
 **Chilean Political Science Ranking** \
 **https://training-datalab.com/projects/cps-ranking**
 
-[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_0_4.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![Update](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/june_2023.svg)](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking) [![Ranked](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cases_180.svg)](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking) [![Next](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/next_sep_2023.svg)](CHANGELOG.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_1_4.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![Update](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/sep_2023.svg)](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking) [![Ranked](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cases_187.svg)](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking) [![Next](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/next_dec_2023.svg)](CHANGELOG.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -16,6 +16,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Quarterly Series
 
+- [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
 - [June 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
 - [March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
 - [December 2022](https://training-datalab.com/projects/cps-ranking/2022-12-05-impact-ranking)
@@ -34,15 +35,9 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Researchers to be Added
 
-1. Stéphanie Alenda (ID WWNCkZMAAAAJ)
-2. Fabián Belmar (ID wr6beBsAAAAJ)
-3. Joaquín Rozas-Bugueño (ID 9H55Z4oAAAAJ)
-4. Mario Herrera (ID 8m3Lhe8AAAAJ)
-5. Norma Muñoz del Campo (ID sOd1T0wAAAAJ)
-6. Roberto Mardones (ID 99rI_qsAAAAJ)
-7. María Pía Méndez (ID 8w7FRG0AAAAJ)
+1.
 
-*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by September 2023.*
+*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by December 2023.*
 
 ## Storage
 
@@ -59,6 +54,10 @@ We used `R v4.2.2 -- Innocent and Trusting` and `scholar v0.2.4` package. In ear
 #### R Code
 
 ``` r
+### September 2023
+sep2023 <- read.csv("https://osf.io/wkgjc/download", fileEncoding = "UTF-8")
+names(sep2023)[1] = "Ranking"
+
 ### June 2023
 jun2023 <- read.csv("https://osf.io/f5wme/download", fileEncoding = "UTF-8")
 names(jun2023)[1] = "Ranking"
@@ -125,8 +124,8 @@ names(dec2019)[1] = "Ranking"
 ``` python
 import pandas as pd
 
-## June 2023
-url = "https://osf.io/f5wme/download"
+## September 2023
+url = "https://osf.io/wkgjc/download"
 df = pd.read_csv(url, index_col=0)
 ```
 
@@ -183,4 +182,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[August 30, 2023](CHANGELOG.md).
+[September 1, 2023](CHANGELOG.md).
