@@ -14,7 +14,7 @@
 
 ## Chilean Political Science Impact Ranking Project
 ## OSF-Project DOI: 10.17605/OSF.IO/C8PRA
-## Website: https://bgonzalezbustamante.com/cps-ranking
+## Website: https://training-datalab.com/projects/cps-ranking
 ## GitHub Repository: https://github.com/bgonzalezbustamante/CPS-Ranking
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
