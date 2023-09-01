@@ -26,6 +26,9 @@
 ## Package
 library(scholar)
 
+## Clean Environment
+rm(list = ls())
+
 ## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
 KiGpYt4AAAAJ <- get_profile('KiGpYt4AAAAJ') ## Alejandro Corvalan
