@@ -253,7 +253,7 @@ wr6beBsAAAAJ <- get_profile('wr6beBsAAAAJ') ## Fabián Belmar
 H55Z4oAAAAJ <- get_profile('9H55Z4oAAAAJ') ## Joaquín Rozas-Bugueño
 m3Lhe8AAAAJ <- get_profile('8m3Lhe8AAAAJ') ## Mario Herrera
 sOd1T0wAAAAJ <- get_profile('sOd1T0wAAAAJ') ## Norma Muñoz del Campo
-rI_qsAAAAJ <- get_profile('99rI_qsAAAAJ') ## Roberto Mardones
+## rI_qsAAAAJ <- get_profile('99rI_qsAAAAJ') ## Roberto Mardones ## Was already on the list
 w7FRG0AAAAJ <- get_profile('8w7FRG0AAAAJ') ## María Pía Méndez
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -454,7 +454,6 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           H55Z4oAAAAJ$name, ## Joaquín Rozas-Bugueño
           m3Lhe8AAAAJ$name, ## Mario Herrera
           "Norma Muñoz del Campo", ## sOd1T0wAAAAJ$name
-          rI_qsAAAAJ$name, ## Roberto Mardones
           w7FRG0AAAAJ$name ## María Pía Méndez
           )
 
@@ -656,7 +655,6 @@ ID <- c(POHGEtYAAAAJ$id, ## Alejandro Olivares L.
         H55Z4oAAAAJ$id, ## Joaquín Rozas-Bugueño
         m3Lhe8AAAAJ$id, ## Mario Herrera
         sOd1T0wAAAAJ$id, ## Norma Muñoz del Campo
-        rI_qsAAAAJ$id, ## Roberto Mardones
         w7FRG0AAAAJ$id ## María Pía Méndez
         )
 
@@ -858,7 +856,6 @@ Aff <- c(POHGEtYAAAAJ$affiliation, ## Alejandro Olivares L.
         H55Z4oAAAAJ$affiliation, ## Joaquín Rozas-Bugueño
         m3Lhe8AAAAJ$affiliation, ## Mario Herrera
         sOd1T0wAAAAJ$affiliation, ## Norma Muñoz del Campo
-        rI_qsAAAAJ$affiliation, ## Roberto Mardones
         w7FRG0AAAAJ$affiliation ## María Pía Méndez
         )
 
@@ -1056,8 +1053,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UPF", ## 183. Joaquín Rozas-Bugueño
                  "UTALCA", ## 184. Mario Herrera
                  "USACH", ## 185. Norma Muñoz del Campo
-                 "UMAYOR", ## 186. Roberto Mardones
-                 "UMAYOR" ## 187. María Pía Méndez
+                 "UMAYOR" ## 186. María Pía Méndez
                  )
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -1258,7 +1254,6 @@ Cites <- c(POHGEtYAAAAJ$total_cites, ## Alejandro Olivares L.
            H55Z4oAAAAJ$total_cites, ## Joaquín Rozas-Bugueño
            m3Lhe8AAAAJ$total_cites, ## Mario Herrera
            sOd1T0wAAAAJ$total_cites, ## Norma Muñoz del Campo
-           rI_qsAAAAJ$total_cites, ## Roberto Mardones
            w7FRG0AAAAJ$total_cites ## María Pía Méndez
            )
 
@@ -1460,7 +1455,6 @@ H_Index <- c(POHGEtYAAAAJ$h_index, ## Alejandro Olivares L.
              H55Z4oAAAAJ$h_index, ## Joaquín Rozas-Bugueño
              m3Lhe8AAAAJ$h_index, ## Mario Herrera
              sOd1T0wAAAAJ$h_index, ## Norma Muñoz del Campo
-             rI_qsAAAAJ$h_index, ## Roberto Mardones
              w7FRG0AAAAJ$h_index ## María Pía Méndez
              )
 
