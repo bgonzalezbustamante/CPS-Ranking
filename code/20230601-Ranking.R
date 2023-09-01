@@ -25,6 +25,9 @@
 ## Package
 library(scholar)
 
+## Clean Environment
+rm(list = ls())
+
 ## Sample December 2019
 POHGEtYAAAAJ <- get_profile('POHGEtYAAAAJ') ## Alejandro Olivares L.
 KiGpYt4AAAAJ <- get_profile('KiGpYt4AAAAJ') ## Alejandro Corvalan
@@ -387,7 +390,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           dFcoyfMAAAAJ$name, ## Antonio Canale-Mayet
           elmJq2gAAAAJ$name, ## Javier Sajuria
           hTyE9WAAAAAJ$name,  ## Federico Rojas-de-Galarreta
-          r2q0t8cAAAAJhl$name, ## Ximena Soto Soutullo
+          "Ximena Soto Soutullo", ## r2q0t8cAAAAJhl$name
           DlO0jXVS4FIC$name, ## Luis Garrido-Vergara
           KNKPs0EAAAAJ$name, ## Carolina Acevedo
           fJbvIm4AAAAJ$name, ## Andrés Dockendorff
