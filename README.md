@@ -14,10 +14,6 @@ Furthermore, a consistency index `C-Index` was calculated on [March 2021 measure
 
 We would like to thank Patricio Navia for his valuable comments and contributions.
 
-## Disclaimer
-
-Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the `H-Index`, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by `H-Index` and citation.
-
 ## Quarterly Series
 
 - [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
@@ -49,6 +45,10 @@ Please bear in mind that this citation data comes from own user-created profiles
 8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by December 2023.*
+
+## Disclaimer
+
+Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the `H-Index`, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by `H-Index` and citation.
 
 ## Storage
 
