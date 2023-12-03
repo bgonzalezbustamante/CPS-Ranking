@@ -256,7 +256,7 @@ XZoScBQAAAAJ <- get_profile('XZoScBQAAAAJ') ## Francesco Penaglia
 ## Names
 Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           KiGpYt4AAAAJ$name, ## Alejandro Corvalan
-          "Alfredo Joignant", ## C6i7344AAAAJ$name, 
+          "Alfredo Joignant", ## C6i7344AAAAJ$name
           mQwDWagAAAAJ$name, ## Andrés Stark Azócar
           UYqfqAAAAAJ$name, ## Anthony A. Pezzola
           Y4q4OfoAAAAJ$name, ## Antoine Maillet
@@ -275,7 +275,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
           vLROxScAAAAJ$name, ## Claudio Fuentes-González
           "Cristian Garay Vera", ## QQq0cAAAAJ$name
-          "Cristian Pérez Muñoz", ## MKayIWEAAAAJ$name, 
+          "Cristian Pérez Muñoz", ## MKayIWEAAAAJ$name
           HVy8iAAAAAJ$name, ## Cristian Pliscoff
           MwnsXycAAAAJ$name, ## Cristina Moyano Barahona
           L8S57cAAAAJ$name, ## Cristóbal Bellolio
@@ -285,7 +285,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           VQKPXBMAAAAJ$name, ## Daniel Flores Cáceres
           "Daniel Santibañez Guerrero", ## B7eJM_0AAAAJ$name
           xWbhhH8AAAAJ$name, ## David Altman
-          "Diego Rossello", ## MWiRrUAAAAJ$name, 
+          "Diego Rossello", ## MWiRrUAAAAJ$name
           NcxMjkAAAAAJ$name, ## Egon Montecinos
           bSlkAAAAJ$name, ## Ely Orrego
           dQZFoWYAAAAJ$name, ## Esteban Valenzuela
@@ -294,8 +294,8 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           YAryivQAAAAJ$name, ## Felipe Schwember
           InrV7oEAAAAJ$name, ## Fernando Atria
           HaX6qs4AAAAJ$name, ## Fernando Rosenblatt
-          "Fernando Schmidt",  ## wXHJZ4oAAAAJ$name, 
-          "Francisca Lisbona Saavedra", ## BB7GS4AAAAJ$name, 
+          "Fernando Schmidt",  ## wXHJZ4oAAAAJ$name
+          "Francisca Lisbona Saavedra", ## BB7GS4AAAAJ$name
           eubXaYAAAAJ$name, ## Francisco Urdinez
           zWIsBT8AAAAJ$name, ## Germán Campos-Herrera
           cEbNnwAAAAJ$name, ## Gonzalo Espinoza Bianchini
@@ -306,14 +306,14 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           r0EzJIAAAAJ$name, ## Javier Couso
           mHLvikAAAAJ$name, ## Jeanne W. Simon
           VM3OxhsAAAAJ$name, ## Jorge Fabrega
-          "Jose de la Cruz Garrido", ## Q8J28ZcAAAAJ$name, 
+          "Jose de la Cruz Garrido", ## Q8J28ZcAAAAJ$name
           tBxjDkcAAAAJ$name, ## José Hernández-Bonivento
-          "Juan Carlos Arellano", ## wsdmHJ0AAAAJ$name, 
+          "Juan Carlos Arellano", ## wsdmHJ0AAAAJ$name
           eDBbeDcAAAAJ$name, ## Juan Pablo Araya
           dJMnKfcAAAAJ$name, ## Juan Pablo Couyoumdjian
           IgwSc8oAAAAJ$name, ## Juan Pablo Luna
-          "Julieta Suarez-Cao", ## Julieta Suarez-Cao
-          "Karen Manzano Iturra", ## grB28SkAAAAJ$name, 
+          "Julieta Suarez-Cao", ## i2JJrfYAAAAJ$name
+          "Karen Manzano Iturra", ## grB28SkAAAAJ$name
           vOiOsAAAAJ$name, ## Katherine Figueroa Aillañir
           kFHaW6wAAAAJ$name, ## Kenneth Bunker
           qFLejd0AAAAJ$name, ## Kirsten Sehnbruch
@@ -322,16 +322,16 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           kiG1xgAAAAJ$name, ## Lorena Oyarzún Serrano
           iIDHIHkAAAAJ$name, ## Loreto Correa
           Kh9TTGwAAAAJ$name, ## Lucia Dammert
-          "Luis Clavería Cambón", ## jETtdIAAAAJ$name, 
+          "Luis Clavería Cambón", ## jETtdIAAAAJ$name
           kj503iEAAAAJ$name, ## Marcelo Marzouka
-          "María Gabriela Cordova", ## YDPznzAAAAAJ$name, 
+          "María Gabriela Cordova", ## YDPznzAAAAAJ$name
           pr35r24AAAAJ$name, ## Mariol Virgili Lillo
           oYjLYEAAAAJ$name, ## Matias Bargsted
           HA56QUAAAAJ$name, ## Matthias Erlandsen
           qKDaZAMAAAAJ$name, ## Mauricio Apablaza
           BPVbhToAAAAJ$name, ## Mauricio Morales Quiroga
-          "Mauricio Olavarría-Gambi", ## yXeMPpEAAAAJ$name, 
-          "Máximo Quitral Rojas", ## Iz7nUN8AAAAJ$name, 
+          "Mauricio Olavarría-Gambi", ## yXeMPpEAAAAJ$name
+          "Máximo Quitral Rojas", ## Iz7nUN8AAAAJ$name
           OLDMbVAAAAAJ$name, ## Mireya Dávila
           PtAYAAAAJ$name, ## Nicolás Del Valle
           yyr6ge0AAAAJ$name, ## Nicolás M. Somma
@@ -344,7 +344,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           RqH9nVAAAAAJ$name, ## Patricio Valdivieso
           HGTSACIAAAAJ$name, ## Peter Siavelis
           CdsiN9QAAAAJ$name, ## Pierre Ostiguy
-          "Rene Jara", ## oeRXDWkAAAAJ$name, 
+          "Rene Jara", ## oeRXDWkAAAAJ$name
           nOBjxWUAAAAJ$name, ## Ricardo Gamboa
           mAm1D8AAAAJ$name, ## Robert L. Funk
           rIqsAAAAJ$name, ## Roberto Mardones
@@ -355,7 +355,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           gkHNPiwAAAAJ$name, ## Rossana Castiglioni
           R84mfaoAAAAJ$name, ## Sandra Baquedano
           CrQouUsAAAAJ$name, ## Sebastián Carrasco
-          "Sebastián A. Umpierrez", ## aQaYIAAAAJ$name, 
+          "Sebastián A. Umpierrez", ## aQaYIAAAAJ$name
           F7Dguu4AAAAJ$name, ## Sergio Toro Maureira
           MsPC8uwAAAAJ$name, ## Shirley Gotz
           MR9YwQkAAAAJ$name, ## Sofia Donoso
@@ -370,11 +370,11 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           ihALyKUAAAAJ$name, ## Waleska Muñoz Aravena
           JxOP4oAAAAJ$name, ## William Porath
           IYungBYAAAAJ$name, ## Giancarlo Visconti
-          "Gabriel L. Negretto", ## AP5zUGwAAAAJ$name,
+          "Gabriel L. Negretto", ## AP5zUGwAAAAJ$name
           ws3YSrkAAAAJ$name, ## Ignacio Arana Araya
           ie78OmcAAAAJ$name, ## José Miguel Cabezas
           cAowpkAAAAJ$name, ## Rodrigo Mardones
-          "Macarena Valenzuela Beltrán", ## xP7heoAAAAJ$name 
+          "Macarena Valenzuela Beltrán", ## xP7heoAAAAJ$name
           "Germán Bidegain", ## RBv0BPIAAAAJ$name
           "Victor Tricot Salomon", ## O7DOqCcAAAAJ$name
           "Adrian Albala", ## KZhWCqgAAAAJ$name
@@ -432,7 +432,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           zqlTlxYAAAAJ$name, ## Jhon Jaime-Godoy
           xhj3oqEAAAAJ$name, ## Vicente Faúndez Caicedo
           vgJHvAcAAAAJ$name, ## Carolina Pérez Aburto
-          "Caterina Bo Guzman", ## Caterina Bo Guzman
+          "Caterina Bo Guzman", ## ULmjXcAAAAJ$name
           IuQrLCEAAAAJ$name, ## Verónica Figueroa-Gutiérrez
           EUBDjRMAAAAJ$name, ## Diego Sazo
           DhexOEAAAAJ$name, ## Mariana Chudnovsky
