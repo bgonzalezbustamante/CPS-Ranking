@@ -2,7 +2,7 @@
 **Chilean Political Science Ranking** \
 **https://training-datalab.com/projects/cps-ranking**
 
-[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_1_6.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![Update](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/sep_2023.svg)](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking) [![Ranked](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cases_186.svg)](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking) [![Next](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/next_dec_2023.svg)](CHANGELOG.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_2_6.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![Update](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/dec_2023.svg)](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking) [![Ranked](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cases_195.svg)](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking) [![Next](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/next_mar_2024.svg)](CHANGELOG.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -16,6 +16,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Quarterly Series
 
+- [December 2023](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking)
 - [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
 - [June 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
 - [March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
@@ -35,17 +36,9 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Researchers to be Added
 
-1. Ryan E. Carlin (ID -eHDvsQAAAAJ)
-2. Sebastian Rivera (ID Z_hzOvcAAAAJ)
-3. Jaime Lindh (ID puGitsoAAAAJ)
-4. Martin Schuster (ID ybpn9pEAAAAJ)
-5. Pedro Fierro (ID RrzlOTIAAAAJ)
-6. Emmanuelle Barozet (ID NLiNCD0AAAAJ)
-7. Pamela Figueroa Rubio (ID 1pAw2bwAAAAJ)
-8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
-9. Susana Riquelme Parra (ID JKUtx6oAAAAJ)
+1.
 
-*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by December 2023.*
+*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by March 2024.*
 
 ## Disclaimer
 
@@ -66,6 +59,10 @@ We used `R v4.2.2 -- Innocent and Trusting` and `scholar v0.2.4` package. In ear
 #### R Code
 
 ``` r
+## December 2023
+dec2023 <- read.csv("https://osf.io/v24m6/download", fileEncoding = "UTF-8")
+names(dec2023)[1] = "Ranking"
+
 ### September 2023
 sep2023 <- read.csv("https://osf.io/wkgjc/download", fileEncoding = "UTF-8")
 names(sep2023)[1] = "Ranking"
@@ -136,8 +133,8 @@ names(dec2019)[1] = "Ranking"
 ``` python
 import pandas as pd
 
-## September 2023
-url = "https://osf.io/wkgjc/download"
+## December 2023
+url = "https://osf.io/v24m6/download"
 df = pd.read_csv(url, index_col=0)
 ```
 
@@ -157,12 +154,12 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA).
+González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, Leiden University, University of Oxford and Training Data Lab. DOI: [10.17605/OSF.IO/C8PRA](https://doi.org/10.17605/OSF.IO/C8PRA).
 
 ## Authors
 
 Bastián González-Bustamante \
-bastian.gonzalezbustamante@politics.ox.ac.uk \
+b.a.gonzalez.bustamante@fgga.leidenuniv.nl \
 [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820) \
 https://bgonzalezbustamante.com
 
@@ -194,4 +191,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[October 21, 2023](CHANGELOG.md).
+[December 3, 2023](CHANGELOG.md).
