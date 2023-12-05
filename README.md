@@ -38,6 +38,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 1. Fabian Pressacco (ID KX_lc8MAAAAJ)
 2. Francisca Castro (ID R8GnvnMAAAAJ)
+3. Cristian Ovando Santana (ID 95XWzKgAAAAJ)
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by March 2024.*
 
