@@ -3,7 +3,7 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Unreleased]
 
-## [4.3.6] - 2024-03-05
+## [4.3.7] - 2024-03-05
 ### Added
 - Release of dataset (DOI: 10.17605/OSF.IO/M3NZD).
 - Updated version impact ranking.
@@ -12,6 +12,10 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 - K-Index (TBC).
 
 ## [Released]
+
+## [4.2.7] - 2023-12-05
+### Changed
+- Update of researchers to be added.
 
 ## [4.2.6] - 2023-12-03
 ### Added
