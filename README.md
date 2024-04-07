@@ -37,7 +37,8 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Researchers to be Added
 
-1.
+1. Nicolás de la Cerda (ID X8xHKWMAAAAJ)
+2. 
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by June 2024.*
 
