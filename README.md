@@ -2,7 +2,7 @@
 **Chilean Political Science Ranking** \
 **https://training-datalab.com/projects/cps-ranking**
 
-[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_3_7.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![Update](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mar_2024.svg)](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking) [![Ranked](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cases_199.svg)](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking) [![Next](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/next_jun_2024.svg)](CHANGELOG.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_4_8.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_3_3.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -16,6 +16,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Quarterly Series
 
+- [June 2024](https://training-datalab.com/projects/cps-ranking/2024-06-02-impact-ranking)
 - [March 2024](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking)
 - [December 2023](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking)
 - [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
@@ -37,10 +38,9 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Researchers to be Added
 
-1. Nicolás de la Cerda (ID X8xHKWMAAAAJ)
-2. 
+1.
 
-*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by June 2024.*
+*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by September 2024.*
 
 ## Disclaimer
 
@@ -54,13 +54,17 @@ The GitHub repository has controlled access with Two-Factor Authentication `2FA`
 
 ### Software
 
-We used `R v4.2.2 -- Innocent and Trusting` and `scholar v0.2.4` package. In early scripts, we used `R v4.1.0 -- Camp Pontanezen`, `R v3.6.1 -- Action of the Toes`, `R v4.0.2 -- Taking Off Again` and `scholar v0.2.1` package.
+We used `R v4.3.3 -- Angel Food Cake` and `scholar v0.2.4` package. In early scripts, we used `R v4.2.2 -- Innocent and Trusting`, `R v4.1.0 -- Camp Pontanezen`, `R v4.0.2 -- Taking Off Again`, `R v3.6.1 -- Action of the Toes`, and `scholar v0.2.1` package.
 
 ### Import Data
 
 #### R Code
 
 ``` r
+## June 2024
+jun2024 <- read.csv("https://osf.io/548gr/download", fileEncoding = "UTF-8")
+names(jun2024)[1] = "Ranking"
+
 ## March 2024
 mar2024 <- read.csv("https://osf.io/6thw4/download", fileEncoding = "UTF-8")
 names(mar2024)[1] = "Ranking"
@@ -139,8 +143,8 @@ names(dec2019)[1] = "Ranking"
 ``` python
 import pandas as pd
 
-## March 2024
-url = "https://osf.io/6thw4/download"
+## June 2024
+url = "https://osf.io/548gr/download"
 df = pd.read_csv(url, index_col=0)
 ```
 
@@ -197,4 +201,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[March 1, 2024](CHANGELOG.md).
+[June 2, 2024](CHANGELOG.md).
