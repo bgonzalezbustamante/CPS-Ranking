@@ -301,7 +301,7 @@ Name <- c(POHGEtYAAAAJ$name, ## Alejandro Olivares L.
           Y9qxhQ8AAAAJ$name, ## Cecilia Osorio Gonnet
           ZJSbAAAAAJ$name, ## Cesar Ross
           hEwq8AAAAJ$name, ## Christopher Martínez
-          nj4yvK0AAAAJ$name, ## Claudia Heiss
+          "Claudia Heiss", ## nj4yvK0AAAAJ$name
           ckIjzZQAAAAJ$name, ## Claudio Fuentes
           vLROxScAAAAJ$name, ## Claudio Fuentes-González
           "Cristian Garay Vera", ## QQq0cAAAAJ$name
