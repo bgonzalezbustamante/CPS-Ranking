@@ -264,7 +264,7 @@ ybpn9pEAAAAJ <- get_profile('ybpn9pEAAAAJ') ## Martin Schuster
 RrzlOTIAAAAJ <- get_profile('RrzlOTIAAAAJ') ## Pedro Fierro
 NLiNCD0AAAAJ <- get_profile('NLiNCD0AAAAJ') ## Emmanuelle Barozet
 pAw2bwAAAAJ <- get_profile('1pAw2bwAAAAJ') ## Pamela Figueroa Rubio
-desdAPoAAAAJ <- get_profile('desdAPoAAAAJ') ## egos
+desdAPoAAAAJ <- get_profile('desdAPoAAAAJ') ## Ignacio Cienfuegos
 JKUtx6oAAAAJ <- get_profile('JKUtx6oAAAAJ') ## Susana Riquelme Parra
 
 ## Sample March 2024
