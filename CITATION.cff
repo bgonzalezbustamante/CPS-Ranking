@@ -14,8 +14,8 @@ authors:
   given-names: "Rodrigo"
   orcid: "https://orcid.org/0000-0002-5980-1908"
 title: "Chilean Political Science Ranking"
-version: "4.3.7"
+version: "4.4.8"
 doi: 10.17605/OSF.IO/C8PRA
-date-released: 2024-03-01
+date-released: 2024-06-02
 url: "https://github.com/bgonzalezbustamante/CPS-Ranking"
 type: data
