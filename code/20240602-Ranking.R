@@ -1028,7 +1028,7 @@ Affiliation <- c("UMAYOR", ## 1. Alejandro Olivares L.
                  "UDP", ## 96. Rodrigo Osorio
                  "UDP", ## 97. Rossana Castiglioni
                  "UCHILE", ## 98. Sandra Baquedano
-                 ## "UCT", ## Sebastián Carrasco (deletec account)
+                 ## "UCT", ## Sebastián Carrasco (deleted account)
                  "TLU-UAM", ## 99. Sebastián Umpierrez
                  "UMAYOR", ## 100. Sergio Toro Maureira
                  "UAH", ## 101. Shirley Gotz
