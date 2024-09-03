@@ -2,7 +2,7 @@
 **Chilean Political Science Ranking** \
 **https://training-datalab.com/projects/cps-ranking**
 
-[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_5_8.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_3_3.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_5_9.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_3_3.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -16,30 +16,30 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Quarterly Series
 
-- September 2024, *forthcoming*
-- [June 2024](https://training-datalab.com/projects/cps-ranking/2024-06-02-impact-ranking)
-- [March 2024](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking)
-- [December 2023](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking)
-- [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
-- [June 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
-- [March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
-- [December 2022](https://training-datalab.com/projects/cps-ranking/2022-12-05-impact-ranking)
-- [September 2022](https://training-datalab.com/projects/cps-ranking/2022-09-01-impact-ranking)
-- [June 2022](https://training-datalab.com/projects/cps-ranking/2022-06-02-impact-ranking)
-- [March 2022](https://training-datalab.com/projects/cps-ranking/2022-03-01-impact-ranking)
-- [December 2021](https://training-datalab.com/projects/cps-ranking/2021-12-02-impact-ranking)
-- [September 2021](https://training-datalab.com/projects/cps-ranking/2021-09-01-impact-ranking)
-- [June 2021](https://training-datalab.com/projects/cps-ranking/2021-06-01-impact-ranking)
-- [March 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking)
-- [December 2020](https://training-datalab.com/projects/cps-ranking/2020-12-01-impact-ranking)
-- [September 2020](https://training-datalab.com/projects/cps-ranking/2020-09-05-impact-ranking)
-- [June 2020](https://training-datalab.com/projects/cps-ranking/2020-06-02-impact-ranking)
-- [March 2020](https://training-datalab.com/projects/cps-ranking/2020-03-05-impact-ranking)
-- [December 2019](https://training-datalab.com/projects/cps-ranking/2019-12-02-impact-ranking)
+- [September 2024](https://training-datalab.com/cps-ranking/2024-09-02-impact-ranking)
+- [June 2024](https://training-datalab.com/cps-ranking/2024-06-02-impact-ranking)
+- [March 2024](https://training-datalab.com/cps-ranking/2024-03-01-impact-ranking)
+- [December 2023](https://training-datalab.com/cps-ranking/2023-12-03-impact-ranking)
+- [September 2023](https://training-datalab.com/cps-ranking/2023-09-01-impact-ranking)
+- [June 2023](https://training-datalab.com/cps-ranking/2023-06-01-impact-ranking)
+- [March 2023](https://training-datalab.com/cps-ranking/2023-03-03-impact-ranking)
+- [December 2022](https://training-datalab.com/cps-ranking/2022-12-05-impact-ranking)
+- [September 2022](https://training-datalab.com/cps-ranking/2022-09-01-impact-ranking)
+- [June 2022](https://training-datalab.com/cps-ranking/2022-06-02-impact-ranking)
+- [March 2022](https://training-datalab.com/cps-ranking/2022-03-01-impact-ranking)
+- [December 2021](https://training-datalab.com/cps-ranking/2021-12-02-impact-ranking)
+- [September 2021](https://training-datalab.com/cps-ranking/2021-09-01-impact-ranking)
+- [June 2021](https://training-datalab.com/cps-ranking/2021-06-01-impact-ranking)
+- [March 2021](https://training-datalab.com/cps-ranking/2021-03-01-impact-ranking)
+- [December 2020](https://training-datalab.com/cps-ranking/2020-12-01-impact-ranking)
+- [September 2020](https://training-datalab.com/cps-ranking/2020-09-05-impact-ranking)
+- [June 2020](https://training-datalab.com/cps-ranking/2020-06-02-impact-ranking)
+- [March 2020](https://training-datalab.com/cps-ranking/2020-03-05-impact-ranking)
+- [December 2019](https://training-datalab.com/cps-ranking/2019-12-02-impact-ranking)
 
 ## Researchers to be Added
 
-1.
+1. Rocio Zepeda Majmud (ID TvCsGuwAAAAJ).
 
 *Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by December 2024.*
 
@@ -206,4 +206,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[September 2, 2024](CHANGELOG.md).
+[September 3, 2024](CHANGELOG.md).
