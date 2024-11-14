@@ -13,6 +13,11 @@ All notable changes to "CPS-Ranking" will be documented in this file.
 
 ## [Released]
 
+## [4.5.10] - 2024-11-14
+### Changed
+- Update of researchers to be added.
+- Minor corrections.
+
 ## [4.5.9] - 2024-09-03
 ### Changed
 - Update of researchers to be added.
