@@ -36,7 +36,7 @@ This Code of Conduct applies within all project spaces, and also applies when an
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the project administrators responsible for enforcement at bastian.gonzalezbustamante@politics.ox.ac.uk.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the project administrators responsible for enforcement at b.a.gonzalez.bustamante@fgga.leidenuniv.nl.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -62,8 +62,7 @@ Project administrators will follow these Project Impact Guidelines in determinin
 
 **Project Community Impact**: A serious violation of project standards, including sustained inappropriate behaviour.
 
-**Consequence**: A temporary ban from any sort of interaction or public communication with the project community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consequence**: A temporary ban from any sort of interaction or public communication with the project community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
