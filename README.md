@@ -2,7 +2,7 @@
 **Chilean Political Science Ranking** \
 **https://training-datalab.com/cps-ranking**
 
-[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_5_11.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_3_3.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/v_4_6_11.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/doi_cps.svg)](https://doi.org/10.17605/OSF.IO/C8PRA) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/r_4_3_3.svg)](https://cran.r-project.org/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/CPS-Ranking/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -16,6 +16,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Quarterly Series
 
+- [December 2024](https://training-datalab.com/cps-ranking/2024-12-05-impact-ranking)
 - [September 2024](https://training-datalab.com/cps-ranking/2024-09-02-impact-ranking)
 - [June 2024](https://training-datalab.com/cps-ranking/2024-06-02-impact-ranking)
 - [March 2024](https://training-datalab.com/cps-ranking/2024-03-01-impact-ranking)
@@ -39,12 +40,9 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 ## Researchers to be Added
 
-1. Rocio Zepeda Majmud (ID TvCsGuwAAAAJ).
-2. Ariel Alvarez Martinez (ID 4qdstdgAAAAJ).
-3. Jaquelin Morillo Remesnitzky (ID 1ZuEcHUAAAAJ).
-4. Tito Olavarría A. (ID Wb0oL9gAAAAJ).
+1.
 
-*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by December 2024.*
+*Note: If you like to suggest someone, please [open an issue](https://github.com/bgonzalezbustamante/CPS-Ranking/issues/new) on GitHub or send an email to  cps-ranking@training-datalab.com. The next measurement will be collected by March 2025.*
 
 ## Disclaimer
 
@@ -65,6 +63,10 @@ We used `R v4.3.3 -- Angel Food Cake` and `scholar v0.2.4` package. In early scr
 #### R Code
 
 ``` r
+## December 2024
+dec2024 <- read.csv("https://osf.io/97c36/download", fileEncoding = "UTF-8")
+names(dec2024)[1] = "Ranking"
+
 ## September 2024
 sep2024 <- read.csv("https://osf.io/sndp6/download", fileEncoding = "UTF-8")
 names(sep2024)[1] = "Ranking"
@@ -151,8 +153,8 @@ names(dec2019)[1] = "Ranking"
 ``` python
 import pandas as pd
 
-## June 2024
-url = "https://osf.io/sndp6/download"
+## December 2024
+url = "https://osf.io/97c36/download"
 df = pd.read_csv(url, index_col=0)
 ```
 
@@ -209,4 +211,4 @@ Patricio Navia ([ORCID iD 0000-0001-9398-8393](https://orcid.org/0000-0001-9398-
 
 ### Last updated
 
-[November 24, 2024](CHANGELOG.md).
+[December 5, 2024](CHANGELOG.md).
